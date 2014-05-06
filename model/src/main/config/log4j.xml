@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd" >
+<log4j:configuration>
+
+    <appender name="consoleAppender" class="org.apache.log4j.ConsoleAppender">
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d [%t] %-4r (%F:%L) %-5p %c %x - %m%n"/>
+        </layout>
+    </appender>
+
+    <appender name="fileAppender" class="org.apache.log4j.RollingFileAppender">
+        <param name="append" value="true"/>
+        <param name="file" value="log/console.log"/>
+        <param name="MaxFileSize" value="100MB"/>
+        <param name="MaxBackupIndex" value="5"/>
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d [%t] %-4r (%F:%L) %-5p %c %x - %m%n"/>
+        </layout>
+    </appender>
+
+    <!-- ReportFileAppender - used to log messages in the report.log file. -->
+    <appender name="ReportFile" class="org.apache.log4j.RollingFileAppender">
+        <param name="append" value="false"/>
+        <param name="file" value="log/user.html"/>
+        <param name="MaxFileSize" value="10MB"/>
+        <layout class="org.apache.log4j.HTMLLayout">
+            <param name="ConversionPattern" value="%d [%t] %-4r (%F:%L) %-5p %c %x - %m%n"/>
+        </layout>
+    </appender>
+
+    <!-- AdminFile - used to log messages in the admin_new.log file. -->
+    <appender name="AdminFile" class="org.apache.log4j.RollingFileAppender">
+        <param name="append" value="false"/>
+        <param name="file" value="log/admin_new.html"/>
+        <param name="MaxFileSize" value="100MB"/>
+        <layout class="org.apache.log4j.HTMLLayout">
+            <param name="ConversionPattern" value="%d [%t] %-4r (%F:%L) %-5p %c %x - %m%n"/>
+        </layout>
+    </appender>
+
+    <appender name="LocChoiceFile" class="org.apache.log4j.FileAppender">
+        <param name="append" value="false"/>
+        <param name="file" value="log/locationChoice.csv"/>
+        <param name="Threshold" value="INFO" />
+        <layout class="core.LocationChoicePatternLayout">
+            <param name="ConversionPattern" value="%m%n"/>
+        </layout>
+    </appender>
+
+    <appender name="LocChoiceConsole" class="org.apache.log4j.FileAppender">
+        <param name="append" value="false"/>
+        <param name="file" value="log/locationChoiceConsole.log"/>
+        <param name="Threshold" value="INFO" />
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%m%n"/>
+        </layout>
+    </appender>
+
+    <appender name="ModeChoiceFile" class="org.apache.log4j.FileAppender">
+        <param name="append" value="false"/>
+        <param name="file" value="log/modeChoice.csv"/>
+        <param name="Threshold" value="INFO" />
+        <layout class="core.ModeChoicePatternLayout">
+            <param name="ConversionPattern" value="%m%n"/>
+        </layout>
+    </appender>
+
+    <appender name="ModeChoiceConsoleAppender" class="org.apache.log4j.FileAppender">
+        <param name="append" value="false"/>
+        <param name="file" value="log/locationChoiceConsole.log"/>
+        <param name="Threshold" value="INFO" />
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%m%n"/>
+        </layout>
+    </appender>
+
+    <appender name="SetLocationAppender" class="org.apache.log4j.RollingFileAppender">
+        <param name="append" value="false"/>
+        <param name="file" value="log/SetLocation.log"/>
+        <param name="MaxFileSize" value="2MB"/>
+        <param name="MaxBackupIndex" value="5"/>
+        <param name="Threshold" value="INFO"/>
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%-22d{dd/MMM/yyyy HH:mm:ss} %-8p %c [%t] - %m (%l)%n"/>
+        </layout>
+    </appender>
+
+    <appender name="AllocatedIndConsoleAppender" class="org.apache.log4j.FileAppender">
+        <param name="append" value="false"/>
+        <param name="file" value="log/AllocatedIndConsole.log"/>
+        <param name="Threshold" value="INFO" />
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%m%n"/>
+        </layout>
+    </appender>
+
+
+    <logger name="core.ModelMain">
+        <level value="DEBUG"/>
+    </logger>
+
+    <logger name="core">
+        <level value="DEBUG"/>
+    </logger>
+
+    <logger name="servlet">
+        <level value="DEBUG"/>
+    </logger>
+
+    <logger name="org.hibernate">
+        <level value="WARN"/>
+    </logger>
+
+    <logger name="org.springframework">
+        <level value="WARN"/>
+    </logger>
+
+
+    <logger name="LocationChoice">
+        <level value="INFO"/>
+        <appender-ref ref="LocChoiceFile"/>
+    </logger>
+
+    <logger name="LocationChoiceConsole">
+        <level value="INFO"/>
+        <appender-ref ref="LocChoiceConsole"/>
+    </logger>
+
+    <logger name="ModeChoice">
+        <level value="INFO"/>
+        <appender-ref ref="ModeChoiceFile"/>
+    </logger>
+
+    <logger name="ModeChoiceConsole">
+        <level value="INFO"/>
+        <appender-ref ref="ModeChoiceConsoleAppender"/>
+    </logger>
+
+    <logger name="SetLocation">
+        <level value="INFO"/>
+        <appender-ref ref="SetLocationAppender"/>
+    </logger>
+
+    <logger name="AllocatedIndConsole">
+        <level value="INFO"/>
+        <appender-ref ref="AllocatedIndConsoleAppender"/>
+    </logger>
+
+    <root>
+        <level value="INFO"/>
+        <appender-ref ref="consoleAppender"/>
+        <appender-ref ref="fileAppender"/>
+    </root>
+
+</log4j:configuration>
+

@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<!doctype html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Configuration Forms</title>
+<script src="js/jquery/jQuery 1.9.1.js"></script>
+<script src="js/jquery/jquery.validate.js"></script>
+<script src="js/control.js"></script>
+<script src="js/jquery/jquery-ui-1.10.1.custom.js"></script>
+<link rel="stylesheet" href="css\jquery-ui-1.10.1.custom.css"
+	type="text/css" />
+<style>
+label {
+	display: inline-block;
+	width: 5em;
+}
+
+fieldset div {
+	margin-bottom: 2em;
+}
+
+fieldset .help {
+	display: inline-block;
+}
+
+.ui-tooltip {
+	width: 210px;
+}
+</style>
+<script>
+	var dwellingSchemaResult;
+	$(document).ready(
+			function() {
+				
+				getDwellingSchema();
+
+				$("#tabs").tabs();
+
+			//	var tooltips = $("[title]").tooltip();
+			//	$("<button>").text("Show help").button().click(function() {
+			//		tooltips.tooltip("open");
+			//	}).insertAfter("form");
+
+				$('#target').submit(function() {
+					submitTable();
+				});
+
+				$("#target").validate({
+					submitHandler : function(form) {
+						form.submit();
+					}
+				});
+
+				$("#agent_number").rules("add", {
+					required : true,
+					number : true,
+					min : 1
+				});
+
+				$("#get_configuration").click(function() {
+					getConfiguration();
+				});
+
+				$("#get_schema").click(function() {
+					showDwellingSchema($("#schema_select"));
+				});
+
+				$("#get_schema_increase").click(function() {
+					showDwellingSchema($("#schema_choose_increase"));
+				});
+
+				$("#choose_schema").click(function() {
+					showDwellingSchema($("#schema_choose"));
+				});
+				
+				$("#choose_schema_i").click(function() {
+					showDwellingSchema($("#form_1"));
+				});
+
+				//$("#choose_year").change(function() {
+				//   getDwellingCapacity($("#schema_choose").val(),$("#choose_year").val());
+				//});
+
+				//$("#dwelling_update").click(function() {
+				// alert("click");
+
+				// update();
+				//   alert(sqlArray);
+				// sqlArray = [];
+				// });
+
+
+				$("#export").click(
+						function() {
+		
+								exportDwellingCSV($("#save_path").val(),
+									$("#schema_choose").val(),
+									$("#choose_year").val());
+
+						});
+				
+				$("#export_l").click(
+						function() {
+				exportTableCSV($("#save_path_l").val(),$("#choose_table_l").val());
+						});
+				
+				$("#export_sp").click(
+						function() {
+				exportTableCSV($("#save_path_sp").val(),$("#choose_table_sp").val());
+						});
+				
+				$("#export_t").click(
+						
+						function() {
+							//alert($("#choose_table_t").val());
+							if($("#choose_table_t").val()==="public.transims_activity_location"){
+								exportTableCSV($("#save_path_t").val(),$("#choose_table_t").val());
+				}else{
+					
+					exportFile($("#save_path_t").val(),$("#choose_table_t").val());
+				}
+						});
+				//$("#import").click(function(){
+				//	var s = $("#choose_file").val();
+				//	s=s.substring(12);
+				//	s=$("#save_path").val()+s;
+				//	importCSV(s,$("#schema_choose").val(),$("#choose_year").val());
+				//});
+
+				  $("#submit_button_d").click(function(){
+					  var data = new FormData(document.forms.namedItem("dwelling_upload"));
+					importDwellingCSV($("#form_1").val(),$("#form_2").val(),data);
+					//alert("loading...");
+				  });
+				  
+				  $("#submit_button_sp").click(function(){
+					  var data = new FormData(document.forms.namedItem("table_upload_sp"));
+						importTableCSV($("#choose_table_sp").val(),data);
+						//alert("loading...");
+						//getLog();
+						  });
+				 // $("#upload_table_l").submit(function(){
+				//	  var data = new FormData(document.forms.namedItem("table_upload_l"));
+				//		importTableCSV($("#choose_table_l").val(),data);
+				//		alert("loading...");
+				//		//getLog();
+				//		  });
+				 
+				 $("#submit_button_l").click(function(){
+						 var data = new FormData(document.forms.namedItem("table_upload_l"));
+							importTableCSV($("#choose_table_l").val(),data);
+				 });
+				  
+				 $("#submit_button_file").click(function(){
+					  var data = new FormData(document.forms.namedItem("file_uploader"));
+				//	  alert($("#choose_file_t").val());
+					 
+					 if($("#choose_file_t").val()==="public.transims_activity_location"){
+						 importTableCSV($("#choose_file_t").val(),data);
+						 
+					 }else{
+						 importFile($("#choose_file_t").val(),data); 
+					 }
+					 
+					// alert("loading...");
+						
+						//getLog();
+						  });
+
+				$("#dwelling_increase").click(function() {
+					increase($("#precentage").val());
+				});
+
+				$("#run").click(function() {
+					run();
+				});
+
+			});
+</script>
+</head>
+<body>
+	<div id="tabs">
+		<ul>
+			<li><a href="#tabs-1">Create Configuration</a></li>
+			<li><a href="#tabs-4">Run</a></li>
+			<!--             <li>
+                    <a href="#tabs-3">Dwelling Increase</a>
+                </li>-->
+                <li><a href="#tabs-2">Dwelling Export</a></li>
+			<li><a href="#tabs-3">Dwelling Import</a></li>
+			
+			<!-- 	<li><a href="#tabs-4">Run</a></li>>-->
+
+<li><a href="#tabs-6">Synthetic Population Export</a></li>
+			<li><a href="#tabs-5">Synthetic Population Import</a></li>
+			
+<li><a href="#tabs-8">Liveability Export</a></li>
+			<li><a href="#tabs-7">Liveability Import</a></li>
+			
+<li><a href="#tabs-10">Transport Export</a></li>
+			<li><a href="#tabs-9">Transport Import</a></li>
+			
+		</ul>
+		<div id="tabs-1">
+			<p>Please fill parameters.</p>
+			<form id="target">
+				<fieldset>
+					<div>
+						<label for="agent_number">Number of Agent</label> <input
+							id="agent_number" name="agent_number"
+							title="Please provide the agent number." />
+					</div>
+
+					<table>
+						<tr>
+							<td>Choose shapefile:</td>
+							<td><select id="shapefile" ,class="chosen"
+								style="width: 200px;">
+									<option value="base" selected="selected">Base</option>
+									<option value="m">m</option>
+									<option value="n">n</option>
+									<option value="o">o</option>
+							</select></td>
+						</tr>
+						<tr>
+							<td>Choose start year:</td>
+							<td><select id="start_year" ,class="chosen"
+								style="width: 200px;">
+
+									<option value="2006" selected="selected">2006</option>
+									<option value="2007">2007</option>
+									<option value="2008">2008</option>
+									<option value="2009">2009</option>
+									<option value="2010">2010</option>
+									<option value="2011">2011</option>
+									<option value="2012">2012</option>
+									<option value="2013">2013</option>
+									<option value="2014">2014</option>
+									<option value="2015">2015</option>
+									<option value="2016">2016</option>
+									<option value="2017">2017</option>
+									<option value="2018">2018</option>
+									<option value="2019">2019</option>
+									<option value="2020">2020</option>
+									<option value="2021">2021</option>
+									<option value="2022">2022</option>
+									<option value="2023">2023</option>
+									<option value="2024">2024</option>
+							</select></td>
+
+						</tr>
+						<tr>
+							<td>Choose running years:</td>
+							<td><select id="running_year" ,class="chosen"
+								style="width: 200px;">
+									<option value="1">1</option>
+									<option value="2">2</option>
+									<option value="3">3</option>
+									<option value="4">4</option>
+									<option value="5">5</option>
+									<option value="6">6</option>
+									<option value="7">7</option>
+									<option value="8">8</option>
+									<option value="9">9</option>
+									<option value="10">10</option>
+									<option value="11">11</option>
+									<option value="12">12</option>
+									<option value="13">13</option>
+									<option value="14">14</option>
+									<option value="15">15</option>
+									<option value="16">16</option>
+									<option value="17">17</option>
+									<option value="18">18</option>
+									<option value="19">19</option>
+									<option value="20" selected="selected">20</option>
+							</select></td>
+
+						</tr>
+					</table>
+
+				</fieldset>
+				<input type="submit" value="Submit" />
+			</form>
+		</div>
+
+		<div id="tabs-4">
+			<div>
+				<button id="get_configuration">Show Configuration</button>
+			</div>
+			<div>
+				<select id="id_select">
+
+				</select>
+			</div>
+
+			<div>
+				<button id="get_schema">Show Dwelling Schema</button>
+			</div>
+			<div>
+				<select id="schema_select">
+
+				</select>
+			</div>
+
+			<div>
+				<p name="agent_number"></p>
+				<p name="shapefile"></p>
+				<p name="start_year"></p>
+				<p name="running_year"></p>
+			</div>
+
+			<div>
+				<label for="random_seed">Random seed</label> <input id="random_seed"
+					name="random_seed" title="Please provide the random seed." />
+			</div>
+
+			<div>
+				<button id="run">Run</button>
+			</div>
+
+		</div>
+
+		<div id="tabs-2">
+			<div>
+				<button id="choose_schema">choose Dwelling Schema</button>
+			</div>
+			<div>
+				<select id="schema_choose">
+
+				</select>
+			</div>
+
+			<div>
+				<p>Choose year:</p>
+				<select id="choose_year" ,class="chosen" style="width: 200px;"
+					onchange="">
+
+
+					<option value="2006">2006</option>
+					<option value="2007">2007</option>
+					<option value="2008">2008</option>
+					<option value="2009">2009</option>
+					<option value="2010">2010</option>
+					<option value="2011">2011</option>
+					<option value="2012">2012</option>
+					<option value="2013">2013</option>
+					<option value="2014">2014</option>
+					<option value="2015">2015</option>
+					<option value="2016">2016</option>
+					<option value="2017">2017</option>
+					<option value="2018">2018</option>
+					<option value="2019">2019</option>
+					<option value="2020">2020</option>
+					<option value="2021">2021</option>
+					<option value="2022">2022</option>
+					<option value="2023">2023</option>
+					<option value="2024">2024</option>
+					<option value="2024">2025</option>
+				</select>
+			</div>
+			<div>
+				<!--   <button id="dwelling_update">
+                            Update
+                        </button> -->
+                        <p>Location: </p>
+				<input id="save_path" value="/temp/"></input>
+				<button id="export">Export</button>
+
+			</div>
+		</div>
+		<div id="tabs-6">
+			<div>
+				<p>Choose Table:</p>
+				<select id="choose_table_sp" style="width: 200px;" onchange="">
+					<option value="life_event.birth_probability">birth
+						probability</option>
+					<option value="life_event.death_probability_female">death
+						probability female</option>
+					<option value="life_event.death_probability_male">death
+						probability male</option>
+					<option value="life_event.divorce_probability_female">divorce
+						probability female</option>
+					<option value="life_event.divorce_probability_male">divorce
+						probability male</option>
+					<option value="life_event.job_gain_probability_female">job
+						gain probability female</option>
+					<option value="life_event.job_gain_probability_male">job
+						gain probability male</option>
+					<option value="life_event.job_loss_probability_female">job
+						loss probability female</option>
+					<option value="life_event.job_loss_probability_male">job
+						loss probability male</option>
+					<option value="life_event.marriage_probability_female">marriage
+						probability female</option>
+					<option value="life_event.marriage_probability_male">marriage
+						probability male</option>
+					<option value="public.immigration_rate">immigration rate</option>
+
+
+				</select>
+
+				<div>
+					<!--   <button id="dwelling_update">
+                            Update
+                        </button> -->
+                        <p>Location: </p>
+					<input id="save_path_sp" value="/temp/"></input>
+					<button id="export_sp">Export</button>
+
+				</div>
+
+
+
+				<!-- <table id="myDataTable">
+					<thead>
+						<tr>
+							<th>TZ06</th>
+							<th>1BD</th>
+							<th>2BD</th>
+							<th>3BD</th>
+							<th>4BD</th>
+
+						</tr>
+					</thead>
+					<tbody>
+
+					</tbody>
+				</table> -->
+			</div>
+		</div>
+
+		<div id="tabs-8">
+			<div>
+				<p>Choose Table:</p>
+				<select id="choose_table_l" style="width: 200px;" onchange="">
+					<option value="public.weights">weights</option>
+
+				</select>
+
+				<div>
+				<p>Location: </p>
+					<input id="save_path_l" value="/temp/"></input>
+					<button id="export_l">Export</button>
+
+				</div>
+			</div>
+		</div>
+
+		<div id="tabs-3">
+			<div>
+				<div>
+					<button id="choose_schema_i">choose Dwelling Schema</button>
+				</div>
+				<div>
+					<select id="form_1">
+
+					</select>
+				</div>
+				<form id="upload_form" name="dwelling_upload">
+
+
+					year: <select id="form_2" ,class="chosen" style="width: 200px;"
+						onchange=" name="year">
+						<option value="2006">2006</option>
+						<option value="2007">2007</option>
+						<option value="2008">2008</option>
+						<option value="2009">2009</option>
+						<option value="2010">2010</option>
+						<option value="2011">2011</option>
+						<option value="2012">2012</option>
+						<option value="2013">2013</option>
+						<option value="2014">2014</option>
+						<option value="2015">2015</option>
+						<option value="2016">2016</option>
+						<option value="2017">2017</option>
+						<option value="2018">2018</option>
+						<option value="2019">2019</option>
+						<option value="2020">2020</option>
+						<option value="2021">2021</option>
+						<option value="2022">2022</option>
+						<option value="2023">2023</option>
+						<option value="2024">2024</option>
+						<option value="2025">2025</option>
+					</select><br /> File to upload: <input id="choose_file" type="file"
+						name="file" multipart="false" /><br /> <input id="submit_button_d" type="button"
+						value="Import"><br />
+				</form>
+			</div>
+		</div>
+		<div id="tabs-5">
+			<div>
+				<form id="upload_table_sp" name="table_upload_sp">
+
+					<p>Choose Table:</p>
+					 <select id="choose_table_sp" style="width: 200px;"
+						onchange="">
+						<option value="life_event.birth_probability">birth
+							probability</option>
+						<option value="life_event.death_probability_female">death
+							probability female</option>
+						<option value="life_event.death_probability_male">death
+							probability male</option>
+						<option value="life_event.divorce_probability_female">divorce
+							probability female</option>
+						<option value="life_event.divorce_probability_male">divorce
+							probability male</option>
+						<option value="life_event.job_gain_probability_female">job
+							gain probability female</option>
+						<option value="life_event.job_gain_probability_male">job
+							gain probability male</option>
+						<option value="life_event.job_loss_probability_female">job
+							loss probability female</option>
+						<option value="life_event.job_loss_probability_male">job
+							loss probability male</option>
+						<option value="life_event.marriage_probability_female">marriage
+							probability female</option>
+						<option value="life_event.marriage_probability_male">marriage
+							probability male</option>
+						<option value="public.immigration_rate">immigration rate</option>
+					</select> <br> 
+					<p>upload:</p>
+					<input id="choose_file_sp" type="file"
+						name="file" multipart="false" /><br /> <input id="submit_button_sp" type="button"
+						value="Import"><br />
+				</form>
+			</div>
+		</div>
+
+		<div id="tabs-7">
+			<div>
+				<form id="upload_table_l" name="table_upload_l">
+
+					<p>Choose Table:</p> 
+					<select id="choose_table_l" style="width: 200px;"
+						onchange="">
+						<option value="public.weights">weights</option>
+
+					</select> <br> 
+					<p>upload:</p> 
+					<input id="choose_file_l" type="file"
+						name="file" multipart="false" /><br /> <input id="submit_button_l" type="button"
+						value="Import"><br />
+				</form>
+			</div>
+		</div>
+
+		<div id="tabs-10">
+			<div>
+				<p>Choose Table:</p>
+				<select id="choose_table_t" style="width: 200px;" onchange="">
+					<option value="Transit_Schedule">timetable per stop</option>
+					<option value="Vehicle_Type.txt">capacity per vehicle</option>
+					<option value="Transit_Route">public transport services
+						network</option>
+					<option value="Transit_Stop">stop locations</option>
+					<option value="Link">road networks - capacity and nodes</option>
+					<option value="Signalized_Node_2">traffic light phasing</option>
+					<option value="public.transims_activity_location">available
+						facilities shapefiles</option>
+				</select>
+
+				<div>
+				<p>Location:</p>
+					<input id="save_path_t" value="/temp/"></input>
+					<button id="export_t">Export</button>
+
+				</div>
+			</div>
+		</div>
+
+		<div id="tabs-9">
+			<div>
+				<form id="upload_file" name="file_uploader">
+
+					<p>Choose Table: </p>
+					<select id="choose_file_t" style="width: 200px;"
+						onchange="">
+						<option value="Transit_Schedule">timetable per stop</option>
+						<option value="Vehicle_Type.txt">capacity per vehicle</option>
+						<option value="Transit_Route">public transport services
+							network</option>
+						<option value="Transit_Stop">stop locations</option>
+						<option value="Link">road networks - capacity and nodes</option>
+						<option value="Signalized_Node_2">traffic light phasing</option>
+						<option value="public.transims_activity_location">available
+							facilities shapefiles</option>
+
+					</select> <br> 
+					<p>upload: </p>
+					<input id="choose_file_t" type="file"
+						name="file" multipart="false" /><br /> <input id="submit_button_file" type="button"
+						value="Import"><br />
+				</form>
+			</div>
+		</div>
+
+		<!--        <div id="tabs-3">
+            <div>
+                    <button id="get_schema_increase">
+                        choose Dwelling Schema
+                    </button>
+                </div>
+                <div>
+                    <select id="schema_choose_increase">
+
+                    </select>
+                </div>
+                <div>
+                    <label for="precentage">Precentage: </label>
+                    <input id="precentage" title="Please provide the increase precentage." />
+
+                    <button id="dwelling_increase">
+                        Increase
+                    </button>
+                    <p>
+                        Please enter a value for the desired percent increase in available dwellings in the study area per year.
+                    </p>
+                </div>
+            </div> -->
+	</div>
+    <div id="dialog-message" title="Download complete">
+</body>
+</html>

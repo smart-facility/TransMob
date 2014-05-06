@@ -1,0 +1,2 @@
+C:/transims/RandwickBus/
+usr/local/transims/RandwickBus/

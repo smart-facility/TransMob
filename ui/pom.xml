@@ -1,0 +1,121 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <parent>
+        <artifactId>TransportNSW_TravelDiaryCodes1</artifactId>
+        <groupId>uow.edu.au</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>ui</artifactId>
+    <packaging>war</packaging>
+
+    <name>Transport NSW UI  Webapp</name>
+    <url>http://maven.apache.org</url>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>uow.edu.au</groupId>
+            <artifactId>model</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+        </dependency>
+        
+        <dependency>
+            	<groupId>org.springframework</groupId>
+            	<artifactId>spring-web</artifactId>
+        </dependency>
+        
+         <dependency>
+           <groupId>com.jcraft</groupId>
+            	<artifactId>jsch</artifactId>
+           </dependency>
+
+    </dependencies>
+
+    <build>
+        <filters>
+            <filter>${basedir}/../config/base.properties</filter>
+            <filter>${basedir}/../config/developer.properties</filter>
+        </filters>
+
+        <resources>
+            <resource>
+                <!-- Filter the application context -->
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+                <includes>
+                    <include>**/UIapplicationContext.xml</include>
+                </includes>
+            </resource>
+            <resource>
+                <!-- But don't filter the other files -->
+                <directory>src/main/resources</directory>
+                <filtering>false</filtering>
+                <excludes>
+                    <exclude>**/UIapplicationContext.xml</exclude>
+                </excludes>
+            </resource>
+        </resources>
+
+
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>copy-resources</id>
+                        <phase>validate</phase>
+                        <goals>
+                            <goal>copy-resources</goal>
+                        </goals>
+                        <!-- Copy and filter our environment properties -->
+                        <configuration>
+                            <outputDirectory>${basedir}/target</outputDirectory>
+                            <resources>
+                                <resource>
+                                    <directory>src/main/config</directory>
+                                    <filtering>true</filtering>
+                                </resource>
+                            </resources>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+             <plugin>
+        		<artifactId>maven-war-plugin</artifactId>
+        		<configuration>
+          			<filteringDeploymentDescriptors>true</filteringDeploymentDescriptors>
+          			<filters>
+            			<filter>${basedir}/../config/base.properties</filter>
+            			<filter>${basedir}/../config/developer.properties</filter>
+       				</filters>
+       			</configuration>
+      		</plugin>
+        </plugins>
+    </build>
+    
+    <repositories>
+        <repository>
+            <id>3rdParty</id>
+            <url>file://${basedir}/../3rdPartyLibraries</url>
+        </repository>
+    </repositories>
+
+</project>

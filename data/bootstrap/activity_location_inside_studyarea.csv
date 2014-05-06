@@ -1,0 +1,1664 @@
+ID,activity_id,NAME,SUBURB,X,Y,TYPE,hotspotID,near_bus,near_train,note,travel_zone,note_entry
+0,86117,La Perouse_ Anzac Pde Terminus,None,336840,6237772,Bus station,69,1,1,BUS_STOP,557,0
+1,86118,La Perouse_ Anzac Pde opp Endeavour Av,None,336936,6237993,Bus station,73,1,1,BUS_STOP,557,0
+2,86119,La Perouse_ Anzac Pde nr Endeavour Av,None,336928,6238036,Bus station,73,1,1,BUS_STOP,557,0
+3,86120,Phillip Bay_ Anzac Pde nr Elaroo Av,None,337003,6238213,Bus station,77,1,1,BUS_STOP,557,0
+4,86121,Little Bay_ Anzac Pde nr Grose St,None,337023,6238198,Bus station,77,1,1,BUS_STOP,557,0
+5,86122,Little Bay_ Anzac Pde nr Budd Av,None,337477,6238473,Bus station,80,1,1,BUS_STOP,557,0
+6,86123,Phillip Bay_ Bunnerong Rd nr Anzac Pde,None,337108,6238470,Bus station,85,1,1,BUS_STOP,557,0
+7,86124,Phillip Bay_ Anzac Pde nr Canara Av,None,337060,6238390,Bus station,85,1,1,BUS_STOP,557,0
+8,86125,Little Bay_ Anzac Pde nr Bunnerong Rd,None,337104,6238405,Bus station,85,1,1,BUS_STOP,557,0
+9,86126,Little Bay_ Anzac Pde nr Budd Av,None,337458,6238533,Bus station,89,1,1,BUS_STOP,557,0
+10,86127,Little Bay_ Mirrabooka Cr nr Bega Av,None,337473,6238624,Bus station,89,1,1,BUS_STOP,557,0
+11,86128,Phillip Bay_ Bunnerong Rd nr Yarra Rd,None,337135,6238671,Bus station,89,1,1,BUS_STOP,557,0
+12,86129,Little Bay_ Anzac Pde nr Jennifer St,None,337686,6238489,Bus station,90,1,1,BUS_STOP,557,0
+13,86130,Little Bay_ Anzac Pde nr Jennifer St,None,337670,6238541,Bus station,90,1,1,BUS_STOP,557,0
+14,86131,Little Bay_ Anzac Pde nr Little Bay Rd,None,337795,6238635,Bus station,90,1,1,BUS_STOP,557,0
+15,86132,Little Bay_ Anzac Pde nr Little Bay Rd,None,337846,6238615,Bus station,90,1,1,BUS_STOP,557,0
+16,86133,Little Bay_ Mirrabooka Cr nr Woonah St,None,337691,6238664,Bus station,90,1,1,BUS_STOP,557,0
+17,86134,Little Bay_ Mirrabooka Cr nr Alkoo Av,None,337564,6238636,Bus station,90,1,1,BUS_STOP,557,0
+18,86135,Little Bay_ Mirrabooka Cr nr Alkoo Av,None,337555,6238651,Bus station,90,1,1,BUS_STOP,557,0
+19,86136,Little Bay_ Mirrabooka Cr nr Woonah St,None,337680,6238677,Bus station,90,1,1,BUS_STOP,557,0
+20,86137,Little Bay_ Mirrabooka Cr nr Little Bay Rd,None,337745,6238789,Bus station,90,1,1,BUS_STOP,554,0
+21,86138,Phillip Bay_ Yarra Rd nr Anzac Pde,None,337031,6238715,Bus station,93,1,1,BUS_STOP,557,0
+22,86139,Little Bay_ Woomera Rd nr Bega Av,None,337443,6238752,Bus station,96,1,1,BUS_STOP,557,0
+23,86140,Little Bay_ Woomera Rd nr Bega Av,None,337448,6238728,Bus station,96,1,1,BUS_STOP,557,0
+24,86141,Matraville_ Bunnerong Rd nr Little Bay Rd,None,337102,6239078,Bus station,96,1,1,BUS_STOP,554,0
+25,86142,Little Bay_ Mirrabooka Cr nr Little Bay Rd,None,337746,6238815,Bus station,99,1,1,BUS_STOP,554,0
+26,86143,Little Bay_ Woomera Rd nr Woonah St,None,337506,6238844,Bus station,99,1,1,BUS_STOP,557,0
+27,86144,Chifley_ Little Bay Rd nr Anzac Pde,None,337754,6238847,Bus station,99,1,1,BUS_STOP,554,0
+28,86145,Little Bay_ Little Bay Rd nr Mirrabooka Cr,None,337726,6238839,Bus station,99,1,1,BUS_STOP,554,0
+29,86146,Little Bay_ Woomera Rd nr Woonah St,None,337543,6238866,Bus station,99,1,1,BUS_STOP,554,0
+30,86147,Chifley_ Anzac Pde nr McKenzie Av,None,337753,6238909,Bus station,99,1,1,BUS_STOP,554,0
+31,86148,Little Bay_ Little Bay Rd nr Nurla Av,None,337497,6239000,Bus station,99,1,1,BUS_STOP,554,0
+32,86149,Chifley_ Little Bay Rd nr Lasseter Av,None,337468,6239044,Bus station,99,1,1,BUS_STOP,554,0
+33,86150,Little Bay_ Anzac Pde nr Nyan St,None,337784,6238952,Bus station,99,1,1,BUS_STOP,555,0
+34,86151,Malabar_ Bilga Cr nr Calga Av,None,338133,6239343,Bus station,102,1,1,BUS_STOP,555,0
+35,86152,Malabar_ Bilga Cr nr Calga Av,None,338150,6239361,Bus station,102,1,1,BUS_STOP,555,0
+36,86153,Malabar_ Bilga Cr nr Karoo Pl,None,337873,6239376,Bus station,103,1,1,BUS_STOP,555,0
+37,86154,Malabar_ Bilga Cr nr Karoo Pl,None,337894,6239392,Bus station,103,1,1,BUS_STOP,555,0
+38,86155,Chifley_ Anzac Pde nr Nyan St,None,337640,6239127,Bus station,104,1,1,BUS_STOP,554,0
+39,86156,Chifley_ Anzac Pde nr Kenny Av,None,337626,6239415,Bus station,104,1,1,BUS_STOP,554,0
+40,86157,Malabar_ Anzac Pde nr Bilga Cr,None,337679,6239409,Bus station,104,1,1,BUS_STOP,555,0
+41,86158,Little Bay_ Anzac nr Nyan,None,337680,6239189,Bus station,104,1,1,BUS_STOP,555,0
+42,86159,Malabar_ Bilga Cr nr Anzac Pde,None,337698,6239441,Bus station,104,1,1,BUS_STOP,555,0
+43,86160,Malabar_ Bilga Cr nr Anzac Pde,None,337705,6239459,Bus station,104,1,1,BUS_STOP,555,0
+44,86161,Malabar_ Bilga Cr nr Eucla Cr,None,338672,6239174,Bus station,105,1,1,BUS_STOP,555,0
+45,86162,Malabar_ Bilga Cr nr Woli Pl,None,338394,6239253,Bus station,105,1,1,BUS_STOP,555,0
+46,86163,Malabar_ Bilga Cr nr Eucla Cr,None,338663,6239192,Bus station,105,1,1,BUS_STOP,555,0
+47,86164,Malabar_ Bilga Cr nr Byna St,None,338372,6239287,Bus station,105,1,1,BUS_STOP,555,0
+48,86165,Malabar_ Bilga Cr nr Nix Av,None,338600,6239376,Bus station,105,1,1,BUS_STOP,555,0
+49,86166,Malabar_ Bilga Cr nr Prince Edward St,None,338754,6239351,Bus station,105,1,1,BUS_STOP,555,0
+50,86167,Malabar_ Bilga Cr nr Prince Edward St,None,338727,6239337,Bus station,105,1,1,BUS_STOP,555,0
+51,86168,Malabar_ Nix Av nr Bilga Cr,None,338552,6239426,Bus station,105,1,1,BUS_STOP,555,0
+52,86169,Chifley_ Hastings Av nr Hall St,None,337355,6239361,Bus station,107,1,1,BUS_STOP,554,0
+53,86170,Chifley_ Hastings Av nr Little Bay Rd,None,337363,6239141,Bus station,107,1,1,BUS_STOP,554,0
+54,86171,Chifley_ Hastings Av nr Little Bay Rd,None,337348,6239161,Bus station,107,1,1,BUS_STOP,554,0
+55,86172,Chifley_ Hastings Av nr Hall St,None,337341,6239347,Bus station,107,1,1,BUS_STOP,554,0
+56,86173,Chifley_ Bunnerong Rd opp Botany Cemetery,None,337115,6239407,Bus station,107,1,1,BUS_STOP,553,0
+57,86174,Chifley_ Bunnerong Rd nr Little Bay Rd,None,337115,6239174,Bus station,107,1,1,BUS_STOP,553,0
+58,86175,Chifley_ Hastings Av nr Macquarie St,None,337245,6239573,Bus station,107,1,1,BUS_STOP,554,0
+59,86176,Chifley_ Macquarie St nr Hastings Av,None,337243,6239618,Bus station,107,1,1,BUS_STOP,554,0
+60,86177,Matraville_ Bunnerong Rd nr Botany Cemetery,None,337053,6239436,Bus station,107,1,1,BUS_STOP,553,0
+61,86178,Matraville_ Military Rd nr Botany Cemetery,None,336211,6239389,Bus station,108,1,1,BUS_STOP,553,0
+62,86179,Matraville_ Military Rd opp Botany Cemetery,None,336196,6239400,Bus station,108,1,1,BUS_STOP,553,0
+63,86180,Matraville_ Military Rd nr Millennium Ct,None,336375,6239545,Bus station,108,1,1,BUS_STOP,553,0
+64,86181,Matraville_ Military Rd opp Millennium Ct,None,336369,6239563,Bus station,108,1,1,BUS_STOP,553,0
+65,86182,Malabar_ Nix Av nr Adams Av,None,338484,6239617,Bus station,110,1,1,BUS_STOP,555,0
+66,86183,Malabar_ Nix Av nr Adams Av,None,338497,6239655,Bus station,110,1,1,BUS_STOP,555,0
+67,86184,Malabar_ Zions Av nr Prince Edward St,None,338601,6239714,Bus station,110,1,1,BUS_STOP,555,0
+68,86185,Malabar_ Prince Edward St nr Zion Av,None,338629,6239758,Bus station,110,1,1,BUS_STOP,555,0
+69,86186,Port Botany_ Bumborah Point Rd nr Friendship Rd,None,335960,6239576,Bus station,112,1,1,BUS_STOP,556,0
+70,86187,Matraville_ Bumborah Point Rd opp Friendship Rd,None,335975,6239525,Bus station,112,1,1,BUS_STOP,556,0
+71,86188,Port Botany Terminus,None,335987,6239776,Bus station,112,1,1,BUS_STOP,556,0
+72,86189,Chifley_ Macquarie St nr Forest St,None,337313,6239770,Bus station,114,1,1,BUS_STOP,554,0
+73,86190,Chifley_ Macquarie St nr Lasseter Av,None,337315,6239718,Bus station,114,1,1,BUS_STOP,554,0
+74,86191,Malabar_ Anzac Pde nr Forrest St,None,337590,6239715,Bus station,114,1,1,BUS_STOP,555,0
+75,86192,Chifley_ Anzac Pde nr Forrest St,None,337532,6239784,Bus station,114,1,1,BUS_STOP,554,0
+76,86193,Chifley_ Dampier St nr Eyre Av,None,337233,6239862,Bus station,114,1,1,BUS_STOP,554,0
+77,86194,Chifley_ Dampier St nr Eyre Av,None,337151,6239898,Bus station,114,1,1,BUS_STOP,554,0
+78,86195,Malabar_ Anzac Pde nr Long Bay Correctional Centre,None,337637,6239878,Bus station,114,1,1,BUS_STOP,555,0
+79,86196,Matraville_ Millennium Court,None,336640,6239619,Bus station,115,1,1,BUS_STOP,553,0
+80,86197,Matraville_ Military Rd nr Bunnerong Rd,None,336550,6239721,Bus station,115,1,1,BUS_STOP,554,0
+81,86198,Matraville_ Military Rd nr Bunnerong Rd,None,336537,6239732,Bus station,115,1,1,BUS_STOP,554,0
+82,86199,Chifley_ Bunnerong Rd nr Military Rd,None,336840,6239910,Bus station,115,1,1,BUS_STOP,553,0
+83,86200,Matraville_ Bunnerong Rd nr Military Rd,None,336813,6239883,Bus station,115,1,1,BUS_STOP,553,0
+84,86201,Chifley_ Dampier St nr Warburton St,None,337089,6239990,Bus station,115,1,1,BUS_STOP,554,0
+85,86202,Chifley_ Dampier St nr Wassell St,None,336989,6240100,Bus station,115,1,1,BUS_STOP,554,0
+86,86203,Chifley_ Wassell St nr Dampier St,None,337008,6240147,Bus station,115,1,1,BUS_STOP,554,0
+87,86204,Malabar_ Anzac Pde nr Mitchell St,None,337730,6240033,Bus station,116,1,1,BUS_STOP,555,0
+88,86205,Port Botany Bus Depot,None,335979,6239864,Bus station,117,1,1,BUS_STOP,556,0
+89,86206,Port Botany Bus Depot,None,335995,6239826,Bus station,117,1,1,BUS_STOP,556,0
+90,86207,Port Botany_ Bumborah Point Rd nr Botany Rd,None,335990,6240036,Bus station,117,1,1,BUS_STOP,556,0
+91,86208,Matraville_ Bumborah Point Rd nr Botany Rd,None,336009,6240027,Bus station,117,1,1,BUS_STOP,556,0
+92,86209,Malabar_ Prince Edward St nr Howe St,None,338555,6239858,Bus station,118,1,1,BUS_STOP,555,0
+93,86210,Malabar_ Prince Edward St nr Howe St,None,338533,6239856,Bus station,118,1,1,BUS_STOP,555,0
+94,86211,Malabar_ Prince Edward St nr Napier St,None,338456,6239993,Bus station,118,1,1,BUS_STOP,555,0
+95,86212,Malabar_ Bay Pde nr Howe St,None,338646,6240066,Bus station,118,1,1,BUS_STOP,555,0
+96,86213,Malabar_ Bay Pde nr Howe St,None,338636,6240058,Bus station,118,1,1,BUS_STOP,555,0
+97,86214,Chifley_ Anzac Pde nr Mitchell St,None,337668,6240041,Bus station,120,1,1,BUS_STOP,554,0
+98,86215,Malabar_ Prince Edward St nr Napier St,None,338399,6240041,Bus station,124,1,1,BUS_STOP,555,0
+99,86216,Malabar_ Raglan St nr Bay Pde,None,338395,6240343,Bus station,124,1,1,BUS_STOP,552,0
+100,86217,Malabar_ Raglan St nr Victoria St,None,338369,6240351,Bus station,124,1,1,BUS_STOP,552,0
+101,86218,Malabar_ Prince Edward St nr Raglan St,None,338246,6240274,Bus station,124,1,1,BUS_STOP,552,0
+102,86219,Malabar_ Prince Edward St nr Raglan St,None,338221,6240275,Bus station,124,1,1,BUS_STOP,552,0
+103,86220,Chifley_ Anzac Pde nr Austral St,None,337863,6240298,Bus station,125,1,1,BUS_STOP,554,0
+104,86221,Matraville_ Wassell St nr Burke St,None,337094,6240222,Bus station,127,1,1,BUS_STOP,554,0
+105,86222,Chifley_ Bunnerong Rd nr Moorina Av,None,336600,6240215,Bus station,127,1,1,BUS_STOP,549,0
+106,86223,Matraville_ Bunnerong Rd nr Moorina Av,None,336556,6240182,Bus station,127,1,1,BUS_STOP,549,0
+107,86224,Matraville_ Bunnerong Rd nr Partannia Av,None,336579,6240360,Bus station,127,1,1,BUS_STOP,549,0
+108,86225,Chifley_ Burke St nr Matraville High,None,337697,6240419,Bus station,128,1,1,BUS_STOP,554,0
+109,86226,Chifley_ Mitchell St nr Chifley Primary,None,337597,6240196,Bus station,129,1,1,BUS_STOP,554,0
+110,86227,Chifley_ Wassell St nr Burke St,None,337174,6240292,Bus station,129,1,1,BUS_STOP,554,0
+111,86228,Malabar_ Anzac Pde nr Austral St,None,337915,6240275,Bus station,130,1,1,BUS_STOP,552,0
+112,86229,Malabar_ Ireton St nr Austral St,None,337963,6240296,Bus station,130,1,1,BUS_STOP,552,0
+113,86230,Malabar_ Bay Pde nr Fox St,None,338549,6240242,Bus station,131,1,1,BUS_STOP,555,0
+114,86231,Malabar_ Bay Pde nr Fox St,None,338531,6240235,Bus station,131,1,1,BUS_STOP,555,0
+115,86232,Malabar_ Prince Edward St nr Ireton St,None,338167,6240383,Bus station,133,1,1,BUS_STOP,552,0
+116,86233,Malabar_ Prince Edward St nr Ireton St,None,338120,6240408,Bus station,134,1,1,BUS_STOP,552,0
+117,86234,Malabar_ Prince Edward St nr Ireton St,None,338118,6240447,Bus station,134,1,1,BUS_STOP,552,0
+118,86235,Malabar_ Prince Edward St nr St Andrews Primary,None,338080,6240470,Bus station,134,1,1,BUS_STOP,552,0
+119,86237,Matraville_ Bunnerong Rd nr Australia Av,None,336601,6240570,Bus station,136,1,1,BUS_STOP,549,0
+120,86238,Matraville_ Bunnerong Rd nr Australia Av,None,336641,6240559,Bus station,136,1,1,BUS_STOP,549,0
+121,86239,Matraville_ Botany Rd opp McCauley St,None,335726,6240383,Bus station,137,1,1,BUS_STOP,556,0
+122,86240,Matraville_ Botany Rd nr McCauley St,None,335741,6240412,Bus station,137,1,1,BUS_STOP,549,0
+123,86241,Malabar_ Anzac Pde nr Franklin St,None,338002,6240588,Bus station,140,1,1,BUS_STOP,552,0
+124,86242,Malabar_ Franklin St nr Malabar Primary,None,338159,6240719,Bus station,140,1,1,BUS_STOP,552,0
+125,86243,Malabar_ Anzac Pde nr Lawson St,None,337955,6240616,Bus station,141,1,1,BUS_STOP,551,0
+126,86244,Malabar_ Anzac Pde nr Franklin St,None,338010,6240664,Bus station,141,1,1,BUS_STOP,552,0
+127,86245,Chifley_ Wassell St nr Franklin St,None,337199,6240459,Bus station,143,1,1,BUS_STOP,554,0
+128,86246,Matraville_ Wassell St nr Franklin St,None,337186,6240489,Bus station,143,1,1,BUS_STOP,554,0
+129,86247,Matraville_ Franklin St nr Larose Av,None,337159,6240693,Bus station,143,1,1,BUS_STOP,551,0
+130,86248,Matraville_ Franklin St nr Wassell St,None,337136,6240677,Bus station,143,1,1,BUS_STOP,551,0
+131,86249,Matraville_ Franklin St nr Waterton Av,None,336929,6240735,Bus station,143,1,1,BUS_STOP,550,0
+132,86250,Matraville_ Franklin St nr Clarence St,None,336889,6240763,Bus station,143,1,1,BUS_STOP,550,0
+133,86262,Matraville_ Anzac Pde nr Hillary Pde,None,337970,6240915,Bus station,160,1,1,BUS_STOP,551,0
+134,86263,Malabar_ Anzac Pde nr Hillary Pde,None,338014,6240965,Bus station,160,1,1,BUS_STOP,547,0
+135,86264,Matraville_ Perry St nr Solander St,None,336270,6240875,Bus station,161,1,1,BUS_STOP,549,0
+136,86265,Matraville_ Perry St nr Bunnerong Rd,None,336532,6240843,Bus station,162,1,1,BUS_STOP,550,0
+137,86266,Matraville_ Bunnerong Rd nr Perry St,None,336557,6240904,Bus station,162,1,1,BUS_STOP,550,0
+138,86267,Matraville_ Bunnerong Rd nr Franklin St,None,336590,6240860,Bus station,162,1,1,BUS_STOP,550,0
+139,86268,Matraville_ Bunnerong Rd opp Daunt Av,None,336492,6241183,Bus station,162,1,1,BUS_STOP,550,0
+140,86269,Matraville_ Bunnerong Rd nr Daunt Av,None,336544,6241170,Bus station,162,1,1,BUS_STOP,550,0
+141,86273,Matraville_ Anzac Pde nr Truscott Av,None,337802,6241175,Bus station,168,1,1,BUS_STOP,551,0
+142,86274,Maroubra_ Anzac Pde opp Truscott Av,None,337819,6241258,Bus station,168,1,1,BUS_STOP,547,0
+143,86275,Matraville_ Bunnerong Rd nr Beauchamp Rd,None,336461,6241305,Bus station,170,1,1,BUS_STOP,550,0
+144,86276,Matraville_ Bunnerong Rd nr Beauchamp Rd,None,336502,6241330,Bus station,170,1,1,BUS_STOP,550,0
+145,86277,Matraville_ Beauchamp Rd nr Bunnerong Rd,None,336551,6241363,Bus station,170,1,1,BUS_STOP,550,0
+146,86278,Matraville_ Beauchamp Rd nr Bunnerong Rd,None,336564,6241385,Bus station,170,1,1,BUS_STOP,550,0
+147,86285,Matraville_ Anzac Pde nr St Spyridon School,None,337645,6241395,Bus station,179,1,1,BUS_STOP,548,0
+148,86286,Maroubra_ Anzac Pde nr St Spyridon Maroubra,None,337643,6241479,Bus station,179,1,1,BUS_STOP,547,0
+149,86287,Maroubra_ Beauchamp Rd nr Davidson Cr,None,337734,6241688,Bus station,179,1,1,BUS_STOP,544,0
+150,86288,Maroubra_ Beauchamp Rd nr Chicago Av,None,337817,6241716,Bus station,179,1,1,BUS_STOP,544,0
+151,86289,Maroubra_ Chicago Av nr Beauchamp Rd,None,337753,6241742,Bus station,179,1,1,BUS_STOP,545,0
+152,86290,Maroubra_ Broome St nr Beauchamp Rd,None,338128,6241556,Bus station,180,1,1,BUS_STOP,547,0
+153,86291,Matraville_ Beauchamp Rd nr Eastern Rd,None,337061,6241500,Bus station,181,1,1,BUS_STOP,548,0
+154,86292,Matraville_ Beauchamp Rd nr Gainford Av,None,337098,6241543,Bus station,181,1,1,BUS_STOP,548,0
+155,86293,Matraville_ Beauchamp Rd nr Peronne Wy,None,337274,6241621,Bus station,181,1,1,BUS_STOP,548,0
+156,86294,Matraville_ Beauchamp Rd nr Robey St,None,337262,6241638,Bus station,181,1,1,BUS_STOP,548,0
+157,86295,Maroubra_ Bunnerong Rd nr Jersey Rd,None,336521,6241580,Bus station,186,1,1,BUS_STOP,544,0
+158,86296,Maroubra_ Beauchamp Rd nr Anzac Pde,None,337494,6241664,Bus station,189,1,1,BUS_STOP,544,0
+159,86297,Matraville_ Beauchamp Rd nr Anzac Pde,None,337459,6241648,Bus station,189,1,1,BUS_STOP,544,0
+160,86298,Matraville_ Anzac Pde nr Beauchamp Rd,None,337532,6241629,Bus station,189,1,1,BUS_STOP,548,0
+161,86299,Matraville_ Anzac Pde nr Beauchamp Rd,None,337595,6241589,Bus station,189,1,1,BUS_STOP,547,0
+162,86300,Maroubra_ Beauchamp Rd nr Anzac Pde,None,337642,6241669,Bus station,189,1,1,BUS_STOP,544,0
+163,86301,Maroubra_ Beauchamp Rd nr Anzac Pde,None,337645,6241692,Bus station,189,1,1,BUS_STOP,544,0
+164,86302,Matraville_ Beauchamp Rd nr Dive St,None,336738,6241426,Bus station,194,1,1,BUS_STOP,550,0
+165,86303,Matraville_ Beauchamp Rd nr Poulet St,None,336783,6241418,Bus station,194,1,1,BUS_STOP,548,0
+166,86309,Maroubra_ Bunnerong Rd opp Southpoint Shops,None,336610,6241810,Bus station,207,1,1,BUS_STOP,544,0
+167,86311,Maroubra_ Broome St nr Meagher Av,None,338304,6241660,Bus station,208,1,1,BUS_STOP,547,0
+168,86312,Maroubra_ Malabar Rd nr Beauchamp Rd,None,338050,6241793,Bus station,208,1,1,BUS_STOP,547,0
+169,86313,Maroubra_ Malabar Rd nr Beauchamp Rd,None,338018,6241804,Bus station,208,1,1,BUS_STOP,545,0
+170,86314,Maroubra_ Malabar Rd nr Tyrwhitt St,None,338231,6241906,Bus station,208,1,1,BUS_STOP,547,0
+171,86315,Maroubra_ Malabar Rd nr Tyrwhitt St,None,338246,6241952,Bus station,208,1,1,BUS_STOP,545,0
+172,86316,Maroubra_ Broome St nr Brown Rd,None,338434,6241688,Bus station,211,1,1,BUS_STOP,547,0
+173,86317,Maroubra_ Tyrwhitt St nr Malabar Rd,None,338299,6241934,Bus station,211,1,1,BUS_STOP,545,0
+174,86318,Maroubra_ Tyrwhitt St nr Broome St,None,338506,6241930,Bus station,211,1,1,BUS_STOP,545,0
+175,86319,Maroubra_ Anzac Pde nr Murray St,None,337531,6241895,Bus station,216,1,1,BUS_STOP,544,0
+176,86320,Maroubra_ Chicago Av nr Minneapolis Cr,None,337713,6241949,Bus station,216,1,1,BUS_STOP,545,0
+177,86321,Maroubra_ Minneapolis Cr nr Chicago Av,None,337678,6242024,Bus station,216,1,1,BUS_STOP,544,0
+178,86322,Maroubra_ Anzac Pde nr Murray St,None,337464,6241940,Bus station,216,1,1,BUS_STOP,544,0
+179,86323,Maroubra_ Anzac Pde nr Wade St,None,337420,6242149,Bus station,216,1,1,BUS_STOP,544,0
+180,86324,Maroubra_ Anzac Pde nr Minneapolis Cr,None,337482,6242137,Bus station,216,1,1,BUS_STOP,544,0
+181,86325,Maroubra_ Minneapolis Cr nr Chicago Av,None,337754,6241987,Bus station,219,1,1,BUS_STOP,545,0
+182,86326,Maroubra_ Minneapolis Cr nr Neosho Wy,None,337959,6242090,Bus station,219,1,1,BUS_STOP,545,0
+183,86327,Maroubra_ Minneapolis Cr nr Midway Dr,None,337973,6242159,Bus station,219,1,1,BUS_STOP,545,0
+184,86328,Maroubra_ Yorktown Pde nr Minneapolis Cr,None,338049,6242261,Bus station,219,1,1,BUS_STOP,545,0
+185,86334,Maroubra_ Fitzgerald Av nr Chester Av,None,337632,6242421,Bus station,235,1,1,BUS_STOP,542,0
+186,86335,Maroubra_ Fitzgerald Av nr Beatty St,None,337692,6242459,Bus station,235,1,1,BUS_STOP,542,0
+187,86336,Maroubra_ Fitzgerald Av nr Kyogle St,None,337967,6242427,Bus station,235,1,1,BUS_STOP,542,0
+188,86337,Maroubra_ Fitzgerald Av nr Kyogle St,None,337990,6242441,Bus station,235,1,1,BUS_STOP,542,0
+189,86340,Maroubra_ Malabar Rd nr Bridges St,None,338378,6242117,Bus station,238,1,1,BUS_STOP,546,0
+190,86341,Maroubra_ Yorktown Pde nr New Orleans Cr,None,338234,6242220,Bus station,238,1,1,BUS_STOP,545,0
+191,86342,Maroubra_ Fitzgerald Av nr Malabar Rd,None,338437,6242254,Bus station,238,1,1,BUS_STOP,542,0
+192,86343,Maroubra_ Malabar Rd nr Fitzgerald Av,None,338399,6242238,Bus station,238,1,1,BUS_STOP,545,0
+193,86344,Maroubra_ Fitzgerald Av nr Camira St,None,338293,6242315,Bus station,238,1,1,BUS_STOP,542,0
+194,86345,Maroubra_ Malabar Rd nr Fitzgerald Av,None,338446,6242332,Bus station,238,1,1,BUS_STOP,546,0
+195,86350,Maroubra_ Bunnerong Rd nr Fitzgerald Av,None,336342,6242322,Bus station,244,1,1,BUS_STOP,540,0
+196,86351,Pagewood_ Walsh Av nr Donovan Av,None,336532,6242348,Bus station,244,1,1,BUS_STOP,540,0
+197,86352,Maroubra_ Walsh Av nr Fitzgerald Av,None,336547,6242305,Bus station,244,1,1,BUS_STOP,540,0
+198,86354,Maroubra_ Mons Av nr Camira St,None,338390,6242442,Bus station,248,1,1,BUS_STOP,542,0
+199,86355,Maroubra_ Mons Av nr Malabar Rd,None,338400,6242450,Bus station,248,1,1,BUS_STOP,542,0
+200,86357,Maroubra_ Donovan Av nr Wild St,None,336776,6242421,Bus station,256,1,1,BUS_STOP,540,0
+201,86358,Maroubra_ Donovan Av nr Wild St,None,336777,6242407,Bus station,256,1,1,BUS_STOP,540,0
+202,86359,Maroubra_ Malabar Rd nr Mons Av,None,338435,6242472,Bus station,257,1,1,BUS_STOP,546,0
+203,86360,Maroubra_ Mons Av nr Kyogle St,None,338314,6242539,Bus station,257,1,1,BUS_STOP,542,0
+204,86361,Maroubra_ Mons Av nr Duncan St,None,338293,6242571,Bus station,257,1,1,BUS_STOP,542,0
+205,86362,Maroubra_ Duncan St nr Malabar Rd,None,338454,6242582,Bus station,257,1,1,BUS_STOP,546,0
+206,86363,Maroubra_ Duncan St nr Maroubra Bay Primary,None,338501,6242589,Bus station,257,1,1,BUS_STOP,546,0
+207,86367,Maroubra_ Donovan Av nr Paine St,None,336993,6242454,Bus station,262,1,1,BUS_STOP,540,0
+208,86368,Maroubra_ Donovan Av nr Paine St,None,336962,6242434,Bus station,262,1,1,BUS_STOP,540,0
+209,86369,Maroubra_ Marine Pde nr Maroubra Rd,None,339020,6242558,Bus station,264,1,1,BUS_STOP,546,0
+210,86370,Maroubra_ Marine Pde nr Maroubra Rd,None,339131,6242564,Bus station,264,1,1,BUS_STOP,546,0
+211,86371,Maroubra_ Maroubra Rd nr Marine Pde,None,339033,6242613,Bus station,264,1,1,BUS_STOP,543,0
+212,86372,Maroubra Beach Set Down Only,None,338748,6242266,Bus station,265,1,1,BUS_STOP,546,0
+213,86373,Maroubra Beach_ Marine Pde,None,338804,6242276,Bus station,265,1,1,BUS_STOP,546,0
+214,86374,Maroubra Beach_ Marine Pde Terminus,None,338773,6242291,Bus station,265,1,1,BUS_STOP,546,0
+215,86375,Maroubra Beach_ Marine Pde,None,338761,6242281,Bus station,265,1,1,BUS_STOP,546,0
+216,86376,Maroubra Beach_ Marine Pde nr McKeon St,None,338880,6242382,Bus station,265,1,1,BUS_STOP,546,0
+217,86377,Maroubra Beach_ Marine Pde nr McKeon St,None,338921,6242451,Bus station,265,1,1,BUS_STOP,546,0
+218,86378,Maroubra_ McKeon St nr Hereward St,None,338789,6242491,Bus station,265,1,1,BUS_STOP,546,0
+219,86379,Maroubra_ McKeon St nr Hereward St,None,338802,6242508,Bus station,265,1,1,BUS_STOP,546,0
+220,86380,Maroubra_ Maroubra Rd nr Hereward St,None,338870,6242701,Bus station,265,1,1,BUS_STOP,543,0
+221,86381,Maroubra_ Maroubra Rd nr Duncan St,None,338891,6242712,Bus station,265,1,1,BUS_STOP,543,0
+222,86382,Maroubra_ Anzac Pde nr Fitzgerald Av,None,337436,6242370,Bus station,266,1,1,BUS_STOP,544,0
+223,86383,Maroubra_ Anzac Pde nr Fitzgerald Av,None,337353,6242465,Bus station,266,1,1,BUS_STOP,544,0
+224,86384,Maroubra_ Marine Pde nr Bond St,None,339284,6242609,Bus station,267,1,1,BUS_STOP,543,0
+225,86385,Maroubra_ Marine Pde nr Bond St,None,339282,6242637,Bus station,267,1,1,BUS_STOP,543,0
+226,86394,Maroubra_ Marine Pde nr Torrington Rd,None,339419,6242833,Bus station,275,1,1,BUS_STOP,543,0
+227,86395,Maroubra_ Torrington Rd nr Wilson St,None,339347,6242943,Bus station,275,1,1,BUS_STOP,543,0
+228,86396,Maroubra_ Torrington Rd nr Wilson St,None,339316,6242945,Bus station,275,1,1,BUS_STOP,543,0
+229,86397,Maroubra_ Paine St nr Chichester St,None,336957,6242664,Bus station,278,1,1,BUS_STOP,541,0
+230,86398,Maroubra_ Paine St nr Walsh Av,None,336911,6242773,Bus station,278,1,1,BUS_STOP,541,0
+231,86399,Maroubra_ Paine St nr Walsh Av,None,336921,6242780,Bus station,278,1,1,BUS_STOP,541,0
+232,86400,Maroubra_ Anzac Pde nr Wise St,None,337293,6242744,Bus station,279,1,1,BUS_STOP,541,0
+233,86402,Maroubra_ Anzac Pde nr Byng St,None,337384,6242599,Bus station,282,1,1,BUS_STOP,541,0
+234,86409,Maroubra_ Maroubra Rd nr Hinkler St,None,336643,6243006,Bus station,287,1,1,BUS_STOP,540,0
+235,86410,Maroubra_ Maroubra Rd nr French St,None,338300,6242841,Bus station,288,1,1,BUS_STOP,539,0
+236,86411,Maroubra_ Maroubra Rd nr French St,None,338247,6242836,Bus station,288,1,1,BUS_STOP,539,0
+237,86412,Maroubra_ Maroubra Rd nr The Causeway,None,338670,6242885,Bus station,291,1,1,BUS_STOP,543,0
+238,86423,Maroubra_ Torrington Rd nr Marine Pde,None,339438,6242882,Bus station,294,1,1,BUS_STOP,543,0
+239,86424,Maroubra_ Mons Av nr French St,None,338066,6242532,Bus station,295,1,1,BUS_STOP,542,0
+240,86425,Maroubra_ Mons Av nr French St,None,338121,6242541,Bus station,295,1,1,BUS_STOP,542,0
+241,86426,Maroubra_ Mons Av nr French St,None,337934,6242555,Bus station,295,1,1,BUS_STOP,542,0
+242,86427,Maroubra_ Mons Av nr French St,None,337939,6242578,Bus station,295,1,1,BUS_STOP,542,0
+243,86428,Maroubra_ Maroubra Rd nr Flower St,None,337997,6242826,Bus station,295,1,1,BUS_STOP,538,0
+244,86429,Maroubra_ Maroubra Rd nr Flower St,None,338044,6242793,Bus station,295,1,1,BUS_STOP,539,0
+245,86430,Maroubra_ Flower St nr Galvin St,None,338039,6242908,Bus station,295,1,1,BUS_STOP,539,0
+246,86431,Maroubra_ Flower St nr Boyce Rd,None,338032,6242962,Bus station,295,1,1,BUS_STOP,539,0
+247,86432,Maroubra_ Flower St nr Alma Rd,None,338067,6243078,Bus station,295,1,1,BUS_STOP,539,0
+248,86433,Maroubra_ Mons Av nr Haig St,None,337743,6242725,Bus station,298,1,1,BUS_STOP,542,0
+249,86434,Maroubra_ Mons Av nr Maroubra Rd,None,337738,6242826,Bus station,298,1,1,BUS_STOP,538,0
+250,86435,Maroubra_ Maroubra Rd nr Mons Av,None,337805,6242833,Bus station,298,1,1,BUS_STOP,538,0
+251,86436,Maroubra_ Maroubra Rd nr Mons Av,None,337716,6242868,Bus station,298,1,1,BUS_STOP,537,0
+252,86441,Maroubra_ Maroubra Rd nr Hannan St,None,336882,6242967,Bus station,313,1,1,BUS_STOP,540,0
+253,86442,Maroubra_ Maroubra Rd r Royal St,None,336644,6243030,Bus station,313,1,1,BUS_STOP,540,0
+254,86443,Maroubra_ Maroubra Rd nr Hannan St,None,336838,6243001,Bus station,313,1,1,BUS_STOP,540,0
+255,86448,Maroubra_ Maroubra Rd nr Malabar Rd,None,338630,6242934,Bus station,316,1,1,BUS_STOP,543,0
+256,86449,Maroubra_ Maroubra Rd nr Malabar Rd,None,338432,6242996,Bus station,316,1,1,BUS_STOP,539,0
+257,86450,Maroubra_ Maroubra Rd nr Malabar Rd,None,338484,6242986,Bus station,316,1,1,BUS_STOP,539,0
+258,86451,Maroubra_ Maroubra Rd nr Malabar Rd,None,338503,6242984,Bus station,316,1,1,BUS_STOP,539,0
+259,86452,Maroubra_ Garden St nr Gale Rd,None,337532,6243208,Bus station,318,1,1,BUS_STOP,538,0
+260,86453,Maroubra_ Garden St nr Gale Rd,None,337551,6243244,Bus station,318,1,1,BUS_STOP,538,0
+261,86454,Maroubra_ Maroubra Rd nr Garden St,None,337540,6242873,Bus station,322,1,1,BUS_STOP,537,0
+262,86455,Maroubra_ Anzac Pde nr Maroubra Rd,None,337326,6242856,Bus station,322,1,1,BUS_STOP,537,0
+263,86456,Maroubra_ Maroubra Rd nr Anzac Pde,None,337403,6242894,Bus station,322,1,1,BUS_STOP,537,0
+264,86457,Maroubra_ Maroubra Rd nr Garden St,None,337472,6242906,Bus station,322,1,1,BUS_STOP,537,0
+265,86458,Maroubra_ Maroubra Rd nr Anzac Pde,None,337213,6242920,Bus station,322,1,1,BUS_STOP,537,0
+266,86459,Maroubra_ Maroubra Rd nr Anzac Pde,None,337246,6242939,Bus station,322,1,1,BUS_STOP,537,0
+267,86460,Maroubra Junction_ Maroubra Rd nr Anzac Pde,None,337235,6242918,Bus station,322,1,1,BUS_STOP,537,0
+268,86461,Maroubra_ Garden St nr Maroubra Rd,None,337502,6242917,Bus station,322,1,1,BUS_STOP,538,0
+269,86462,Maroubra_ Anzac Pde nr Picadilly Pl,None,337243,6242998,Bus station,322,1,1,BUS_STOP,537,0
+270,86463,Maroubra_ Anzac Pde nr Green St,None,337287,6243031,Bus station,322,1,1,BUS_STOP,537,0
+271,86464,Maroubra_ Anzac Pde nr Boyce Rd,None,337225,6243064,Bus station,322,1,1,BUS_STOP,537,0
+272,86465,Maroubra_ Bunnerong Rd nr Kingsford St,None,336242,6242946,Bus station,323,1,1,BUS_STOP,540,0
+273,86466,Maroubra_ Maroubra Rd nr Bunnerong Rd,None,336334,6243051,Bus station,323,1,1,BUS_STOP,540,0
+274,86467,Maroubra_ Maroubra Rd nr Bunnerong Rd,None,336398,6243064,Bus station,323,1,1,BUS_STOP,540,0
+275,86468,Maroubra_ Maroubra Rd nr Bunnerong Rd,None,336324,6243052,Bus station,323,1,1,BUS_STOP,540,0
+276,86472,Maroubra_ Bunnerong Rd nr Maroubra Rd,None,336306,6243134,Bus station,323,1,1,BUS_STOP,540,0
+277,86474,Maroubra_ Anzac Pde nr Alma Rd,None,337251,6243205,Bus station,326,1,1,BUS_STOP,537,0
+278,86475,Maroubra_ Torrington Rd nr Inman St,None,339188,6243054,Bus station,333,1,1,BUS_STOP,543,0
+279,86476,Maroubra_ Torrington Rd nr Inman St,None,339163,6243052,Bus station,333,1,1,BUS_STOP,543,0
+280,86477,Maroubra_ Anzac Pde nr Gale Rd,None,337174,6243311,Bus station,334,1,1,BUS_STOP,537,0
+281,86478,Maroubra_ Flower St nr Gale Rd,None,338064,6243182,Bus station,339,1,1,BUS_STOP,539,0
+282,86479,Maroubra_ Storey St nr Flower St,None,338043,6243280,Bus station,339,1,1,BUS_STOP,538,0
+283,86480,Maroubra_ Storey St nr Flower St,None,338036,6243264,Bus station,339,1,1,BUS_STOP,538,0
+284,86481,Maroubra_ Storey St nr Cooper St,None,337780,6243342,Bus station,341,1,1,BUS_STOP,538,0
+285,86482,Maroubra_ Storey St nr Cooper St,None,337789,6243359,Bus station,341,1,1,BUS_STOP,538,0
+286,86483,Maroubra_ Garden St nr Storey St,None,337560,6243414,Bus station,341,1,1,BUS_STOP,538,0
+287,86484,Maroubra_ Garden St nr Storey St,None,337577,6243408,Bus station,341,1,1,BUS_STOP,538,0
+288,86485,Maroubra_ Moverly Rd nr Cooper St,None,337883,6243568,Bus station,341,1,1,BUS_STOP,534,0
+289,86486,Kingsford_ Moverly Rd nr Garden St,None,337642,6243620,Bus station,341,1,1,BUS_STOP,534,0
+290,86487,Maroubra_ Moverly Rd nr Garden St,None,337635,6243601,Bus station,341,1,1,BUS_STOP,534,0
+291,86488,Maroubra_ Bunnerong Rd nr Mason St,None,336369,6243318,Bus station,342,1,1,BUS_STOP,540,0
+292,86489,Maroubra_ Bunnerong Rd nr Wark Av,None,336376,6243428,Bus station,342,1,1,BUS_STOP,540,0
+293,86490,Pagewood_ Bunnerong Rd nr Keysor Rd,None,336422,6243555,Bus station,342,1,1,BUS_STOP,532,0
+294,86491,Maroubra_ Bunnerong Rd nr Storey St,None,336443,6243557,Bus station,342,1,1,BUS_STOP,532,0
+295,86492,Maroubra_ Torrington Rd nr Malabar Rd,None,338938,6243209,Bus station,344,1,1,BUS_STOP,539,0
+296,86493,Maroubra_ Malabar Rd nr Torrington Rd,None,338930,6243250,Bus station,344,1,1,BUS_STOP,539,0
+297,86494,South Coogee_ Malabar Rd opp Mermaid Av,None,338965,6243470,Bus station,344,1,1,BUS_STOP,543,0
+298,86495,Maroubra_ Malabar Rd nr Mermaid Av,None,338981,6243430,Bus station,344,1,1,BUS_STOP,543,0
+299,86496,Maroubra_ Anzac Pde nr Storey St,None,337149,6243445,Bus station,349,1,1,BUS_STOP,537,0
+300,86497,Maroubra_ Anzac Pde nr Maroubra Junction Schools,None,337130,6243543,Bus station,349,1,1,BUS_STOP,537,0
+301,86498,Maroubra_ Anzac Pde nr Storey St,None,337198,6243468,Bus station,349,1,1,BUS_STOP,533,0
+302,86502,South Coogee_ Moverly Rd nr Henning Av,None,338135,6243532,Bus station,353,1,1,BUS_STOP,536,0
+303,86503,South Coogee_ Moverly Rd nr Henning Av,None,338122,6243557,Bus station,353,1,1,BUS_STOP,536,0
+304,86504,Kingsford_ Moverly Rd nr Cooper St,None,337922,6243578,Bus station,353,1,1,BUS_STOP,534,0
+305,86506,Maroubra_ Anzac Pde nr Snape St,None,337101,6243662,Bus station,357,1,1,BUS_STOP,532,0
+306,86507,Kingsford_ Anzac Pde nr Fischer St,None,337051,6243902,Bus station,357,1,1,BUS_STOP,532,0
+307,86508,Kingsford_ Anzac Pde nr Broadbent St,None,337018,6244048,Bus station,357,1,1,BUS_STOP,532,0
+308,86509,Kingsford_ Moverley Rd nr The Sydney French School,None,337342,6243645,Bus station,360,1,1,BUS_STOP,533,0
+309,86510,Kingsford_ Avoca St nr Holmes St,None,337150,6243917,Bus station,360,1,1,BUS_STOP,533,0
+310,86511,Kingsford_ Avoca St nr Anzac Pde,None,337127,6243923,Bus station,360,1,1,BUS_STOP,532,0
+311,86512,Kingsford_ Anzac Pde nr Burbong St,None,337064,6244077,Bus station,360,1,1,BUS_STOP,530,0
+312,86513,Kingsford_ Anzac Pde nr Avoca St,None,337105,6243905,Bus station,360,1,1,BUS_STOP,530,0
+313,86515,South Coogee_ Moverly Rd nr Bryne Av,None,338542,6243623,Bus station,363,1,1,BUS_STOP,536,0
+314,86516,South Coogee_ Moverly Rd nr Endeavour House,None,338536,6243673,Bus station,363,1,1,BUS_STOP,536,0
+315,86518,South Coogee_ Malabar Rd nr Liguria St,None,339000,6243666,Bus station,377,1,1,BUS_STOP,535,0
+316,86519,South Coogee_ Malabar Rd opp Liguria St,None,338984,6243669,Bus station,377,1,1,BUS_STOP,535,0
+317,86520,South Coogee_ Malabar Rd nr Denning St,None,339002,6243840,Bus station,377,1,1,BUS_STOP,535,0
+318,86521,South Coogee_ Malabar Rd nr Nymboida St,None,338980,6243852,Bus station,377,1,1,BUS_STOP,535,0
+319,86528,South Coogee_ Moverly Rd nr South Coogee Primary,None,338574,6243815,Bus station,388,1,1,BUS_STOP,536,0
+320,86529,South Coogee_ Moverly Rd opp South Coogee Primary,None,338557,6243815,Bus station,388,1,1,BUS_STOP,536,0
+321,86530,South Coogee_ Elphinstone Rd nr Moverly Rd,None,338602,6244035,Bus station,388,1,1,BUS_STOP,536,0
+322,86531,South Coogee_ Elphinstone Rd nr Jacaranda Pl,None,338586,6244050,Bus station,388,1,1,BUS_STOP,536,0
+323,86538,South Coogee_ Malabar Rd nr Moverly Rd,None,338809,6244083,Bus station,396,1,1,BUS_STOP,535,0
+324,86539,South Coogee_ Moverley Rd nr Malabar Rd,None,338777,6244088,Bus station,396,1,1,BUS_STOP,536,0
+325,86540,South Coogee_ Malabar Rd nr Napper St,None,338803,6244115,Bus station,396,1,1,BUS_STOP,535,0
+326,86543,Randwick_ Bundock St nr Canberra St,None,337624,6244475,Bus station,402,1,1,BUS_STOP,534,0
+327,86544,Pagewood_ Bunnerong Rd opp Snape St,None,336430,6243750,Bus station,403,1,1,BUS_STOP,532,0
+328,86545,Kingsford_ Bunnerong Rd nr Snape St,None,336441,6243822,Bus station,403,1,1,BUS_STOP,532,0
+329,86546,Pagewood_ Bunnerong Rd nr Prince Edward Cr,None,336396,6243933,Bus station,403,1,1,BUS_STOP,532,0
+330,86547,Kingsford_ Bunnerong Rd opp Prince Edward Cir,None,336393,6244023,Bus station,403,1,1,BUS_STOP,532,0
+331,86553,Daceyville_ Bunnerong Rd nr Joffre Cr,None,336321,6244302,Bus station,417,1,1,BUS_STOP,532,0
+332,86554,Kingsford_ Bunnerong Rd nr Daceyville Primary,None,336344,6244270,Bus station,417,1,1,BUS_STOP,532,0
+333,86555,Kingsford_ Bunnerong Rd nr Apsley Av,None,336325,6244361,Bus station,417,1,1,BUS_STOP,532,0
+334,86556,Kingsford_ Anzac Pde nr Botany St,None,336696,6244360,Bus station,418,1,1,BUS_STOP,532,0
+335,86565,South Coogee_ Elphinstone Rd opp Iluka Pl,None,338539,6244184,Bus station,423,1,1,BUS_STOP,536,0
+336,86566,South Coogee_ Elphinstone Rd nr Wauhope Cr,None,338409,6244254,Bus station,423,1,1,BUS_STOP,536,0
+337,86567,South Coogee_ Elphinstone Rd nr Yamba Pl,None,338446,6244251,Bus station,423,1,1,BUS_STOP,536,0
+338,86568,South Coogee_ Elphinstone Rd nr Iluka Pl,None,338510,6244213,Bus station,423,1,1,BUS_STOP,536,0
+339,86569,South Coogee_ Elphinstone Rd opp Uralla Pl,None,338310,6244348,Bus station,423,1,1,BUS_STOP,536,0
+340,86570,South Coogee_ Elphinstone Rd nr Uralla Pl,None,338299,6244384,Bus station,423,1,1,BUS_STOP,536,0
+341,86581,South Coogee_ Arden St nr Malabar Rd,None,338729,6244410,Bus station,441,1,1,BUS_STOP,535,0
+342,86582,South Coogee_ Arden St nr Malabar Rd,None,338716,6244419,Bus station,441,1,1,BUS_STOP,535,0
+343,86588,Kingsford_ Avoca St opp Burbong St,None,337192,6244216,Bus station,446,1,1,BUS_STOP,533,0
+344,86589,Kingsford_ Avoca St nr Araluen St,None,337171,6244232,Bus station,446,1,1,BUS_STOP,530,0
+345,86590,Kingsford_ Anzac Pde nr Paton St,None,336941,6244269,Bus station,446,1,1,BUS_STOP,530,0
+346,86595,Randwick_ Bundock St nr Ellen St,None,337822,6244471,Bus station,457,1,1,BUS_STOP,534,0
+347,86596,Randwick_ Bundock St opp Ellen St,None,337833,6244450,Bus station,457,1,1,BUS_STOP,534,0
+348,86597,Randwick_ Canberra St nr Bundock St,None,337624,6244514,Bus station,457,1,1,BUS_STOP,534,0
+349,86598,Randwick_ Oberon St opp Henry St,None,337903,6244769,Bus station,457,1,1,BUS_STOP,528,0
+350,86599,Randwick_ Canberra St nr Oberon St,None,337665,6244783,Bus station,457,1,1,BUS_STOP,528,0
+351,86600,Randwick_ Canberra St nr Oberon St,None,337653,6244809,Bus station,457,1,1,BUS_STOP,528,0
+352,86601,Randwick_ Oberon St nr Canberra St,None,337722,6244802,Bus station,457,1,1,BUS_STOP,528,0
+353,86602,South Coogee_ Bundock St nr Hendy St,None,338075,6244434,Bus station,457,1,1,BUS_STOP,534,0
+354,86603,South Coogee_ Bundock St nr HendySt,None,338064,6244413,Bus station,457,1,1,BUS_STOP,534,0
+355,86604,Coogee_ Oberon St nr Hendy St,None,338116,6244715,Bus station,457,1,1,BUS_STOP,531,0
+356,86605,Coogee_ Oberon St nr Higgs St,None,338031,6244758,Bus station,457,1,1,BUS_STOP,531,0
+357,86606,Kingsford_ Rainbow St nr Botany St,None,336897,6244736,Bus station,458,1,1,BUS_STOP,527,0
+358,86607,Kingsford_ Anzac Pde nr Hayward St,None,336522,6244530,Bus station,461,1,1,BUS_STOP,532,0
+359,86608,Kingsford_ Anzac Pde nr Botany St,None,336676,6244459,Bus station,461,1,1,BUS_STOP,530,0
+360,86609,Kingsford_ Anzac Pde nr Sturt St,None,336506,6244624,Bus station,461,1,1,BUS_STOP,530,0
+361,86610,Kingsford_ Rainbow St nr Kennedy St,None,336674,6244769,Bus station,461,1,1,BUS_STOP,526,0
+362,86611,Kingsford_ Rainbow St nr Willis St,None,336404,6244807,Bus station,461,1,1,BUS_STOP,526,0
+363,86612,Daceyville_ Bunnerong Rd nr Sergeant Larkin Cr,None,336265,6244521,Bus station,462,1,1,BUS_STOP,532,0
+364,86613,Kingsford_ Bunnerong Rd nr Anderson St,None,336286,6244508,Bus station,462,1,1,BUS_STOP,532,0
+365,86615,Kingsford_ Anzac Pde nr Wallace St,None,336342,6244756,Bus station,462,1,1,BUS_STOP,530,0
+366,86619,Kensington_ Gardeners Rd nr Leonard Av,None,335497,6244715,Bus station,467,1,1,BUS_STOP,525,0
+367,86623,Kingsford_ Avoca St nr Sturt St,None,337218,6244531,Bus station,473,1,1,BUS_STOP,530,0
+368,86624,Randwick_ Avoca St nr Bundock St,None,337245,6244574,Bus station,473,1,1,BUS_STOP,533,0
+369,86625,Randwick_ Rainbow St nr Avoca St,None,337200,6244712,Bus station,473,1,1,BUS_STOP,527,0
+370,86626,Kingsford_ Rainbow St nr Avoca St,None,337205,6244690,Bus station,473,1,1,BUS_STOP,527,0
+371,86627,Randwick_ Avoca St nr Rainbow St,None,337272,6244741,Bus station,473,1,1,BUS_STOP,528,0
+372,86628,Randwick_ Avoca St nr Randwick Boys High,None,337268,6244817,Bus station,473,1,1,BUS_STOP,528,0
+373,86629,Randwick_ Avoca St nr Randwick Boys High,None,337269,6244833,Bus station,473,1,1,BUS_STOP,528,0
+374,86630,Randwick_ Avoca St nr Randwick Boys High,None,337272,6244850,Bus station,473,1,1,BUS_STOP,528,0
+375,86631,Coogee_ Oberon St nr Arden St,None,338722,6244611,Bus station,474,1,1,BUS_STOP,531,0
+376,86632,Coogee_ Oberon St nr Arden St,None,338716,6244591,Bus station,474,1,1,BUS_STOP,531,0
+377,86633,Coogee_ Arden St opp Neptune St,None,338757,6244685,Bus station,474,1,1,BUS_STOP,531,0
+378,86634,Coogee_ Arden St nr Dudley St,None,338787,6244725,Bus station,474,1,1,BUS_STOP,531,0
+379,86642,Rosebery_ Gardeners Rd nr Racecourse Pl,None,334627,6244894,Bus station,477,1,1,BUS_STOP,294,0
+380,86647,Kensington_ Gardeners Rd nr Eastern Av,None,335317,6244742,Bus station,480,1,1,BUS_STOP,524,0
+381,86648,Kensington_ Gardeners Rd nr Maitland Av,None,335089,6244777,Bus station,480,1,1,BUS_STOP,524,0
+382,86649,Kensington_ Eastern Av nr Gardeners Rd,None,335333,6244776,Bus station,480,1,1,BUS_STOP,525,0
+383,86650,Kensington_ Eastern Av nr Tressider Av,None,335381,6245040,Bus station,480,1,1,BUS_STOP,525,0
+384,86651,Kensington_ Eastern Av nr Gardeners Rd,None,335351,6244783,Bus station,480,1,1,BUS_STOP,525,0
+385,86652,Randwick_ Rainbow St nr Rainbow St Primary,None,337040,6244735,Bus station,481,1,1,BUS_STOP,527,0
+386,86653,Kingsford_ Rainbow St nr Paton St,None,337045,6244715,Bus station,481,1,1,BUS_STOP,527,0
+387,86655,Kingsford_ Gardeners Rd nr Doncaster Av,None,335736,6244688,Bus station,482,1,1,BUS_STOP,525,0
+388,86657,Kingsford_ Gardeners Rd nr Bruce St,None,335923,6244704,Bus station,482,1,1,BUS_STOP,525,0
+389,86658,Randwick_ Rainbow St nr Botany St,None,336872,6244759,Bus station,488,1,1,BUS_STOP,527,0
+390,86664,Kingsford_ Gardeners Rd nr Anzac Pde,None,336111,6244748,Bus station,491,1,1,BUS_STOP,525,0
+391,86665,Kingsford_ Anzac Pde Stand B nr Gardeners Rd,None,336176,6244854,Bus station,491,1,1,BUS_STOP,526,0
+392,86666,Kingsford_ Anzac Pde nr Rainbow St,None,336199,6244862,Bus station,491,1,1,BUS_STOP,526,0
+393,86667,Kingsford_ Anzac Pde Stand E nr Rainbow St,None,336176,6244897,Bus station,491,1,1,BUS_STOP,526,0
+394,86668,Kingsford_ Anzac Pde Stand C nr Rainbow St,None,336191,6244865,Bus station,491,1,1,BUS_STOP,526,0
+395,86669,Kingsford_ Anzac Pde Stand D nr Rainbow St,None,336186,6244879,Bus station,491,1,1,BUS_STOP,526,0
+396,86670,Randwick_ Avoca St nr Randwick Boys High,None,337274,6244867,Bus station,494,1,1,BUS_STOP,528,0
+397,86671,Randwick_ Avoca St nr Randwick Boys High,None,337277,6244882,Bus station,494,1,1,BUS_STOP,528,0
+398,86672,Coogee_ Havelock Av nr Asher St,None,338715,6244891,Bus station,495,1,1,BUS_STOP,531,0
+399,86673,Coogee_ Havelock Av opp Asher St,None,338718,6244871,Bus station,495,1,1,BUS_STOP,531,0
+400,86676,Rosebery_ Maloney St nr Evans Av,None,334262,6244855,Bus station,498,1,1,BUS_STOP,294,0
+401,86679,Kingsford_ Kennedy St nr Meeks St,None,336621,6244936,Bus station,500,1,1,BUS_STOP,526,0
+402,86680,Kingsford_ Rainbow St nr Willis St,None,336399,6244826,Bus station,500,1,1,BUS_STOP,526,0
+403,86681,Kingsford_ Meeks St nr Forsyth St,None,336404,6244979,Bus station,500,1,1,BUS_STOP,526,0
+404,86682,Kingsford_ Meeks St nr Forsyth St,None,336400,6244999,Bus station,500,1,1,BUS_STOP,526,0
+405,86683,Kingsford_ Meeks St nr Anzac Pde,None,336152,6244984,Bus station,501,1,1,BUS_STOP,526,0
+406,86684,Kingsford_ Meeks St nr Anzac Pde,None,336160,6245006,Bus station,501,1,1,BUS_STOP,526,0
+407,86685,Coogee_ Oberon St nr Mount St,None,338341,6244662,Bus station,502,1,1,BUS_STOP,531,0
+408,86686,Coogee_ Oberon St nr Mount St,None,338300,6244695,Bus station,502,1,1,BUS_STOP,531,0
+409,86691,Kingsford_ Meeks St nr Kennedy St,None,336617,6244965,Bus station,513,1,1,BUS_STOP,526,0
+410,86692,Kingsford_ Kennedy St nr Meeks St,None,336643,6244977,Bus station,513,1,1,BUS_STOP,526,0
+411,86697,Rosebery_ Gardeners Rd 150m E of Maloney St,None,334415,6244927,Bus station,515,1,1,BUS_STOP,294,0
+412,86707,Kingsford_ Anzac Pde nr Strachan St,None,336082,6245121,Bus station,525,1,1,BUS_STOP,525,0
+413,86708,Kingsford_ Anzac Pde nr Middle St,None,336090,6245184,Bus station,525,1,1,BUS_STOP,526,0
+414,86714,Randwick_ Dudley St nr St Pauls St,None,337952,6245209,Bus station,528,1,1,BUS_STOP,528,0
+415,86715,Randwick_ St Pauls St nr Dudley St,None,337909,6245259,Bus station,528,1,1,BUS_STOP,528,0
+416,86720,Kingsford_ Kennedy St nr Barker St,None,336682,6245240,Bus station,534,1,1,BUS_STOP,526,0
+417,86722,Kensington_ Eastern Av nr Goodrich Av,None,335423,6245255,Bus station,542,1,1,BUS_STOP,525,0
+418,86723,Kensington_ Eastern Av nr Goodrich Av,None,335445,6245277,Bus station,542,1,1,BUS_STOP,525,0
+419,86724,Kensington_ Eastern Av nr Tressider Av,None,335408,6245081,Bus station,542,1,1,BUS_STOP,525,0
+420,86725,Rosebery_ Dalmeny Av nr Harcourt Pde,None,334268,6245106,Bus station,543,1,1,BUS_STOP,294,0
+421,86726,Rosebery_ Dalmeny Av nr Harcourt Pde,None,334249,6245222,Bus station,543,1,1,BUS_STOP,294,0
+422,86729,Randwick_ Botany St nr Barker St,None,336913,6245255,Bus station,545,1,1,BUS_STOP,527,0
+423,86730,Randwick_ Botany St nr Hay St,None,336904,6245318,Bus station,545,1,1,BUS_STOP,527,0
+424,86731,Coogee_ Carr St nr Havelock Av,None,338415,6245110,Bus station,547,1,1,BUS_STOP,529,0
+425,86732,Coogee_ Carr St nr Mount St,None,338398,6245093,Bus station,547,1,1,BUS_STOP,529,0
+426,86733,Coogee_ Carr St nr Byron St,None,338275,6245132,Bus station,547,1,1,BUS_STOP,529,0
+427,86734,Coogee_ Carr St nr Byron St,None,338262,6245117,Bus station,547,1,1,BUS_STOP,529,0
+428,86735,Coogee_ Carr St nr Carrington Rd,None,338073,6245163,Bus station,547,1,1,BUS_STOP,529,0
+429,86736,Coogee_ Carr St nr Dudley St,None,338051,6245148,Bus station,547,1,1,BUS_STOP,529,0
+430,86737,Coogee_ Byron St nr Coogee Bay Rd,None,338265,6245313,Bus station,547,1,1,BUS_STOP,529,0
+431,86738,Coogee_ Coogee Bay Rd nr Byron St,None,338215,6245345,Bus station,547,1,1,BUS_STOP,529,0
+432,86739,Coogee_ Coogee Bay Rd nr Melody St,None,338172,6245371,Bus station,547,1,1,BUS_STOP,522,0
+433,86740,Randwick_ Carrington Rd nr Queen St,None,338065,6245423,Bus station,547,1,1,BUS_STOP,522,0
+434,86741,Coogee_ Carrington Rd nr Coogee Bay Rd,None,338079,6245403,Bus station,547,1,1,BUS_STOP,522,0
+435,86742,Coogee_ Arden St nr Carr St,None,338811,6245013,Bus station,553,1,1,BUS_STOP,531,0
+436,86743,Coogee_ Arden St nr Carr St,None,338837,6245053,Bus station,553,1,1,BUS_STOP,529,0
+437,86744,Coogee_ Arden St nr Coogee Bay Rd,None,338842,6245221,Bus station,553,1,1,BUS_STOP,529,0
+438,86745,Coogee_ Coogee Bay Rd nr St Brigids,None,338495,6245320,Bus station,553,1,1,BUS_STOP,529,0
+439,86746,Coogee_ Arden St nr Coogee Beach,None,338874,6245296,Bus station,553,1,1,BUS_STOP,529,0
+440,86747,Coogee_ Arden St nr Coogee Bay Rd,None,338872,6245285,Bus station,553,1,1,BUS_STOP,529,0
+441,86748,Randwick_ Coogee Bay Rd nr Dudley St,None,337895,6245407,Bus station,554,1,1,BUS_STOP,522,0
+442,86750,Rosebery_ Rothschild Av nr Hayes St,None,333932,6245397,Bus station,557,1,1,BUS_STOP,294,0
+443,86751,Rosebery_ Rothschild Av nr Hayes St,None,333979,6245496,Bus station,557,1,1,BUS_STOP,294,0
+444,86756,Kingsford_ Anzac Pde nr Barker St,None,336046,6245337,Bus station,562,1,1,BUS_STOP,525,0
+445,86757,Kensington_ Anzac Pde nr Barker St,None,336056,6245396,Bus station,562,1,1,BUS_STOP,520,0
+446,86758,Randwick_ Avoca St nr Randwick Girls High,None,337305,6245027,Bus station,565,1,1,BUS_STOP,528,0
+447,86759,Randwick_ Avoca St nr Randwick Girls High,None,337306,6245046,Bus station,565,1,1,BUS_STOP,528,0
+448,86760,Randwick_ Avoca St nr Randwick Girls High,None,337309,6245068,Bus station,565,1,1,BUS_STOP,528,0
+449,86761,Randwick_ Avoca St nr Randwick Girls High,None,337311,6245083,Bus station,565,1,1,BUS_STOP,528,0
+450,86762,Randwick_ Avoca St nr Barker St,None,337335,6245125,Bus station,565,1,1,BUS_STOP,528,0
+451,86763,Randwick_ Avoca St nr Randwick Girls High,None,337314,6245105,Bus station,565,1,1,BUS_STOP,528,0
+452,86764,Randwick_ Avoca St nr Randwick Girls High,None,337316,6245120,Bus station,565,1,1,BUS_STOP,528,0
+453,86765,Randwick_ Barker St nr Prince of Wales Hospital,None,337132,6245206,Bus station,565,1,1,BUS_STOP,527,0
+454,86766,Randwick_ Barker St nr Young St,None,337116,6245189,Bus station,565,1,1,BUS_STOP,527,0
+455,86767,Coogee_ Brook St nr Dolphin St,None,338657,6245447,Bus station,566,1,1,BUS_STOP,529,0
+456,86774,Randwick_ Coogee Bay Rd nr St Lukes St,None,337840,6245450,Bus station,572,1,1,BUS_STOP,522,0
+457,86775,Coogee_ Arden St nr Dolphin St,None,338878,6245430,Bus station,574,1,1,BUS_STOP,529,0
+458,86776,Coogee_ Arden St nr Dolphin St,None,338907,6245499,Bus station,574,1,1,BUS_STOP,523,0
+459,86777,Coogee_ Bream St nr Brook St,None,338655,6245605,Bus station,578,1,1,BUS_STOP,523,0
+460,86778,Coogee_ Bream St nr Brook St,None,338650,6245590,Bus station,578,1,1,BUS_STOP,523,0
+461,86779,Coogee_ Bream St nr Mount St,None,338479,6245616,Bus station,578,1,1,BUS_STOP,523,0
+462,86780,Kensington_ Eastern Av nr Day Av,None,335479,6245593,Bus station,579,1,1,BUS_STOP,519,0
+463,86781,Kensington_ Day Av nr Eastern Av,None,335509,6245598,Bus station,579,1,1,BUS_STOP,519,0
+464,86782,Kensington_ Day Av nr Anzac Pde,None,335983,6245528,Bus station,583,1,1,BUS_STOP,520,0
+465,86783,Kensington_ Anzac Pde Stand B opp UNSW,None,335989,6245658,Bus station,583,1,1,BUS_STOP,520,0
+466,86784,Kensington_ Day Av nr Anzac Pde,None,336004,6245545,Bus station,583,1,1,BUS_STOP,520,0
+467,86785,Kensington_ Anzac Pde Stand D at UNSW,None,336025,6245579,Bus station,583,1,1,BUS_STOP,520,0
+468,86786,Kensington_ Anzac Pde Stand C opp UNSW,None,335997,6245618,Bus station,583,1,1,BUS_STOP,520,0
+469,86787,Rosebery_ Dalmeny Av nr Morley Av,None,334309,6245517,Bus station,584,1,1,BUS_STOP,294,0
+470,86788,Rosebery_ Dalmeny Av nr Rippon Way,None,334327,6245505,Bus station,584,1,1,BUS_STOP,294,0
+471,86789,Rosebery_ Rothschild Av nr Morley Av,None,333999,6245647,Bus station,584,1,1,BUS_STOP,294,0
+472,86790,Rosebery_ Dalmeny Av nr Kimberley Gr,None,334354,6245676,Bus station,584,1,1,BUS_STOP,294,0
+473,86791,Rosebery_ Kimberley Gr nr Dalmeny Av,None,334321,6245726,Bus station,584,1,1,BUS_STOP,292,0
+474,86792,Rosebery_ Rothschild Av nr Morley Av,None,334027,6245684,Bus station,584,1,1,BUS_STOP,294,0
+475,86793,Coogee_ Arden St nr Alison Rd,None,338963,6245840,Bus station,587,1,1,BUS_STOP,523,0
+476,86794,Coogee_ Bream St nr Carrington Rd,None,338141,6245671,Bus station,588,1,1,BUS_STOP,522,0
+477,86795,Randwick_ Carrington Rd nr Coogee St,None,338108,6245695,Bus station,588,1,1,BUS_STOP,523,0
+478,86796,Coogee_ Carrington Rd nr Bream St,None,338129,6245709,Bus station,588,1,1,BUS_STOP,523,0
+479,86797,Randwick_ Carrington Rd nr Alison Rd,None,338144,6245912,Bus station,588,1,1,BUS_STOP,523,0
+480,86798,Randwick_ Alison Rd nr Carrington Rd,None,338124,6245958,Bus station,588,1,1,BUS_STOP,516,0
+481,86799,Coogee_ Carrington Rd nr Alison Rd,None,338173,6245976,Bus station,588,1,1,BUS_STOP,517,0
+482,86801,Randwick_ High St nr Wansey Rd,None,336716,6245767,Bus station,591,1,1,BUS_STOP,520,0
+483,86802,Coogee_ Bream St nr Mount St,None,338495,6245632,Bus station,599,1,1,BUS_STOP,523,0
+484,86803,Randwick_ Botany St nr High St,None,336964,6245672,Bus station,603,1,1,BUS_STOP,527,0
+485,86804,Randwick_ Botany St nr High St,None,336982,6245661,Bus station,603,1,1,BUS_STOP,527,0
+486,86805,Randwick_ High St nr Gate 9 UNSW,None,336854,6245706,Bus station,603,1,1,BUS_STOP,520,0
+487,86806,Randwick_ High St nr Gate 9 UNSW,None,336875,6245701,Bus station,603,1,1,BUS_STOP,521,0
+488,86807,Randwick_ High St nr Botany St,None,336944,6245713,Bus station,603,1,1,BUS_STOP,521,0
+489,86808,St Peters_ Canal Rd nr Princes Hwy,None,331335,6245636,Bus station,610,1,1,BUS_STOP,-1,-1
+490,86810,Randwick_ High St nr Gate 2 UNSW,None,336178,6245846,Bus station,615,1,1,BUS_STOP,520,0
+491,86811,Rosebery_ Queen St nr Rothschild Av,None,334035,6245851,Bus station,617,1,1,BUS_STOP,288,0
+492,86812,Rosebery_ Rothschild Av nr Cressy St,None,334094,6246000,Bus station,617,1,1,BUS_STOP,292,0
+493,86813,Rosebery_ Rothschild Av nr Crewe Pl,None,334096,6245942,Bus station,617,1,1,BUS_STOP,292,0
+494,86814,Kensington_ High St nr Anzac Pde,None,336031,6245849,Bus station,619,1,1,BUS_STOP,520,0
+495,86815,Kensington_ Day Av nr Mooramie Av,None,335737,6245582,Bus station,619,1,1,BUS_STOP,519,0
+496,86816,Kensington_ Day Av nr Mooramie Av,None,335730,6245565,Bus station,619,1,1,BUS_STOP,519,0
+497,86817,Kensington_ Anzac Pde Stand A opp UNSW,None,335969,6245742,Bus station,619,1,1,BUS_STOP,520,0
+498,86820,Clovelly_ Clovelly Rd Terminus,None,339771,6245964,Bus station,627,1,1,BUS_STOP,518,0
+499,86821,Coogee_ Arden St nr Alison Rd,None,338957,6245944,Bus station,636,1,1,BUS_STOP,523,0
+500,86822,Clovelly_ Eastbourne Av nr Burrows Park,None,339964,6246050,Bus station,638,1,1,BUS_STOP,518,0
+501,86830,Rosebery_ Queen St nr Princess Av,None,333785,6245891,Bus station,644,1,1,BUS_STOP,288,0
+502,86832,Beaconsfield_ Botany Rd nr Collins St,None,333715,6246035,Bus station,644,1,1,BUS_STOP,288,0
+503,86833,Rosebery_ Botany Rd opp Collins St,None,333730,6246032,Bus station,644,1,1,BUS_STOP,288,0
+504,86834,Beaconsfield_ Collins St nr Botany Rd,None,333704,6246068,Bus station,644,1,1,BUS_STOP,287,0
+505,86835,Clovelly_ Clovelly Rd nr Walker St,None,339653,6246040,Bus station,646,1,1,BUS_STOP,518,0
+506,86836,Clovelly_ Clovelly Rd Terminus,None,339693,6246033,Bus station,646,1,1,BUS_STOP,518,0
+507,86837,Clovelly_ Clovelly Rd nr Mundarrah St,None,339348,6246167,Bus station,648,1,1,BUS_STOP,518,0
+508,86838,Clovelly_ Clovelly Rd nr Keith St,None,339446,6246169,Bus station,648,1,1,BUS_STOP,518,0
+509,86839,Clovelly_ Clovelly Rd nr Keith St,None,339435,6246155,Bus station,648,1,1,BUS_STOP,518,0
+510,86840,Clovelly_ Clovelly Rd nr Mundarrah St,None,339306,6246180,Bus station,648,1,1,BUS_STOP,518,0
+511,86841,Clovelly_ Keith St nr Clovelly Rd,None,339467,6246170,Bus station,648,1,1,BUS_STOP,518,0
+512,86842,Clovelly_ Keith St nr Boundary St,None,339495,6246439,Bus station,648,1,1,BUS_STOP,518,0
+513,86843,Zetland_ Epsom Rd nr Link Rd,None,334673,6246161,Bus station,651,1,1,BUS_STOP,285,0
+514,86844,Rosebery_ Epsom Rd opp Link Rd,None,334700,6246139,Bus station,651,1,1,BUS_STOP,285,0
+515,86845,Zetland_ Epsom Rd nr Dalmeny Av,None,334556,6246180,Bus station,651,1,1,BUS_STOP,285,0
+516,86846,Rosebery_ Rosebery Av nr Epsom Rd,None,334344,6246076,Bus station,651,1,1,BUS_STOP,285,0
+517,86847,Rosebery_ Rosebery Av nr Crewe Pl,None,334356,6246043,Bus station,651,1,1,BUS_STOP,285,0
+518,86848,Rosebery_ Epsom Rd nr Rosebery Av,None,334481,6246183,Bus station,651,1,1,BUS_STOP,285,0
+519,86849,Randwick_ Alison Rd opp Glen Av,None,338021,6245967,Bus station,652,1,1,BUS_STOP,516,0
+520,86850,Randwick_ Alison Rd opp Farnham Av,None,337973,6246016,Bus station,652,1,1,BUS_STOP,516,0
+521,86851,Randwick_ Alison Rd nr Dutruc St,None,337791,6246060,Bus station,652,1,1,BUS_STOP,515,0
+522,86852,Randwick_ Alison Rd opp Dutruc St,None,337789,6246038,Bus station,652,1,1,BUS_STOP,515,0
+523,86858,Kensington_ Anzac Pde opp High St,None,335924,6245959,Bus station,656,1,1,BUS_STOP,519,0
+524,86859,Kensington_ Anzac Pde nr Doncaster Av,None,335862,6246087,Bus station,656,1,1,BUS_STOP,509,0
+525,86860,Kensington_ Anzac Pde nr Addison St,None,335757,6246167,Bus station,656,1,1,BUS_STOP,519,0
+526,86861,Kensington_ Kensington Rd nr Roma Av,None,335496,6246092,Bus station,657,1,1,BUS_STOP,519,0
+527,86862,Kensington_ Kensington Rd nr O.L.S.H.,None,335504,6246155,Bus station,657,1,1,BUS_STOP,519,0
+528,86863,Kensington_ Kensington Rd nr O.L.S.H.,None,335503,6246137,Bus station,657,1,1,BUS_STOP,519,0
+529,86864,Clovelly_ Clovelly Rd nr Beach St,None,339151,6246185,Bus station,661,1,1,BUS_STOP,518,0
+530,86865,Clovelly_ Clovelly Rd nr Beach St,None,339118,6246208,Bus station,661,1,1,BUS_STOP,518,0
+531,86866,Clovelly_ Clovelly Rd nr Arden St,None,339049,6246200,Bus station,661,1,1,BUS_STOP,518,0
+532,86867,Randwick_ Cook St nr Francis St,None,337221,6246381,Bus station,666,1,1,BUS_STOP,511,0
+533,86868,Randwick_ Cook St nr Francis St,None,337240,6246373,Bus station,666,1,1,BUS_STOP,511,0
+534,86869,Kensington_ Anzac Pde nr Darling St,None,335756,6246230,Bus station,669,1,1,BUS_STOP,509,0
+535,86870,Rosebery_ Rothschild Av opp Cressy Rd,None,334154,6246165,Bus station,670,1,1,BUS_STOP,285,0
+536,86871,Zetland_ Epsom Rd opp Dunning Av,None,334007,6246329,Bus station,670,1,1,BUS_STOP,284,0
+537,86872,Rosebery_ Epsom Rd nr Dunning Av,None,333999,6246312,Bus station,670,1,1,BUS_STOP,284,0
+538,86873,Randwick_ Carrington Rd nr Glebe St,None,338165,6246221,Bus station,672,1,1,BUS_STOP,517,0
+539,86878,Clovelly_ Clovelly Rd nr Knox St,None,338770,6246267,Bus station,674,1,1,BUS_STOP,513,0
+540,86879,Clovelly_ Clovelly Rd nr Dans Av,None,338808,6246241,Bus station,674,1,1,BUS_STOP,513,0
+541,86880,Randwick_ Clovelly Rd nr Fern St,None,338584,6246297,Bus station,681,1,1,BUS_STOP,513,0
+542,86881,Randwick_ Fern St nr Clovelly Rd,None,338600,6246318,Bus station,681,1,1,BUS_STOP,513,0
+543,86882,Clovelly_ Fern St nr Clovelly Rd,None,338614,6246301,Bus station,681,1,1,BUS_STOP,513,0
+544,86883,Clovelly_ Clovelly Rd nr Mount St,None,338634,6246267,Bus station,681,1,1,BUS_STOP,513,0
+545,86884,Rosebery_ Rothschild Av nr Epsom Rd,None,334157,6246241,Bus station,682,1,1,BUS_STOP,285,0
+546,86885,Beaconsfield_ Botany Rd opp Epsom Rd,None,333794,6246327,Bus station,683,1,1,BUS_STOP,288,0
+547,86886,Zetland_ Botany Rd nr Epsom Rd,None,333823,6246386,Bus station,683,1,1,BUS_STOP,284,0
+548,86887,Alexandria_ Botany Rd nr Johnson St,None,333836,6246568,Bus station,683,1,1,BUS_STOP,284,0
+549,86888,Zetland_ Botany Rd nr Hansard St,None,333860,6246510,Bus station,683,1,1,BUS_STOP,284,0
+550,86889,Clovelly_ Clovelly Rd nr Arden St,None,338978,6246233,Bus station,688,1,1,BUS_STOP,513,0
+551,86890,Clovelly_ Arden St nr Clovelly Rd,None,339028,6246242,Bus station,688,1,1,BUS_STOP,518,0
+552,86891,Randwick_ Carrington Rd opp Glebe St,None,338207,6246251,Bus station,690,1,1,BUS_STOP,517,0
+553,86892,Randwick_ Clovelly Rd opp Searle St,None,338159,6246467,Bus station,690,1,1,BUS_STOP,516,0
+554,86893,Randwick_ Clovelly Rd nr Carrington Rd,None,338371,6246428,Bus station,691,1,1,BUS_STOP,513,0
+555,86894,Randwick_ Clovelly Rd nr Carrington Rd,None,338331,6246460,Bus station,691,1,1,BUS_STOP,516,0
+556,86895,Randwick_ Carrington Rd nr Clovelly Rd,None,338350,6246477,Bus station,691,1,1,BUS_STOP,513,0
+557,86896,Randwick_ Carrington Rd nr Clovelly Rd,None,338366,6246474,Bus station,691,1,1,BUS_STOP,513,0
+558,86897,Kensington_ Todman Av nr Balfour St,None,335439,6246431,Bus station,695,1,1,BUS_STOP,508,0
+559,86898,Kensington_ Todman Av nr Balfour St,None,335453,6246452,Bus station,695,1,1,BUS_STOP,508,0
+560,86899,Kensington_ Todman Av nr Anzac Pde,None,335690,6246392,Bus station,697,1,1,BUS_STOP,509,0
+561,86900,Kensington_ Anzac Pde nr Todman Av,None,335729,6246448,Bus station,697,1,1,BUS_STOP,509,0
+562,86901,Kensington_ Anzac Pde nr Todman Av,None,335764,6246441,Bus station,697,1,1,BUS_STOP,509,0
+563,86902,Alexandria_ Bourke Rd nr Collins St,None,333196,6246332,Bus station,703,1,1,BUS_STOP,287,0
+564,86903,Alexandria_ Huntley St nr Bourke Rd,None,333069,6246284,Bus station,703,1,1,BUS_STOP,283,0
+565,86904,Alexandria_ Huntley St nr Bourke Rd,None,333119,6246272,Bus station,703,1,1,BUS_STOP,283,0
+566,86905,Randwick_ Canberra St nr Perouse Rd,None,337685,6244899,Bus station,707,1,1,BUS_STOP,528,0
+567,86906,Randwick_ Canberra St nr Howard St,None,337665,6244945,Bus station,707,1,1,BUS_STOP,528,0
+568,86907,Randwick_ Perouse Rd nr St Paul St,None,337562,6245316,Bus station,707,1,1,BUS_STOP,528,0
+569,86908,Randwick_ Perouse Rd nr Soudan St,None,337528,6245375,Bus station,707,1,1,BUS_STOP,528,0
+570,86909,Randwick_ Perouse Rd nr Coogee Bay Rd,None,337529,6245461,Bus station,707,1,1,BUS_STOP,521,0
+571,86910,Randwick_ Perouse Rd nr Cuthill St,None,337496,6245509,Bus station,707,1,1,BUS_STOP,521,0
+572,86911,Randwick_ Coogee Bay Rd nr Perouse Rd,None,337534,6245513,Bus station,707,1,1,BUS_STOP,521,0
+573,86912,Randwick_ Belmore Rd nr Arthur St,None,337340,6245806,Bus station,707,1,1,BUS_STOP,521,0
+574,86913,Randwick_ Belmore Rd nr Alison Rd,None,337238,6246083,Bus station,707,1,1,BUS_STOP,515,0
+575,86914,Randwick_ Perouse Rd nr Aeolia St,None,337535,6245426,Bus station,707,1,1,BUS_STOP,521,0
+576,86915,Randwick_ Coogee Bay Rd nr Perouse Rd,None,337541,6245536,Bus station,707,1,1,BUS_STOP,521,0
+577,86916,Randwick_ High St nr Prince of Wales Hospital,None,337189,6245656,Bus station,707,1,1,BUS_STOP,521,0
+578,86917,Randwick_ High St nr Clara St,None,337218,6245673,Bus station,707,1,1,BUS_STOP,521,0
+579,86918,Randwick_ Sacred Heart Primary School,None,337437,6245743,Bus station,707,1,1,BUS_STOP,521,0
+580,86919,Randwick_ Avoca St nr Short St,None,337416,6245755,Bus station,707,1,1,BUS_STOP,521,0
+581,86920,Randwick_ Belmore Rd nr Avoca St,None,337395,6245705,Bus station,707,1,1,BUS_STOP,521,0
+582,86921,Randwick_ Belmore Rd opp Arthur St,None,337341,6245860,Bus station,707,1,1,BUS_STOP,521,0
+583,86922,Randwick_ Avoca St opp Albert St,None,337447,6245953,Bus station,707,1,1,BUS_STOP,521,0
+584,86923,Randwick_ Belmore Rd opp Silver St,None,337275,6246040,Bus station,707,1,1,BUS_STOP,521,0
+585,86924,Randwick_ Avoca St nr Albert St,None,337476,6246010,Bus station,707,1,1,BUS_STOP,515,0
+586,86925,Randwick_ Alison Rd opp Lingard St,None,337503,6246064,Bus station,707,1,1,BUS_STOP,515,0
+587,86926,Randwick_ Alison Rd nr Avoca St,None,337439,6246075,Bus station,707,1,1,BUS_STOP,521,0
+588,86927,Randwick_ Alison Rd nr Avoca St,None,337451,6246095,Bus station,707,1,1,BUS_STOP,515,0
+589,86928,Randwick_ Alison Rd nr Marcellin College,None,337377,6246085,Bus station,707,1,1,BUS_STOP,515,0
+590,86929,Randwick_ Alison Rd nr Belmore Rd,None,337296,6246101,Bus station,707,1,1,BUS_STOP,515,0
+591,86930,Randwick_ Alison Rd opp Abbey St,None,337284,6246104,Bus station,707,1,1,BUS_STOP,515,0
+592,86931,Randwick_ Alison Rd nr Belmore Rd,None,337306,6246118,Bus station,707,1,1,BUS_STOP,515,0
+593,86932,Randwick_ Avoca St nr Eulalie Av,None,337594,6246262,Bus station,707,1,1,BUS_STOP,515,0
+594,86933,Randwick_ Avoca St nr Frances St,None,337567,6246260,Bus station,707,1,1,BUS_STOP,515,0
+595,86934,Randwick_ Avoca St nr Frenchmans Rd,None,337635,6246465,Bus station,707,1,1,BUS_STOP,516,0
+596,86935,Kensington_ Lenthall St nr Mc Dougall St,None,335136,6246306,Bus station,709,1,1,BUS_STOP,508,0
+597,86936,Kensington_ Lenthall St nr Milroy Av,None,335285,6246395,Bus station,709,1,1,BUS_STOP,508,0
+598,86937,Alexandria_ Maddox St nr Bourke Rd,None,333244,6246439,Bus station,710,1,1,BUS_STOP,283,0
+599,86938,Alexandria_ Maddox St nr Basketball Stadium,None,333256,6246467,Bus station,710,1,1,BUS_STOP,283,0
+600,86939,Kensington_ Lenthall St nr Virginia St,None,335014,6246208,Bus station,714,1,1,BUS_STOP,508,0
+601,86940,Randwick_ Fern St nr Greville St,None,338623,6246476,Bus station,715,1,1,BUS_STOP,513,0
+602,86941,Clovelly_ Fern St nr Greville St,None,338639,6246452,Bus station,715,1,1,BUS_STOP,513,0
+603,86942,Randwick_ Fern St nr Douglas St,None,338652,6246637,Bus station,715,1,1,BUS_STOP,513,0
+604,86943,Zetland_ Joynton Av nr South Sydney Hospital,None,334212,6246524,Bus station,718,1,1,BUS_STOP,285,0
+605,86944,Zetland_ Joynton Av opp South Sydney Hospital,None,334183,6246408,Bus station,718,1,1,BUS_STOP,285,0
+606,86945,Randwick_ Cowper St nr Church St,None,337181,6246517,Bus station,726,1,1,BUS_STOP,510,0
+607,86946,Randwick_ Cowper St nr Prince St,None,336946,6246569,Bus station,726,1,1,BUS_STOP,510,0
+608,86947,Randwick_ Cowper St nr Church St,None,337130,6246542,Bus station,726,1,1,BUS_STOP,510,0
+609,86948,Randwick_ Avoca St nr Astolat St,None,337668,6246566,Bus station,729,1,1,BUS_STOP,512,0
+610,86949,Randwick_ Frenchmans Rd nr Avoca St,None,337679,6246527,Bus station,729,1,1,BUS_STOP,511,0
+611,86953,Clovelly_ Arden St nr Burnie St,None,339063,6246471,Bus station,736,1,1,BUS_STOP,518,0
+612,86954,Clovelly_ Arden St nr Brandon St,None,339062,6246567,Bus station,736,1,1,BUS_STOP,518,0
+613,86955,Randwick_ Cowper St opp Mulwarree Av,None,336844,6246564,Bus station,737,1,1,BUS_STOP,510,0
+614,86956,Randwick_ Alison Rd nr Cowper St,None,336726,6246630,Bus station,737,1,1,BUS_STOP,510,0
+615,86957,Randwick_ Cowper St nr Mulwarree Av,None,336847,6246585,Bus station,737,1,1,BUS_STOP,510,0
+616,86958,Kensington_ Anzac Pde nr Ascot St,None,335751,6246656,Bus station,738,1,1,BUS_STOP,509,0
+617,86959,Kensington_ Anzac Pde nr Ascot St,None,335783,6246649,Bus station,738,1,1,BUS_STOP,509,0
+618,86963,Randwick_ Clovelly Rd nr Searle St,None,338123,6246515,Bus station,743,1,1,BUS_STOP,516,0
+619,86964,Randwick_ Frenchmans Rd nr Clovelly Rd,None,337943,6246620,Bus station,743,1,1,BUS_STOP,512,0
+620,86965,Randwick_ Clovelly Rd nr Frenchmans Rd,None,337973,6246666,Bus station,743,1,1,BUS_STOP,512,0
+621,86966,Randwick_ Clovelly Rd nr Frenchmans Rd,None,338026,6246597,Bus station,743,1,1,BUS_STOP,512,0
+622,86967,Randwick_ Frenchmans Rd nr Clovelly Rd,None,338026,6246630,Bus station,743,1,1,BUS_STOP,512,0
+623,86968,Kensington_ Todman Av nr Baker St,None,335145,6246735,Bus station,745,1,1,BUS_STOP,508,0
+624,86969,Kensington_ Todman Av opp Baker St,None,335165,6246743,Bus station,745,1,1,BUS_STOP,508,0
+625,86971,Kensington_ Anzac Pde opp Carlton St,None,335784,6246880,Bus station,747,1,1,BUS_STOP,509,0
+626,86972,Zetland_ Elizabeth St nr Joynton Av,None,334231,6246739,Bus station,748,1,1,BUS_STOP,284,0
+627,86973,Zetland_ Elizabeth St nr Joynton Av,None,334277,6246714,Bus station,748,1,1,BUS_STOP,284,0
+628,86974,Alexandria_ Huntley St nr Burrows Rd,None,332806,6246477,Bus station,750,1,1,BUS_STOP,283,0
+629,86976,Alexandria_ Euston Rd nr Sydney Park Rd,None,332766,6246681,Bus station,750,1,1,BUS_STOP,283,0
+630,86977,Alexandria_ Euston Rd nr Maddox St,None,332790,6246748,Bus station,750,1,1,BUS_STOP,283,0
+631,86979,Alexandria_ Euston Rd nr Maddox St,None,332853,6246798,Bus station,750,1,1,BUS_STOP,283,0
+632,86980,Randwick_ Frenchmans Rd nr Barrett Pl,None,338148,6246753,Bus station,752,1,1,BUS_STOP,512,0
+633,86981,Randwick_ Frenchmans Rd nr Kemmis St,None,338140,6246716,Bus station,752,1,1,BUS_STOP,512,0
+634,86982,Randwick_ Frenchmans Rd nr Gilderthorpe Av,None,338326,6246785,Bus station,752,1,1,BUS_STOP,512,0
+635,86983,Randwick_ Stanley St nr Avoca St,None,337652,6246691,Bus station,758,1,1,BUS_STOP,511,0
+636,86984,Randwick_ Avoca St nr Market St,None,337680,6246738,Bus station,758,1,1,BUS_STOP,511,0
+637,86985,Randwick_ Avoca St nr Stanley St,None,337663,6246741,Bus station,758,1,1,BUS_STOP,511,0
+638,86988,Randwick_ Alison Rd nr King St,None,336543,6246776,Bus station,766,1,1,BUS_STOP,510,0
+639,86989,Randwick_ Alison Rd nr Darley Rd,None,336479,6246796,Bus station,766,1,1,BUS_STOP,514,0
+640,86990,Randwick_ Alison Rd nr Randwick Racecourse,None,336490,6246789,Bus station,766,1,1,BUS_STOP,514,0
+641,86991,Randwick_ Darley Rd nr Alison Rd,None,336491,6246895,Bus station,766,1,1,BUS_STOP,507,0
+642,86992,Randwick_ Darley Rd nr Randwick TAFE,None,336517,6246879,Bus station,766,1,1,BUS_STOP,510,0
+643,86993,Zetland_ Joynton Av nr Gadigal Av,None,334359,6246802,Bus station,773,1,1,BUS_STOP,285,0
+644,87000,Zetland_ Joynton Av opp Morris Gr,None,334381,6246899,Bus station,781,1,1,BUS_STOP,285,0
+645,87001,Zetland_ Elizabeth St nr Merton St,None,334166,6246870,Bus station,781,1,1,BUS_STOP,284,0
+646,87002,Alexandria_ Botany Rd nr O`Riordan St,None,333844,6246786,Bus station,783,1,1,BUS_STOP,284,0
+647,87003,Zetland_ Botany Rd nr Bourke St,None,333864,6246811,Bus station,783,1,1,BUS_STOP,284,0
+648,87004,Green Square Station,None,333864,6246865,Bus station,783,1,1,BUS_STOP,284,0
+649,87005,Randwick_ Darley Rd nr Main Gate Centennial Park,None,336692,6246991,Bus station,785,1,1,BUS_STOP,507,0
+650,87006,Randwick_ King St nr Randwick Bus Depot,None,336818,6246783,Bus station,785,1,1,BUS_STOP,510,0
+651,87007,Randwick_ Darley Rd opp Main Gate Centennial Park,None,336706,6246967,Bus station,785,1,1,BUS_STOP,507,0
+652,87008,Randwick_ Clovelly Rd opp Gilderthorpe Av,None,337894,6246834,Bus station,786,1,1,BUS_STOP,512,0
+653,87009,Randwick_ Clovelly Rd nr Market St,None,337862,6246903,Bus station,786,1,1,BUS_STOP,512,0
+654,87010,Randwick_ Alison Rd nr AJC Main Entrance,None,336275,6246895,Bus station,787,1,1,BUS_STOP,514,0
+655,87012,Kensington_ Todman Avnr Carminya St,None,335069,6246892,Bus station,791,1,1,BUS_STOP,508,0
+656,87013,Kensington_ Todman Av nr South Dowling St,None,335012,6246996,Bus station,791,1,1,BUS_STOP,508,0
+657,87017,Randwick_ Carrington Rd nr Frenchmans Rd,None,338390,6246745,Bus station,793,1,1,BUS_STOP,513,0
+658,87018,Randwick_ Carrington Rd nr Douglas St,None,338411,6246741,Bus station,793,1,1,BUS_STOP,513,0
+659,87019,Randwick_ Albion St nr Hooper St,None,338494,6246865,Bus station,793,1,1,BUS_STOP,513,0
+660,87020,Randwick_ Albion St nr Carrington Rd,None,338442,6246800,Bus station,793,1,1,BUS_STOP,513,0
+661,87028,Zetland_ Joynton Av nr Wolseley Gr,None,334446,6246989,Bus station,799,1,1,BUS_STOP,285,0
+662,87029,Kensington_ Todman Av opp Carminya St,None,335087,6246897,Bus station,802,1,1,BUS_STOP,508,0
+663,87030,Alexandria_ Euston Rd nr Harley St,None,332957,6246970,Bus station,804,1,1,BUS_STOP,283,0
+664,87034,Alexandria_ McEvoy St nr Fountain St,None,333157,6247139,Bus station,804,1,1,BUS_STOP,277,0
+665,87035,Centennial Park_ Bus Roadway nr Doncaster Av,None,336013,6247077,Bus station,805,1,1,BUS_STOP,514,0
+666,87036,Kensington_ Alison Rd opp Doncaster Av,None,335992,6247061,Bus station,805,1,1,BUS_STOP,507,0
+667,87037,Centennial Park_ Bus Roadway nr Alison Rd,None,336005,6247061,Bus station,805,1,1,BUS_STOP,514,0
+668,87038,Zetland_ Elizabeth St nr Bourke St,None,334085,6246964,Bus station,806,1,1,BUS_STOP,284,0
+669,87039,Waterloo_ Elizabeth St nr Bourke St,None,334073,6247057,Bus station,806,1,1,BUS_STOP,278,0
+670,87040,Randwick_ Clovelly Rd nr Avoca St,None,337712,6246993,Bus station,809,1,1,BUS_STOP,512,0
+671,87041,Randwick_ Clovelly Rd nr Avoca St,None,337670,6247058,Bus station,809,1,1,BUS_STOP,511,0
+672,87042,Randwick_ Avoca St nr Darley Rd,None,337721,6247176,Bus station,809,1,1,BUS_STOP,512,0
+673,87047,Randwick_ Alison Rd nr Doncaster Av,None,336076,6246983,Bus station,813,1,1,BUS_STOP,509,0
+674,87048,Waterloo_ O`Dea Av nr South Dowling St,None,334826,6247080,Bus station,814,1,1,BUS_STOP,285,0
+675,87053,Zetland_ O`Dea Av nr Joynton Av,None,334618,6247089,Bus station,826,1,1,BUS_STOP,285,0
+676,87054,Waterloo_ O`Dea Av nr Joynton Av,None,334537,6247122,Bus station,826,1,1,BUS_STOP,285,0
+677,87055,Randwick_ Darley Rd opp Govett St,None,336946,6247059,Bus station,830,1,1,BUS_STOP,507,0
+678,87056,Randwick_ Darley Rd nr Govett St,None,336952,6247034,Bus station,830,1,1,BUS_STOP,507,0
+679,87057,Randwick_ Clovelly Rd nr Earl St,None,337560,6247118,Bus station,832,1,1,BUS_STOP,511,0
+680,87058,Randwick_ Earl St nr Clovelly Rd,None,337572,6247140,Bus station,832,1,1,BUS_STOP,511,0
+681,87059,Randwick_ Clovelly Rd nr Earl St,None,337542,6247151,Bus station,832,1,1,BUS_STOP,511,0
+682,87060,Randwick_ Avoca St nr Darley Rd,None,337705,6247212,Bus station,832,1,1,BUS_STOP,512,0
+683,87061,Kensington_ Anzac Pde nr Abbotford St,None,335799,6247040,Bus station,833,1,1,BUS_STOP,509,0
+684,87062,Kensington_ Alison Rd nr Anzac Pde,None,335717,6247288,Bus station,837,1,1,BUS_STOP,509,0
+685,87063,Kensington_ Anzac Pde nr Alison Rd,None,335696,6247280,Bus station,837,1,1,BUS_STOP,509,0
+686,87075,Zetland_ O`Dea Av nr Bourke St,None,334288,6247113,Bus station,846,1,1,BUS_STOP,285,0
+687,87076,Waterloo_ O`Dea Av nr Bourke St,None,334335,6247121,Bus station,846,1,1,BUS_STOP,285,0
+688,87077,Waterloo_ Bourke St nr Powell St,None,334306,6247228,Bus station,846,1,1,BUS_STOP,279,0
+689,87078,Waterloo_ Bourke St opp Powell St,None,334369,6247263,Bus station,846,1,1,BUS_STOP,279,0
+690,87079,Waterloo_ Elizabeth St nr Allen St,None,334073,6247165,Bus station,851,1,1,BUS_STOP,278,0
+691,87082,Alexandria_ Botany Rd nr Mandible St,None,333770,6247074,Bus station,856,1,1,BUS_STOP,278,0
+692,87083,Waterloo_ Botany Rd nr Allen St,None,333769,6247126,Bus station,856,1,1,BUS_STOP,278,0
+693,87084,Alexandria_ McEvoy St nr Wyndham St,None,333567,6247285,Bus station,856,1,1,BUS_STOP,277,0
+694,87085,Alexandria_ McEvoy St nr Botany Rd,None,333645,6247287,Bus station,856,1,1,BUS_STOP,277,0
+695,87086,Alexandria_ Botany Rd nr McEvoy St,None,333681,6247286,Bus station,856,1,1,BUS_STOP,268,0
+696,87088,Alexandria_ McEvoy St nr Stokes Av,None,333318,6247189,Bus station,859,1,1,BUS_STOP,277,0
+697,87089,Alexandria_ McEvoy St nr Loveridge St,None,333392,6247228,Bus station,859,1,1,BUS_STOP,277,0
+698,87090,Alexandria_ McEvoy St nr Hiles St,None,333523,6247251,Bus station,859,1,1,BUS_STOP,277,0
+699,87092,Randwick_ Darley Rd nr Evans St,None,337133,6247154,Bus station,861,1,1,BUS_STOP,510,0
+700,87093,Randwick_ Darley Rd opp Evans St,None,337083,6247148,Bus station,862,1,1,BUS_STOP,507,0
+701,87094,Waterloo_ Elizabeth St nr McEvoy St,None,334120,6247412,Bus station,863,1,1,BUS_STOP,278,0
+702,87095,Alexandria_ Park St nr Alexandria Park School,None,333252,6247364,Bus station,866,1,1,BUS_STOP,276,0
+703,87100,Waterloo_ Bourke St nr McEvoy St,None,334442,6247377,Bus station,875,1,1,BUS_STOP,279,0
+704,87109,Alexandria_ Wyndham St nr Buckland St,None,333480,6247536,Bus station,884,1,1,BUS_STOP,276,0
+705,87119,Waterloo_ Bourke St opp Lachlan St,None,334560,6247536,Bus station,895,1,1,BUS_STOP,270,0
+706,87120,Waterloo_ Bourke St nr Danks St,None,334651,6247620,Bus station,895,1,1,BUS_STOP,270,0
+707,87121,Moore Park_ Bus Roadway nr Robertson Rd,None,335659,6247509,Bus station,903,1,1,BUS_STOP,514,0
+708,87127,Queens Park_ Queens Park Rd nr York Rd,None,337533,6247730,Bus station,909,1,1,BUS_STOP,507,0
+709,87128,Queens Park_ Queens Park Rd nr York Rd,None,337519,6247711,Bus station,909,1,1,BUS_STOP,507,0
+710,87155,Alexandria_ Mitchell St nr Buckland St,None,333025,6247465,Bus station,930,1,1,BUS_STOP,276,0
+711,87156,Alexandria_ Mitchell St nr Henderson Rd,None,333127,6247692,Bus station,930,1,1,BUS_STOP,276,0
+712,87157,Alexandria_ Henderson Rd nr Phillips St,None,333208,6247741,Bus station,930,1,1,BUS_STOP,276,0
+713,87161,Alexandria_ Henderson Rd nr Garden St,None,333280,6247784,Bus station,946,1,1,BUS_STOP,276,0
+714,87239,Centennial Park_ Oxford St nr Moncur St,None,337061,6248548,Bus station,1077,1,1,BUS_STOP,507,0
+715,87250,Centennial Park_ Oxford St nr Loch Av,None,337366,6248627,Bus station,1103,1,1,BUS_STOP,507,0
+716,87304,Centennial Park_ Moore Park Rd nr Cook Rd,None,336535,6248633,Bus station,1146,1,1,BUS_STOP,507,0
+717,87353,Woollahra_ Ocean St nr Trelawney St,None,337135,6249348,Bus station,1247,1,1,BUS_STOP,-1,-1
+718,87415,Kingsford_ Anzac Pde Stand B nr Gardeners Rd,None,336176,6244854,Light rail station,491,1,1,LIGHTRAIL_STATION,526,0
+719,87416,Kingsford_ Anzac Pde nr Rainbow St,None,336199,6244862,Light rail station,491,1,1,LIGHTRAIL_STATION,526,0
+720,87417,Kingsford_ Anzac Pde Stand E nr Rainbow St,None,336176,6244897,Light rail station,491,1,1,LIGHTRAIL_STATION,526,0
+721,87418,Kingsford_ Anzac Pde Stand C nr Rainbow St,None,336191,6244865,Light rail station,491,1,1,LIGHTRAIL_STATION,526,0
+722,87419,Kingsford_ Anzac Pde Stand D nr Rainbow St,None,336186,6244879,Light rail station,491,1,1,LIGHTRAIL_STATION,526,0
+723,87420,Kingsford_ Meeks St nr Anzac Pde,None,336152,6244984,Light rail station,501,1,1,LIGHTRAIL_STATION,526,0
+724,87421,Kingsford_ Anzac Pde nr Strachan St,None,336082,6245121,Light rail station,525,1,1,LIGHTRAIL_STATION,525,0
+725,87422,Kingsford_ Anzac Pde nr Middle St,None,336090,6245184,Light rail station,525,1,1,LIGHTRAIL_STATION,526,0
+726,87423,Kingsford_ Anzac Pde nr Barker St,None,336046,6245337,Light rail station,562,1,1,LIGHTRAIL_STATION,525,0
+727,87424,Kensington_ Anzac Pde nr Barker St,None,336056,6245396,Light rail station,562,1,1,LIGHTRAIL_STATION,520,0
+728,87425,Kensington_ Day Av nr Anzac Pde,None,335983,6245528,Light rail station,583,1,1,LIGHTRAIL_STATION,520,0
+729,87426,Kensington_ Anzac Pde Stand B opp UNSW,None,335989,6245658,Light rail station,583,1,1,LIGHTRAIL_STATION,521,0
+730,87427,Kensington_ Day Av nr Anzac Pde,None,336004,6245545,Light rail station,583,1,1,LIGHTRAIL_STATION,521,0
+731,87428,Kensington_ Anzac Pde Stand D at UNSW,None,336025,6245579,Light rail station,583,1,1,LIGHTRAIL_STATION,520,0
+732,87429,Kensington_ Anzac Pde Stand C opp UNSW,None,335997,6245618,Light rail station,583,1,1,LIGHTRAIL_STATION,520,0
+733,87430,Randwick_ High St nr Wansey Rd,None,336716,6245767,Light rail station,591,1,1,LIGHTRAIL_STATION,520,0
+734,87431,Randwick_ Botany St nr High St,None,336964,6245672,Light rail station,603,1,1,LIGHTRAIL_STATION,520,0
+735,87432,Randwick_ Botany St nr High St,None,336982,6245661,Light rail station,603,1,1,LIGHTRAIL_STATION,527,0
+736,87433,Randwick_ High St nr Gate 9 UNSW,None,336854,6245706,Light rail station,603,1,1,LIGHTRAIL_STATION,527,0
+737,87434,Randwick_ High St nr Gate 9 UNSW,None,336875,6245701,Light rail station,603,1,1,LIGHTRAIL_STATION,520,0
+738,87435,Randwick_ High St nr Botany St,None,336944,6245713,Light rail station,603,1,1,LIGHTRAIL_STATION,521,0
+739,87436,Randwick_ High St nr Gate 2 UNSW,None,336178,6245846,Light rail station,615,1,1,LIGHTRAIL_STATION,521,0
+740,87437,Kensington_ High St nr Anzac Pde,None,336031,6245849,Light rail station,619,1,1,LIGHTRAIL_STATION,521,0
+741,87438,Kensington_ Anzac Pde Stand A opp UNSW,None,335969,6245742,Light rail station,619,1,1,LIGHTRAIL_STATION,521,0
+742,87439,Kensington_ Anzac Pde opp High St,None,335924,6245959,Light rail station,656,1,1,LIGHTRAIL_STATION,520,0
+743,87440,Kensington_ Anzac Pde nr Doncaster Av,None,335862,6246087,Light rail station,656,1,1,LIGHTRAIL_STATION,520,0
+744,87441,Kensington_ Anzac Pde nr Addison St,None,335757,6246167,Light rail station,656,1,1,LIGHTRAIL_STATION,520,0
+745,87442,Kensington_ Anzac Pde nr Darling St,None,335756,6246230,Light rail station,669,1,1,LIGHTRAIL_STATION,520,0
+746,87443,Kensington_ Todman Av nr Anzac Pde,None,335690,6246392,Light rail station,697,1,1,LIGHTRAIL_STATION,521,0
+747,87444,Kensington_ Anzac Pde nr Todman Av,None,335729,6246448,Light rail station,697,1,1,LIGHTRAIL_STATION,519,0
+748,87445,Kensington_ Anzac Pde nr Todman Av,None,335764,6246441,Light rail station,697,1,1,LIGHTRAIL_STATION,521,0
+749,87446,Randwick_ High St nr Prince of Wales Hospital,None,337189,6245656,Light rail station,707,1,1,LIGHTRAIL_STATION,509,0
+750,87447,Randwick_ High St nr Clara St,None,337218,6245673,Light rail station,707,1,1,LIGHTRAIL_STATION,515,0
+751,87448,Randwick_ Belmore Rd nr Avoca St,None,337395,6245705,Light rail station,707,1,1,LIGHTRAIL_STATION,519,0
+752,87449,Randwick_ Belmore Rd nr Arthur St,None,337340,6245806,Light rail station,707,1,1,LIGHTRAIL_STATION,509,0
+753,87450,Randwick_ Belmore Rd opp Arthur St,None,337341,6245860,Light rail station,707,1,1,LIGHTRAIL_STATION,509,0
+754,87451,Randwick_ Belmore Rd opp Silver St,None,337275,6246040,Light rail station,707,1,1,LIGHTRAIL_STATION,509,0
+755,87452,Randwick_ Belmore Rd nr Alison Rd,None,337238,6246083,Light rail station,707,1,1,LIGHTRAIL_STATION,509,0
+756,87453,Randwick_ Alison Rd nr Cowper St,None,336726,6246630,Light rail station,737,1,1,LIGHTRAIL_STATION,509,0
+757,87454,Kensington_ Anzac Pde nr Ascot St,None,335751,6246656,Light rail station,738,1,1,LIGHTRAIL_STATION,510,0
+758,87455,Kensington_ Anzac Pde nr Ascot St,None,335783,6246649,Light rail station,738,1,1,LIGHTRAIL_STATION,509,0
+759,87456,Kensington_ Anzac Pde opp Carlton St,None,335784,6246880,Light rail station,747,1,1,LIGHTRAIL_STATION,510,0
+760,87457,Randwick_ Alison Rd nr King St,None,336543,6246776,Light rail station,766,1,1,LIGHTRAIL_STATION,514,0
+761,87458,Randwick_ Alison Rd nr Darley Rd,None,336479,6246796,Light rail station,766,1,1,LIGHTRAIL_STATION,514,0
+762,87459,Randwick_ Alison Rd nr Randwick Racecourse,None,336490,6246789,Light rail station,766,1,1,LIGHTRAIL_STATION,509,0
+763,87460,Randwick_ Alison Rd nr AJC Main Entrance,None,336275,6246895,Light rail station,787,1,1,LIGHTRAIL_STATION,514,0
+764,87461,Kensington_ Alison Rd opp Doncaster Av,None,335992,6247061,Light rail station,805,1,1,LIGHTRAIL_STATION,509,0
+765,87462,Centennial Park_ Bus Roadway nr Doncaster Av,None,336013,6247077,Light rail station,805,1,1,LIGHTRAIL_STATION,509,0
+766,87463,Centennial Park_ Bus Roadway nr Alison Rd,None,336005,6247061,Light rail station,805,1,1,LIGHTRAIL_STATION,507,0
+767,87464,Randwick_ Alison Rd nr Doncaster Av,None,336076,6246983,Light rail station,813,1,1,LIGHTRAIL_STATION,509,0
+768,87465,Kensington_ Anzac Pde nr Abbotford St,None,335799,6247040,Light rail station,833,1,1,LIGHTRAIL_STATION,509,0
+769,87466,Kensington_ Alison Rd nr Anzac Pde,None,335717,6247288,Light rail station,837,1,1,LIGHTRAIL_STATION,514,0
+770,87467,Kensington_ Anzac Pde nr Alison Rd,None,335696,6247280,Light rail station,837,1,1,LIGHTRAIL_STATION,514,0
+771,87468,Moore Park_ Bus Roadway nr Robertson Rd,None,335659,6247509,Light rail station,903,1,1,LIGHTRAIL_STATION,514,0
+772,87493,Congwong Bay,Botany Bay,336878.8849,6237357.751,Bays and Beaches,61,1,0,Bays and Beaches,557,0
+773,87494,Congwong Bay Beach,Botany Bay,336944.885,6237572.751,Bays and Beaches,67,1,0,Bays and Beaches,557,0
+774,87495,Cann Park,La Perouse,336937.8851,6237826.75,Park,70,1,0,Park,557,0
+775,87496,Cape Banks Aquatic Reserve,Botany Bay,337366.8834,6236547.752,Bays and Beaches,53,0,0,Bays and Beaches,557,0
+776,87497,Henry Head,Botany Bay,337147.8839,6236583.752,Bays and Beaches,55,0,0,Bays and Beaches,557,0
+777,87498,Little Congwong Beach,Botany Bay,337183.8844,6237375.751,Bays and Beaches,62,0,0,Bays and Beaches,557,0
+778,87499,Botany Bay National Park,Little Bay,337201.8847,6237968.75,Park,72,1,0,Park,557,0
+779,87500,Cape Banks,La Perouse,338411.8813,6236287.752,Bays and Beaches,50,0,0,Bays and Beaches,558,0
+780,87501,Cruwee Cove,Botany Bay,337977.8823,6236569.752,Bays and Beaches,54,0,0,Bays and Beaches,558,0
+781,87502,Little Bay,Little Bay,338579.8827,6238749.747,Bays and Beaches,94,1,0,Bays and Beaches,558,0
+782,87503,Molineaux Point,Port Botany,334964.8891,6238083.751,Bays and Beaches,74,0,0,Bays and Beaches,556,0
+783,87504,Bare Island,Botany Bay,336463.8857,6237335.751,Bays and Beaches,59,0,0,Bays and Beaches,557,0
+784,87505,Botany Bay National Park,La Perouse,336677.8855,6237681.751,Park,69,1,0,Park,557,0
+785,87506,FRENCHMANS BAY RESERVE,La Perouse,336683.6301,6237834.806,Reserve,71,1,0,Reserve,557,0
+786,87507,Frenchmans Bay,Botany Bay,336414.8863,6238088.75,Bays and Beaches,75,0,0,Bays and Beaches,557,0
+787,87508,Yarra Recreation Reserve,Phillip Bay,336681.8863,6238763.749,Park,95,1,0,Park,557,0
+788,87509,Yarra Point,Botany Bay,336233.8869,6238420.75,Bays and Beaches,84,0,0,Bays and Beaches,557,0
+789,87510,Yarra Bay Bicentennial Park,Phillip Bay,336418.8869,6238918.748,Park,98,1,0,Park,557,0
+790,87511,Woomera Reserve,Little Bay,337196.8854,6238805.748,Park,96,1,0,Park,557,0
+791,87512,Banks Wall,Port Botany,335154.8889,6238401.75,Bays and Beaches,81,0,0,Bays and Beaches,556,0
+792,87513,Yarra Bay,Botany Bay,335948.8877,6238727.749,Bays and Beaches,92,0,0,Bays and Beaches,556,0
+793,87514,Bumborah Point,Botany Bay,335920.8879,6238977.749,Bays and Beaches,100,1,0,Bays and Beaches,556,0
+794,87515,Brotherson Dock,Port Botany,334919.8903,6239726.748,Bays and Beaches,113,0,0,Bays and Beaches,556,0
+795,87516,Buchan Point,Little Bay,339046.882,6238999.746,Bays and Beaches,101,1,0,Bays and Beaches,555,0
+796,87517,Duri Reserve,Malabar,338615.883,6239335.746,Park,105,1,0,Park,555,0
+797,87518,Boora Point,Malabar,339782.8813,6239978.744,Bays and Beaches,119,0,0,Bays and Beaches,555,0
+798,87519,Rubie Reserve,Malabar,338574.8834,6239662.746,Park,110,1,0,Park,555,0
+799,87520,Long Bay,Malabar,338728.8835,6240235.744,Bays and Beaches,123,1,0,Bays and Beaches,555,0
+800,87521,Burke Reserve,Chifley,337569.8857,6240347.745,Park,129,1,0,Park,554,0
+801,87523,Malabar Beach,Malabar,338552.8839,6240409.744,Bays and Beaches,131,1,0,Bays and Beaches,552,0
+802,87524,Magic Point,Malabar,339780.882,6240981.742,Bays and Beaches,158,0,0,Bays and Beaches,552,0
+803,87525,Purcell Park,Matraville,336091.8887,6240602.746,Park,138,1,0,Park,549,0
+804,87526,PURCEL PARK,Matraville,336198.6832,6240612.897,Park,139,1,0,Park,549,0
+805,87527,Cromwell Park,Malabar,338368.8845,6240711.744,Park,142,1,0,Park,552,0
+806,87528,Bunnerong Equestrian Park,Matraville,337012.2098,6240724.215,Park,143,1,0,Park,550,0
+807,87529,Baird Reserve,Matraville,336426.8884,6241047.744,Park,161,1,0,Park,550,0
+808,87531,Pioneers Park,Malabar,338130.8852,6241020.743,Park,160,1,0,Park,547,0
+809,87532,Lake Malabar,Maroubra,337914.8857,6241211.743,Park,164,1,0,Park,547,0
+810,87533,Primary RESERVE,Maroubra,337815.09,6241280.107,Reserve,168,1,0,Reserve,547,0
+811,87534,Primary RESERVE,Matraville,337288.2867,6241522.109,Reserve,181,1,0,Reserve,548,0
+812,87535,Ocean View Reserve,Maroubra,338050.8857,6241521.742,Park,180,1,0,Park,547,0
+813,87536,Matraville Park,Maroubra,336652.8884,6241638.743,Park,194,1,0,Park,548,0
+814,87537,Memorial Park,Matraville,337491.8868,6241612.743,Park,189,1,0,Park,544,0
+815,87538,Maroubra Beach,Maroubra,339003.8841,6241899.741,Bays and Beaches,210,1,0,Bays and Beaches,546,0
+816,87539,MAROUBRA SOUTH SHOPPING VILLAGE,Maroubra,338249.211,6241841.508,Shopping Centre,208,1,0,Shopping Centre,547,0
+817,87540,SOUTH MAROUBRA SHOPPING CENTRE,MAROUBRA,338249.211,6241841.508,Shopping Centre,208,1,0,Shopping Centre,547,0
+818,87546,South Maroubra Village Shopping Centre Maroubra,Maroubra,338225,6241865,Shopping Centre,208,1,0,Shopping Centre,547,0
+819,87547,Payless Supermarket,Maroubra,338020.1663,6242066.886,Supermarket,219,1,0,Supermarket,545,0
+820,87548,Arthur Byrne Reserve,Maroubra,338767.8847,6242062.741,Park,218,1,0,Park,546,0
+821,87550,Heffron Park,Maroubra,336732.8886,6242106.742,Park,222,1,0,Park,544,0
+822,87552,Coral Sea Park,Maroubra,337764.8868,6242290.741,Park,235,1,0,Park,545,0
+823,87553,Broadarrow Reserve,Maroubra,338573.8852,6242297.741,Park,238,1,0,Park,546,0
+824,87554,John Shore Park,Maroubra,338624.8852,6242403.74,Park,247,1,0,Park,546,0
+825,87555,Sir Joseph Banks Park,Botany,332888.8958,6241989.745,Park,215,0,0,Park,-1,-1
+826,87556,Eastgardens Shopping Centre,Eastgardens,335910,6242530,Shopping Centre,263,1,0,Shopping Centre,419,0
+827,87559,Maroubra Bay,Maroubra,339316.8837,6242151.74,Bays and Beaches,226,1,0,Bays and Beaches,546,0
+828,87563,Engine Pond,Mascot,332739.8966,6242704.744,Bays and Beaches,276,1,0,Bays and Beaches,-1,-1
+829,87565,Jack Vanny Memorial Park,Maroubra,339410.8839,6242702.739,Park,275,1,0,Park,543,0
+830,87569,Nagle Park,Maroubra,336718.8891,6242766.741,Park,287,1,0,Park,540,0
+831,87571,Coles,Maroubra,337254.6983,6242966.945,SHOPPING CENTRE,322,1,0,SHOPPING CENTRE,537,0
+832,87572,Pacific Square Shopping Mall,Maroubra,337254.6983,6242966.945,Shopping Centre,322,1,0,Shopping Centre,537,0
+833,87573,Stockland Mall,Maroubra,337154.8885,6243063.74,Shopping Centre,322,1,0,Shopping_Complex,537,0
+834,87576,Mistral Point,Maroubra,339689.8836,6242968.738,Bays and Beaches,306,1,0,Bays and Beaches,543,0
+835,87578,DRAINAGE RESERVE,Maroubra,337456.866,6243114.4,Reserve,318,1,0,Reserve,537,0
+836,87579,Lurline Bay,Maroubra,339326.8845,6243362.738,Bays and Beaches,333,1,0,Bays and Beaches,543,0
+837,87580,Quarry Reserve,Maroubra,338130.8868,6243387.739,Park,339,1,0,Park,539,0
+838,87581,Central Park,Maroubra,337739.8876,6243410.739,Park,341,1,0,Park,538,0
+839,87583,Gollan Park,South Coogee,338697.886,6243737.738,Park,363,1,0,Park,536,0
+840,87584,Snape Park,Maroubra,336777.8896,6243633.739,Park,356,1,0,Park,532,0
+841,87585,Latham Park,Maroubra,338103.1564,6243741.335,Park,366,1,0,Park,534,0
+842,87586,Latham Park,South Coogee,338301.8867,6243654.738,Park,358,1,0,Park,536,0
+843,87587,Popplewell Park,South Coogee,338927.8856,6243743.737,Park,377,1,0,Park,536,0
+844,87591,Primary RESERVE,South Coogee,338224.3083,6243831.924,Reserve,374,1,0,Reserve,536,0
+845,87592,Rowland Park,Daceyville,336226.891,6244072.739,Park,399,1,0,Park,532,0
+846,87598,Emily McCarthy Park,South Coogee,338621.8865,6244279.737,Park,423,1,0,Park,536,0
+847,87604,Blenheim Park,Coogee,338829.8863,6244531.736,Park,441,1,0,Park,531,0
+848,87606,Trenerry Reserve,Coogee,339196.8856,6244560.736,Park,449,1,0,Park,531,0
+849,87607,Trenery Reserve,Coogee,339123.3982,6244590.659,Reserve,449,1,0,Reserve,531,0
+850,87608,Wedding Cake Island,Coogee,339678.8848,6244698.735,Bays and Beaches,463,0,0,Bays and Beaches,531,0
+851,87614,Bangor Park,Coogee,338016.888,6244658.736,Park,457,1,0,Park,531,0
+852,87619,CLARIS PARK,Coogee,338646.7221,6244758.827,Park,476,1,0,Park,531,0
+853,87620,Paine Reserve,Randwick,336908.8902,6244847.737,Park,488,1,0,Park,527,0
+854,87621,KENSINGTON ROTARY RESERVE,Kingsford,335550.8391,6244726.075,Reserve,467,1,0,Reserve,525,0
+855,87622,CARPARK,Kingsford,336058.6842,6244941.195,CARPARK,501,1,1,CARPARK,525,0
+856,87623,Grant Reserve,Coogee,338990.8862,6244803.735,Park,492,1,0,Park,529,0
+857,87624,Shaw Reserve,Kingsford,336700.8908,6245074.737,Park,513,1,0,Park,526,0
+858,87625,Baker Park,Coogee,338180.8879,6245049.736,Park,547,1,0,Park,529,0
+859,87626,Tarakan Reserve,Rosebery,334040.896,6245215.738,Park,535,1,0,Park,294,0
+860,87627,Coogee Beach,Coogee,338997.8865,6245208.735,Bays and Beaches,531,1,0,Bays and Beaches,529,0
+861,87628,El Alamein Park,Rosebery,334231.8956,6245201.738,Park,543,1,0,Park,294,0
+862,87629,DRAINAGE RESERVE,Rosebery,334468.5383,6245212.875,Reserve,533,1,0,Reserve,294,0
+863,87630,Woolworths,Coogee,338576.7931,6245303.516,Supermarket,553,1,0,Woolworths,529,0
+864,87631,Kensington Park,Kensington,335648.8929,6245265.737,Park,542,1,1,Park,525,0
+865,87632,Primary RESERVE,Rosebery,334625.4148,6245391.436,Reserve,560,1,0,Reserve,294,0
+866,87633,Physics Lawn,Kensington,336328.8917,6245428.736,Park,564,1,1,Park,520,0
+867,87634,Crete Reserve,Rosebery,334135.8958,6245268.738,Park,543,1,0,Park,294,0
+868,87635,Coogee Bay,Coogee,339144.8862,6245205.735,Bays and Beaches,530,1,0,Bays and Beaches,529,0
+869,87636,Coogee Beach Plaza,Coogee,338902.8867,6245251.735,SHOPPING CENTRE,553,1,0,SHOPPING CENTRE,529,0
+870,87637,Turruwul Park,Rosebery,333988.8962,6245368.738,Park,557,1,0,Park,294,0
+871,87638,Coogee Oval,Coogee,338729.8871,6245433.734,Park,566,1,0,Park,523,0
+872,87639,Coogee Palace Shopping Centre,Coogee,338979,6245488,Shopping Centre,574,1,0,Shopping Centre,529,0
+873,87640,The Village Green,Kensington,336184.8921,6245509.736,Park,570,1,1,Park,520,0
+874,87641,Dolphins Point,Coogee,339300.886,6245368.734,Bays and Beaches,556,1,0,Bays and Beaches,523,0
+875,87642,Dunningham Reserve,Coogee,339192.8863,6245552.734,Park,576,1,0,Park,523,0
+876,87643,Fitzpatrick Park,Kensington,335440.8936,6245601.736,Park,579,1,0,Park,519,0
+877,87644,M F C Supermarket,Coogee,338182.1247,6245663.754,Supermarket,588,1,0,Supermarket,522,0
+878,87645,Quadrangle Lawn,Kensington,336457.8917,6245652.736,Park,586,1,1,Park,520,0
+879,87646,Michael Birt Gardens,Kensington,336845.8909,6245646.735,Park,603,1,1,Park,520,0
+880,87647,Dardon Park,Coogee,338572.0958,6245742.712,Park,599,1,0,Park,523,0
+881,87648,Bardon Park,Coogee,338508.8877,6245677.734,Park,599,1,0,Park,523,0
+882,87649,Library Lawn,Kensington,336690.8912,6245679.735,Park,591,1,1,Park,520,0
+883,87651,Bronte-Coogee Aquatic Reserve,Clovelly,340036.8848,6245707.733,Bays and Beaches,595,1,0,Bays and Beaches,518,0
+884,87652,Gordons Bay,Coogee,339413.8861,6245805.733,Bays and Beaches,609,1,0,Bays and Beaches,518,0
+885,87653,Coles,Randwick,337381.4315,6245697.202,SHOPPING CENTRE,707,1,1,SHOPPING CENTRE,521,0
+886,87654,Randwick Plaza,Randwick,337315,6245726,SHOPPING CENTRE,707,1,1,SHOPPING CENTRE,521,0
+887,87655,Randwick Plaza Shopping Centre,Randwick,337323,6245729,Shopping Centre,707,1,1,Shopping Centre,521,0
+888,87659,Writtle Park,Randwick,336953.8909,6245910.735,Park,626,1,1,Park,521,0
+889,87660,RANDWICK VILLAGE SHOPPING CENTRE,RANDWICK,337379.3724,6245898.419,Shopping Centre,707,1,1,Shopping Centre,521,0
+890,87661,ROYAL RITZ SHOPPING CENTRE,RANDWICK,337379.3724,6245898.419,Shopping Centre,707,1,1,Shopping Centre,521,0
+891,87662,Royal Randwick,Randwick,337345.8901,6245904.734,Shopping Centre,707,1,1,Shopping_Complex,521,0
+892,87663,Royal Randwick Shopping Centre,Randwick,337309.1938,6245935.237,Shopping Centre,707,1,1,Shopping Centre,521,0
+893,87664,Randwick Oriental Supermarket,Randwick,337288.5663,6245954.366,Supermarket,707,1,1,Supermarket,521,0
+894,87665,Bundock Park,Clovelly,339900.8853,6246012.732,Park,638,1,0,Park,518,0
+895,87666,Clovelly Bay,Clovelly,339950.8851,6245822.733,Bays and Beaches,613,1,0,Bays and Beaches,518,0
+896,87667,Shark Point,Clovelly,340232.8846,6245928.732,Bays and Beaches,629,1,0,Bays and Beaches,518,0
+897,87668,Burrows Park,Clovelly,340065.8851,6246122.732,Park,647,1,0,Park,518,0
+898,87669,Doncaster Plaza,Kensington,335829,6246171,SHOPPING CENTRE,656,1,1,SHOPPING CENTRE,509,0
+899,87670,Fred Hollows Reserve,Randwick,338022.8891,6246272.733,Park,672,1,0,Park,516,0
+900,87671,Clovelly Supermarket,Clovelly,338857.6267,6246263.158,Supermarket,674,1,0,Supermarket,513,0
+901,87672,Doncaster,Kensington,335861.8931,6246123.735,Shopping Centre,656,1,1,Shopping_Complex,509,0
+902,87674,TRAMWAY RESERVE,Randwick,337042.0553,6246309.477,Reserve,679,1,1,Reserve,515,0
+903,87675,Alison Park,Randwick,337337.8904,6246202.734,Park,707,1,1,Park,515,0
+904,87676,City South Business Park,Rosebery,333893,6246230,Park,665,1,0,Park,288,0
+905,87677,Beaconsfield Park,Beaconsfield,333558.8977,6246251.737,Park,668,1,0,Park,287,0
+906,87679,Burnie Park,Clovelly,339159.887,6246413.732,Park,693,1,0,Park,518,0
+907,87681,Les Bridge Playground,Kensington,334881.8953,6246493.735,Park,714,1,0,Park,508,0
+908,87682,Mcconville Reserve,Beaconsfield,333559.72,6246469.248,Reserve,716,1,0,Reserve,287,0
+909,87683,McConville Reserve,Alexandria,333517.8979,6246500.736,Park,716,1,0,Park,287,0
+910,87686,Perry Park,Alexandria,333226.8986,6246618.736,Park,732,1,0,Park,283,0
+911,87688,Woolwash Park,Zetland,334341.8965,6246707.735,Park,748,1,0,Park,285,0
+912,87689,Nuffield Park,Zetland,334617.8959,6246687.735,Park,754,1,0,Park,285,0
+913,87690,Kokoda Memorial Park,Kensington,335858.8935,6246677.734,Park,747,1,1,Park,509,0
+914,87691,Wills Playground,Kensington,335404.8944,6246625.734,Park,745,1,1,Park,508,0
+915,87693,Varna Park,Waverley,338780.888,6246843.732,Park,790,1,0,Park,512,0
+916,87694,Mary OBrien Reserve,Zetland,334307.8967,6246860.735,Park,781,1,0,Park,284,0
+917,87697,Ash Paddock,Centennial Park,336345.8929,6247075.733,Park,812,1,1,Park,507,0
+918,87698,RALEIGH PARK,Kensington,335130.9242,6246998.739,Park,802,1,0,Park,508,0
+919,87699,Joynton Park,Zetland,334623.8961,6246893.735,Park,799,1,0,Park,285,0
+920,87701,Randwick Pond,Centennial Park,336648.8925,6247295.732,Bays and Beaches,854,1,0,Bays and Beaches,507,0
+921,87702,Mission Fields,Centennial Park,336537.8928,6247473.732,Park,874,1,0,Park,507,0
+922,87703,Primary RESERVE,Zetland,334743.9439,6246951.336,Reserve,799,1,0,Reserve,285,0
+923,87704,Church Grounds,Centennial Park,336753.8922,6247139.733,Park,830,1,1,Park,507,0
+924,87705,Tote Park,Zetland,334485.8964,6246989.734,Park,799,1,0,Park,285,0
+925,87707,Homemakers Supacenta Moore Park,Kensington,334940.6124,6247054.669,Park,868,1,0,Park,508,0
+926,87708,Duck Pond,Centennial Park,336862.8921,6247351.732,Bays and Beaches,862,1,0,Bays and Beaches,507,0
+927,87709,Lily Pond,Centennial Park,336749.8924,6247488.732,Bays and Beaches,878,1,0,Bays and Beaches,507,0
+928,87710,CENTENNIAL PLAZA,Kensington,335826.3825,6247069.251,SHOPPING CENTRE,833,1,1,SHOPPING CENTRE,509,0
+929,87711,Lachlan Swamp,Centennial Park,336932.8921,6247558.732,Bays and Beaches,890,1,0,Bays and Beaches,507,0
+930,87712,One More Shot Pond,Centennial Park,337359.8911,6247340.732,Bays and Beaches,861,1,0,Bays and Beaches,507,0
+931,87715,E S Marks Athletic Field,Moore Park,335622.8944,6247168.733,Park,837,1,1,Park,509,0
+932,87722,Waterloo Park,Waterloo,334036.8976,6247471.734,Park,910,1,0,Park,278,0
+933,87723,Waterloo Oval,Waterloo,334056.8975,6247355.734,Park,863,1,0,Park,278,0
+934,87724,Kensington Ponds,Centennial Park,336084.8934,6247076.733,Bays and Beaches,813,1,1,Bays and Beaches,514,0
+935,87727,McKell Playground,Alexandria,333248.8992,6247494.734,Park,880,1,0,Park,276,0
+936,87728,Kensington Reserve,Waterloo,334259.8972,6247477.734,Park,875,1,0,Park,278,0
+937,87730,Alexandria Park,Alexandria,333419.8988,6247508.734,Park,884,1,0,Park,276,0
+938,87734,Jack Shuttleworth Reserve,Alexandria,333092.467,6247583.67,Reserve,930,1,0,Reserve,276,0
+939,87739,Vice Chancellors Oval,Eveleigh,333216.8995,6247825.734,Park,946,1,0,Park,276,0
+940,87745,Busby Pond,Centennial Park,336374.8932,6247643.732,Bays and Beaches,906,1,0,Bays and Beaches,507,0
+941,87746,Frog Hollow,Centennial Park,336468.8933,6247934.731,Park,963,1,0,Park,507,0
+942,87750,Lachlan Reserve,Centennial Park,336703.8926,6247638.732,Park,904,0,0,Park,507,0
+943,87751,Centennial Parklands,Centennial Park,336780.8927,6248038.731,Park,981,0,0,Park,507,0
+944,87755,Paperbark Grove,Centennial Park,336555.8933,6248244.731,Park,1026,1,0,Park,507,0
+945,87758,Sandstone Ridge,Centennial Park,337007.8925,6248300.73,Park,1038,1,0,Park,507,0
+946,87783,Centennial Park,Centennial Park,336632.6476,6248651.363,Park,1146,1,0,Park,507,0
+947,87825,New South Wales,La Perouse,337519.8838,6237427.751,Golf,64,0,0,Golf,557,0
+948,87826,Cullens Driving Range,Little Bay,337727.8839,6238142.749,Golf,76,1,0,Golf,557,0
+949,87827,Aboriginal Evangelist,La Perouse,336816.8857,6238260.749,Church,79,1,0,Church,557,0
+950,87828,Our Lady of Good Counsel,Phillip Bay,336966.8857,6238650.749,Church,91,1,0,Church,557,0
+951,87829,Eric Callaway House,Phillip Bay,337024.8854,6238480.749,Nursing Home,85,1,0,Nursing Home,557,0
+952,87830,Sydney Pistol,Little Bay,338378.8821,6237402.75,Club,65,0,0,Club,558,0
+953,87831,Historic Coast Hospital Cemetery,Little Bay,338347.8822,6237487.75,Cemetery,65,0,0,Cemetery,558,0
+954,87832,Coast Hospital Cemetery Historic,Little Bay,338598,6237511,Health,66,0,0,Health,558,0
+955,87833,St Michaels,Little Bay,338051.8833,6238166.749,Golf,78,1,0,Golf,558,0
+956,87834,Coast Golf and Recreation Club,Little Bay,338376.8828,6238378.748,Golf,82,0,0,Golf,558,0
+957,87835,Centennial Park School,Little Bay,338379,6238546,Education,86,0,0,Education,558,0
+958,87836,Mirrabooka Village,Little Bay,337813.8841,6238645.748,Retirement Village,90,1,0,Retirement Village,557,0
+959,87837,La Perouse Primary School,Phillip Bay,337064.8856,6238741.748,Education - Primary,93,1,0,Education - Primary,557,0
+960,87838,Coast Hospital,Little Bay,337962,6238536,Hospital,88,1,0,Hospital,558,0
+961,87839,Prince Henry Hospital,Little Bay,338009,6238614,Hospital,88,1,0,Hospital,558,0
+962,87840,Yarra Bay Sailing,Phillip Bay,336445.8866,6238545.749,Club,87,0,0,Club,557,0
+963,87841,University of New South Wales,Little Bay,338113,6239109,EDUCATION - UNIVERSITY,102,1,0,Education,555,0
+964,87842,Womens Athletic Field,Chifley,337207.8857,6239359.747,Sports,107,1,0,Sports,553,0
+965,87843,Little Bay Sports Field,Little Bay,337815.8845,6239179.747,Sports,103,1,0,Sports,555,0
+966,87844,University Of Nsw Little Bay Campus,Little Bay,337694.1416,6239227.278,EDUCATION - UNIVERSITY,104,1,0,Education,555,0
+967,87845,Eastern Suburbs,Matraville,336363.8874,6239431.748,Cemetery,108,1,0,Cemetery,553,0
+968,87846,Botany Cemetery,Matraville,336587.8869,6239349.748,Cemetery,106,1,0,Cemetery,553,0
+969,87847,KIMBERLEY LODGE,Chifley,337521.4581,6239822.451,Hotel,114,1,0,LODGE,554,0
+970,87848,Port Botany Container Park,Port Botany,335910.4222,6239703.316,Business Park,112,1,0,Business Park,556,0
+971,87849,Sydney Buses Depot,Matraville,336053.3096,6239890.75,Business Park,117,1,0,Business Park,556,0
+972,87850,Randwick Golf Club,Malabar,338654.8834,6239969.745,Golf,118,1,0,Golf,555,0
+973,87851,Chesalon,Malabar,338245.8844,6240202.745,Nursing Home,124,1,0,Nursing Home,555,0
+974,87852,MATRAVILLE SCHOOL,Chifley,337784.0605,6240285.092,Education,125,1,0,Education,554,0
+975,87853,Jehovahs Witnesses,Matraville,336641.8875,6240326.746,Church,127,1,0,Church,549,0
+976,87854,Chifley Primary School,Chifley,337673.8856,6240347.745,Education - Primary,128,1,0,Education - Primary,554,0
+977,87855,St Andrews Church,Malabar,338056.8849,6240429.744,Church,134,1,0,Church,552,0
+978,87856,RSL Club,Malabar,338208.8846,6240458.744,Club,133,1,0,Club,552,0
+979,87857,Matraville High School,Chifley,337834,6240388,Education,132,1,0,Education,554,0
+980,87858,Matraville Sports High School,Chifley,337859.8852,6240409.745,Education,132,1,0,Education,554,0
+981,87859,Anzac Rifle Range,Malabar,338984.8834,6240791.743,Sports,148,0,0,Sports,552,0
+982,87860,Baptist Church,Matraville,336563.8878,6240534.745,Church,136,1,0,Church,549,0
+983,87861,Ozanam Villa,Matraville,337859.8854,6240572.744,Retirement Village,141,1,0,Retirement Village,551,0
+984,87862,St Andrews Primary School,Malabar,338069.9613,6240489.435,Education - Primary,134,1,0,Education - Primary,552,0
+985,87863,St Marks Church,Malabar,338089.885,6240621.744,Church,140,1,0,Church,552,0
+986,87864,ST MARKS ANGLICAN CHURCH,Malabar,338080.7634,6240636.158,CHURCH,140,1,0,CHURCH,552,0
+987,87866,Matraville Library,Matraville,337936.8853,6240628.744,Library,141,1,0,Library,551,0
+988,87867,Malabar Primary School,Malabar,338174.8848,6240673.744,Education - Primary,140,1,0,Education - Primary,552,0
+989,87868,BP,Matraville,336577,6240809,SERVICE STATION,162,1,0,SERVICE STATION,550,0
+990,87872,Matraville RSL,Matraville,336654.8879,6240914.745,Bowling Club,162,1,0,Bowling Club,550,0
+991,87873,St Agnes Primary School,Matraville,336633.888,6241005.744,Education - Primary,162,1,0,Education - Primary,550,0
+992,87875,Matraville Soldiers Primary School,Matraville,337335,6241069,Education - Primary,163,1,0,Education - Primary,551,0
+993,87876,Matraville Soldiers Settlement Primary School,Matraville,337371.8866,6241085.744,Education - Primary,163,1,0,Education - Primary,551,0
+994,87878,St Agnes Church,Matraville,336618.888,6241042.744,Church,162,1,0,Church,550,0
+995,87879,St Agnes School,Matraville,336551.6076,6241115.628,Education,162,1,0,Education,550,0
+996,87880,MATRAVILLE SCHOOL,Matraville,337376.172,6241103.527,Education,163,1,0,Education,548,0
+997,87883,Matraville Fire Station,Matraville,336526.8884,6241331.744,Fire Station,170,1,0,Fire Station,550,0
+998,87884,St Spyridon College,Maroubra,337767,6241443,EDUCATION - UNIVERSITY,179,1,0,EDUCATION,547,0
+999,87888,St Spyridon College High School,Maroubra,337699.1174,6241418.225,Education,179,1,0,Education,547,0
+1000,87889,HIGH SCHOOL ST SPYRIDON,Maroubra,337724.3175,6241452.712,Education,179,1,0,Education,547,0
+1001,87890,St Spyridon College Secondary Campus,Maroubra,337684.8863,6241478.743,Education,179,1,0,Education,547,0
+1002,87895,The Sands Hotel,Maroubra,338430.9499,6241856.464,Hotel,211,1,0,Hotels,547,0
+1003,87899,Maroubra Garden Village,Maroubra,338366.8853,6241901.741,Retirement Village,211,1,0,Retirement Village,545,0
+1004,87901,Shell,Maroubra,337444,6242036,SERVICE STATION,216,1,0,Service Station,544,0
+1005,87903,St Mary-St Josephs School,Maroubra,338441.5022,6242220.614,Education,238,1,0,Education,546,0
+1006,87904,Marist College,Maroubra,336510.3233,6242276.355,EDUCATION - UNIVERSITY,244,1,0,EDUCATION,540,0
+1007,87905,St Gabriels School,Maroubra,336445,6242309,Education,244,1,0,Education,540,0
+1008,87907,Des Renford Aquatic Centre,Maroubra,337172.8876,6241914.742,Swimming,212,1,0,Swimming,544,0
+1009,87908,Marcellin Sports Fields,Maroubra,337138.8879,6242252.742,Sports,234,1,0,Sports,544,0
+1010,87910,Maroubra Ambulance Station,Maroubra,338735,6242344,Ambulance Station,265,1,0,Ambulance Station,546,0
+1011,87911,AMBULANCE STATION,Maroubra,338738.3516,6242345.473,Ambulance Station,265,1,0,Ambulance Station,546,0
+1012,87912,St Mary and St Josephs Primary School,Maroubra,338469.8854,6242297.741,Education - Primary,238,1,0,Education - Primary,546,0
+1013,87913,St Mary and Josephs Catholic School,Maroubra,338455,6242301,Education,238,1,0,Education,546,0
+1014,87914,Maroubra RSL,Maroubra,338487.8855,6242414.74,Bowling Club,248,1,0,Bowling Club,546,0
+1015,87917,Our Lady of The Assumption,Maroubra,336334.8895,6242368.742,Church,244,1,0,Church,540,0
+1016,87918,Marist Brothers High School,Maroubra,336380.8894,6242340.742,Education,244,1,0,Education,540,0
+1017,87919,Maroubra Seals Sports and Community,Maroubra,338789.8848,6242339.74,Club,265,1,0,Club,546,0
+1018,87924,Our Lady of The Annunciation School,Maroubra,336198.8899,6242454.742,Education,249,1,0,Education,540,0
+1019,87929,MAROUBRA MONTESSORI PRE SCHOOL,Maroubra,338472.7736,6242528.421,Education,257,1,0,Education,546,0
+1020,87930,Montessori School,Maroubra,338494.8855,6242532.74,Education,257,1,0,Education,546,0
+1021,87933,South Sydney High School,Maroubra,336915.8886,6242573.741,Education,262,1,0,Education,540,0
+1022,87934,Maroubra Bay Primary School,Maroubra,338579.8854,6242606.74,Education - Primary,270,1,0,Education - Primary,546,0
+1023,87935,MAROUBRA BAY SCHOOL,Maroubra,338553.5976,6242657.366,Education,270,1,0,Education,546,0
+1024,87941,Maroubra Guides Hall,Maroubra,337224.888,6242536.741,Guides Hall,266,1,0,Guides Hall,541,0
+1025,87946,St Edmunds Church,Maroubra,336559.8894,6242755.741,Church,286,1,0,Church,540,0
+1026,87948,Baptist Church,Maroubra,337511.8876,6242776.74,Church,322,1,0,Church,541,0
+1027,87949,Maroubra Fire Station,Maroubra,337961.8867,6242776.74,Fire Station,295,1,0,Fire Station,538,0
+1028,87950,Christian City Church,Maroubra,337385.8878,6242732.741,Church,282,1,0,Church,541,0
+1029,87951,St Johns Church,Maroubra,338225.8862,6242772.74,Church,288,1,0,Church,539,0
+1030,87952,Maroubra Bay High School,Maroubra,338555,6242787,Education,291,1,0,Education,542,0
+1031,87953,St Aidans Primary School,Maroubra,337581.8875,6242901.74,Education - Primary,322,1,0,Education - Primary,537,0
+1032,87954,Holy Family,Maroubra,337539.8876,6242919.74,Church,322,1,0,Church,537,0
+1033,87957,Trade Winds Hotel,Maroubra,337392.3146,6242917.371,Hotel,322,1,0,Hotels,537,0
+1034,87958,Tradewinds Hotel,Maroubra,337427.8879,6242934.74,Hotel,322,1,0,Hotel,537,0
+1035,87959,Uniting Church,Maroubra,337269.888,6242715.741,Church,279,1,0,Church,541,0
+1036,87960,French School,Maroubra,337747.8155,6242895.914,Education,298,1,0,Education,538,0
+1037,87961,MAROUBRA JUNCTION HOTEL,Maroubra,337197.032,6242900.84,Hotel,322,1,0,Hotels,537,0
+1038,87962,St Andrews Church,Maroubra,337077.8885,6242854.741,Church,322,1,0,Church,537,0
+1039,87963,Pizza Haven Maroubra,Maroubra,337124.2232,6242935.912,FAST FOOD OUTLET,322,1,0,FAST FOOD OUTLET,537,0
+1040,87964,St Aidans Maroumbra School,Maroubra,337491.6633,6242896.687,Education,322,1,0,Education,538,0
+1041,87965,St Aidans Convent School,Maroubra,337610,6242924,Education,322,1,0,Education,537,0
+1042,87966,ST AIDANS SCHOOL,Maroubra,337548.8545,6242931.279,Education,322,1,0,Education,537,0
+1043,87968,Hoban House,Maroubra,336380.89,6243086.741,Retirement Village,323,1,0,Retirement Village,540,0
+1044,87969,MARY CAMPBELL PRE SCHOOL,Maroubra,338528.4582,6243058.61,Education,316,1,0,Education,543,0
+1045,87973,Mahon,Maroubra,339609.8836,6242832.739,Swimming,294,1,0,Swimming,543,0
+1046,87974,Salvation Army,Maroubra,337065.8887,6243146.74,Church,322,1,0,Church,540,0
+1047,87976,Maroubra Library,Maroubra,337150.8887,6243304.74,Library,334,1,0,Library,537,0
+1048,87977,Bowen Library,Maroubra,337136,6243323,Library,334,1,0,Library,537,0
+1049,87978,St Marys and St Joseph Church,South Coogee,338934.8853,6243403.738,Church,344,1,0,Church,536,0
+1050,87979,ST MARYS SCHOOL,South Coogee,338910.1,6243413.085,Education,344,1,0,Education,536,0
+1051,87980,St Marys Church School,South Coogee,338895,6243453,Education,344,1,0,Education,536,0
+1052,87981,Camelot,Maroubra,337241.8885,6243368.739,Nursing Home,334,1,0,Nursing Home,538,0
+1053,87982,Camelot Nursing Home,Maroubra,337246,6243372,Nursing Home,334,1,0,Nursing Home,538,0
+1054,87983,Maroumbra Junction Primary School,Maroubra,337095.3143,6243472.265,Education - Primary,349,1,0,Education - Primary,532,0
+1055,87984,MAROUBRA INFANTS SCHOOL,Maroubra,337045.9532,6243503.809,Education,349,1,0,Education,532,0
+1056,87985,Maroubra Junction Primary School,Maroubra,337031.889,6243509.739,Education - Primary,349,1,0,Education - Primary,532,0
+1057,87986,Southern Cross Village,South Coogee,338936.8854,6243458.738,Retirement Village,344,1,0,Retirement Village,543,0
+1058,87987,Southern Cross Apartments,South Coogee,338843.8855,6243411.738,Retirement Village,344,1,0,Retirement Village,536,0
+1059,87988,South Coogee Bowling Club,South Coogee,338140.887,6243577.738,Bowling Club,353,1,0,Bowling Club,536,0
+1060,87989,Jewish,Maroubra,337101.8889,6243559.739,Church,349,1,0,Church,532,0
+1061,87991,Mount Sinai College,Maroubra,337026.8891,6243639.739,EDUCATION - UNIVERSITY,357,1,0,Education,532,0
+1062,87994,The French School of Sydney,Maroubra,337244.8887,6243617.739,Education,360,1,0,Education,533,0
+1063,87995,Maroubra High School,Maroubra,337274,6243547,Education,360,1,0,Education,533,0
+1064,87996,MAROUBRA EVENING COLLEGE,Maroubra,337239.1326,6243572.131,EDUCATION - UNIVERSITY,360,1,0,EDUCATION,533,0
+1065,87997,Lycee Condorcet French School,Maroubra,337197.337,6243669.253,Education,360,1,0,Education,532,0
+1066,88000,THE SOS PRE SCHOOL,Randwick,337593.0313,6243941.714,Education,389,1,0,Education,533,0
+1067,88002,St Pauls Church,South Coogee,338910.8857,6243838.737,Church,377,1,0,Church,536,0
+1068,88007,South Coogee Primary School,South Coogee,338624.8863,6243927.737,Education - Primary,388,1,0,Education - Primary,536,0
+1069,88018,Decayville Primary School,Daceyville,336340.3757,6244249.087,Education - Primary,417,1,0,Education - Primary,532,0
+1070,88025,Randwick Cemetery,South Coogee,338699.8864,6244309.737,Cemetery,423,1,0,Cemetery,536,0
+1071,88033,Holy Trinity,Kingsford,336569.8907,6244574.738,Church,461,1,1,Church,530,0
+1072,88035,Wylies Baths,Coogee,339109.8859,6244740.735,Swimming,470,1,0,Swimming,531,0
+1073,88038,St Spyridon Church,Kingsford,335847.8922,6244718.738,Church,482,1,1,Church,525,0
+1074,88042,WIDGETS PRE SCHOOL,Kingsford,336926.7037,6244674.727,Education,458,1,0,Education,530,0
+1075,88043,South Sydney Junior Rugby League,Kingsford,336501.8909,6244652.737,Club,461,1,1,Club,530,0
+1076,88044,Randwick Boys High School,Randwick,337204.8896,6244756.737,Education,473,1,0,Education,527,0
+1077,88047,Rainbow Street Primary School,Randwick,337007.89,6244783.737,Education - Primary,481,1,0,Education - Primary,527,0
+1078,88048,The Lakes,Eastlakes,334810.8935,6243836.74,Golf,386,1,0,Golf,524,0
+1079,88049,St Spyridon College Primary Campus,Kingsford,335802.8923,6244753.738,Education - Primary,482,1,1,Education - Primary,525,0
+1080,88050,St Spyridon College,Kingsford,335787.3397,6244787.523,EDUCATION - UNIVERSITY,482,1,1,EDUCATION,525,0
+1081,88051,CHURCH,Kingsford,336099.2768,6244818.321,CHURCH,491,1,1,CHURCH,525,0
+1082,88058,ST BRIGIDS SCHOOL,Coogee,338599.8788,6244881.494,Education,499,1,0,Education,531,0
+1083,88059,St Brigids Church,Coogee,338620.887,6244946.735,Church,499,1,0,Church,531,0
+1084,88061,RED TOMATO HOTEL,Kingsford,336220.3719,6244874.546,Hotel,491,1,1,Hotels,526,0
+1085,88062,McIvers Baths,Coogee,339021.8862,6244887.735,Swimming,492,1,0,Swimming,529,0
+1086,88063,ST NICHOLAS CHURCH,Coogee,338643.1503,6245093.881,CHURCH,553,1,0,CHURCH,529,0
+1087,88065,Crowne Plaza Coogee Beach,Coogee,338785.8868,6245082.735,Hotel,553,1,0,Hotel,529,0
+1088,88066,CROWN PLAZA HOTEL,Coogee,338773.9095,6245083.015,Hotel,553,1,0,Hotels,529,0
+1089,88067,Dive Hotel,Coogee,338782.8868,6245127.735,Hotel,553,1,0,Hotel,529,0
+1090,88068,Castellorizian,Kingsford,336129.8919,6245100.737,Club,525,1,1,Club,526,0
+1091,88069,Matraville Guides Hall,Kingsford,336005.8921,6245101.737,Guides Hall,518,1,1,Guides Hall,525,0
+1092,88070,Coogee Randwick RSL,Coogee,338146.888,6245089.735,Bowling Club,547,1,0,Bowling Club,529,0
+1093,88071,REGENT HOTEL,Kingsford,336116.2321,6245180.467,Hotel,525,1,1,Hotels,526,0
+1094,88072,Jewish,Coogee,338653.8871,6245150.735,Church,553,1,0,Church,529,0
+1095,88073,Lochinvar Nursing Home,Coogee,338353.8877,6245210.735,Nursing Home,547,1,0,Nursing Home,531,0
+1096,88074,Randwick Girls High School,Randwick,337248,6245116,Education,565,1,0,Education,527,0
+1097,88075,Randwick Girls Technology High School,Randwick,337243.8898,6245125.736,Education,565,1,0,Education,527,0
+1098,88076,Royal Hospital for Women Prince of,Randwick,337128,6245224,Health,565,1,1,Health,527,0
+1099,88077,Prince of Wales Randwick Hospital - Barker St,Randwick,337118,6245226,Health,565,1,1,Health,527,0
+1100,88078,Royal Hospital for Women,Randwick,337240.8899,6245252.736,Hospital,565,1,1,Hospital,527,0
+1101,88080,Esron Motel,Randwick,337925.8885,6245197.735,Hotel,528,1,0,Hotel,528,0
+1102,88082,Sts Kiril and Methodi,Rosebery,334220.8957,6245238.738,Church,543,1,0,Church,294,0
+1103,88083,Koinonia,Randwick,337792.8888,6245218.735,Retirement Village,536,1,0,Retirement Village,528,0
+1104,88084,Coogee Bay Boutique Hotel,Coogee,338768.8869,6245175.735,Hotel,553,1,0,Hotel,529,0
+1105,88085,Coogee Bay Hotel,Coogee,338804.8868,6245212.735,Hotel,553,1,0,Hotel,529,0
+1106,88086,Coogee Legion,Coogee,338824.8869,6245293.735,Club,553,1,0,Club,529,0
+1107,88088,Coogee Bayside Private Hotel,Coogee,338699.1945,6245256.789,Hotel,553,1,0,Hotels,529,0
+1108,88089,Kensington Bowling Club,Kensington,335785.8927,6245265.737,Bowling Club,541,1,1,Bowling Club,525,0
+1109,88091,St Brigids Catholic School,Coogee,338513,6245329,Education,553,1,0,Education,529,0
+1110,88092,Randwick Girls High School,Kingsford,336879.4712,6245281.253,Education,545,1,1,Education,527,0
+1111,88093,Royal Hospital For Women,Kingsford,336879.4712,6245281.253,Health,545,1,1,Health,527,0
+1112,88094,Barker Lodge Motor Inn,Kingsford,336261.8918,6245307.736,Hotel,551,1,1,Hotel,520,0
+1113,88095,COOGEE SCHOOL,Coogee,338220.8349,6245298.895,Education,547,1,0,Education,529,0
+1114,88096,Coogee Primary School,Coogee,338208.888,6245260.735,Education - Primary,547,1,0,Education - Primary,529,0
+1115,88097,McDonalds Family Restaurants,Kingsford,336160.3164,6245326.657,FAST FOOD OUTLET,550,1,1,FAST FOOD OUTLET,520,0
+1116,88098,McDonalds Family Restaurants,Coogee,338853.423,6245312.544,FAST FOOD OUTLET,553,1,0,FAST FOOD OUTLET,529,0
+1117,88099,Daintrey House,Randwick,337823.8888,6245356.735,Nursing Home,554,1,1,Nursing Home,528,0
+1118,88100,CHURCH,Rosebery,334244.4323,6245352.174,CHURCH,552,1,0,CHURCH,294,0
+1119,88101,St Brigids Primary School,Coogee,338536.8875,6245352.735,Education - Primary,553,1,0,Education - Primary,529,0
+1120,88102,Unisearch Ltd,Kensington,336412.8915,6245348.736,Education,551,1,1,Education,520,0
+1121,88103,DAINTREY NURSING HOME,Randwick,337844.5033,6245366.239,Nursing Home,554,1,0,Nursing Home,522,0
+1122,88104,Prince of Wales Private The,Randwick,337160.8901,6245359.736,Hospital,565,1,1,Hospital,527,0
+1123,88105,The Prince of Wales Hospital,Randwick,337172,6245456,Hospital,565,1,1,Hospital,527,0
+1124,88106,Prince Of Wales Hospital,Randwick,337234.0441,6245356.008,Hospital,565,1,1,Hospital,528,0
+1125,88107,Prince of Wales Private Hospital,Randwick,337227,6245419,Hospital,565,1,1,Hospital,528,0
+1126,88108,Giles Baths,Coogee,339207.8861,6245317.734,Swimming,548,1,0,Swimming,529,0
+1127,88109,Coogee Sands Motor Inn,Coogee,338954.8868,6245497.734,Hotel,574,1,0,Hotel,523,0
+1128,88110,Claremont College Prep School,Randwick,337819,6245482,Education,572,1,1,Education,522,0
+1129,88111,Randwick Rugby,Coogee,338626.8873,6245433.734,Club,566,1,0,Club,529,0
+1130,88112,COAST APARTMENTS,Coogee,338637.4813,6245459.848,Apartments,566,1,0,Apartments,529,0
+1131,88113,Claremont College Primary School,Randwick,337701.3443,6245501.565,Education - Primary,572,1,1,Education - Primary,522,0
+1132,88114,SCHOOL CLAREMONT CLG,Randwick,337727.2461,6245522.751,Education,572,1,1,Education,522,0
+1133,88116,Prince of Wales The,Randwick,337291.8899,6245458.735,Hospital,565,1,1,Hospital,528,0
+1134,88117,Eastern Suburbs Tennis Club,Coogee,338615.8875,6245561.734,Club,578,1,0,Club,523,0
+1135,88118,Warrane College,Kensington,336046.7429,6245402.124,EDUCATION - UNIVERSITY,562,1,1,EDUCATION,520,0
+1136,88119,The Beach Palace Hotel,Coogee,338994.0769,6245503.51,Hotel,574,1,0,Hotels,529,0
+1137,88120,Pizza Hut Kensington,Kensington,335969.477,6245394.022,FAST FOOD OUTLET,562,1,1,FAST FOOD OUTLET,520,0
+1138,88121,Coogee Bowling Club,Coogee,338519.8876,6245574.734,Bowling Club,578,1,0,Bowling Club,523,0
+1139,88122,Coogee Sands Hotel and Apartments,Coogee,338969.3243,6245507.083,Apartments,574,1,0,Apartments,529,0
+1140,88123,Claremont College,Randwick,337739.8891,6245531.735,EDUCATION - UNIVERSITY,572,1,1,Education,522,0
+1141,88124,St Josephs Church,Rosebery,334273.8958,6245620.737,Church,584,1,0,Church,294,0
+1142,88125,St Josephs Rc School -,Rosebery,334298,6245650,EDUCATION - SCHOOL,584,1,0,EDUCATION - SCHOOL,294,0
+1143,88126,JOANN LODGE,Randwick,337921.6926,6245617.036,Hotel,581,1,0,LODGE,522,0
+1144,88128,University of New South Wales,Kensington,336014,6245628,EDUCATION - UNIVERSITY,583,1,1,Education,520,0
+1145,88130,Fig Tree Theatre,Kensington,336436.8918,6245757.735,Theatre,600,1,1,Theatre,520,0
+1146,88132,The Australian,Kensington,334718.8949,6245478.737,Golf,568,1,0,Golf,508,0
+1147,88133,THE SPOT PRE SCHOOL,Randwick,337542.0124,6245187.682,Education,707,1,1,Education,528,0
+1148,88134,Ritz Theatre,Randwick,337622.8892,6245320.735,Theatre,707,1,1,Theatre,528,0
+1149,88135,Brigidine College,Randwick,337670.8891,6245365.735,EDUCATION - UNIVERSITY,707,1,1,Education,528,0
+1150,88136,BRIGIDINE SENIOR COLLEGE,Randwick,337627.1766,6245366.405,EDUCATION - UNIVERSITY,707,1,1,EDUCATION,528,0
+1151,88137,Baptist Church,Randwick,337450.8896,6245451.735,Church,707,1,1,Church,528,0
+1152,88138,ROYAL HOTEL,Randwick,337483.4811,6245495.063,Hotel,707,1,1,Hotels,528,0
+1153,88139,Randwick Lodge,Randwick,337446.8897,6245631.735,Hotel,707,1,1,Hotel,521,0
+1154,88140,Sydney Childrens,Randwick,337156.8902,6245556.735,Hospital,707,1,1,Hospital,521,0
+1155,88141,Sydney Childrens Hospital School,Randwick,337203.8902,6245625.735,Education,707,1,1,Education,521,0
+1156,88142,Prince of Wales Randwick Hospital - High St,Randwick,337275,6245628,Health,707,1,1,Health,521,0
+1157,88143,Sydney Childrens Hospital,Randwick,337181.6421,6245661.273,Hospital,707,1,1,Hospital,521,0
+1158,88144,Kenvale College,Randwick,336884.7018,6245719.404,EDUCATION - UNIVERSITY,603,1,1,EDUCATION,521,0
+1159,88145,CRESTON COLLEGE,Randwick,336889.2483,6245777.72,EDUCATION - UNIVERSITY,603,1,1,EDUCATION,521,0
+1160,88146,Our Lady of The Sacred Heart,Randwick,337466.8898,6245759.735,Church,707,1,1,Church,521,0
+1161,88147,Randwick Our Lady Primary School,Randwick,337461,6245770,Education - Primary,707,1,1,Education - Primary,521,0
+1162,88148,University Of Nsw Randwick Campus,Kensington,336196.5167,6245779.654,EDUCATION - UNIVERSITY,615,1,1,Education,520,0
+1163,88149,Our Lady of Sacred Heart College,Kensington,335443,6245910,EDUCATION - UNIVERSITY,625,1,1,EDUCATION,519,0
+1164,88150,Pizza Hut Randwick,Randwick,337369.3363,6245701.542,FAST FOOD OUTLET,707,1,1,FAST FOOD OUTLET,521,0
+1165,88151,University of New South Wales,Randwick,336215,6245824,EDUCATION - UNIVERSITY,615,1,1,Education,520,0
+1166,88152,Our Lady Of The Sacred Heart School,Randwick,337442.9738,6245777.799,Education,707,1,1,Education,521,0
+1167,88153,Our Lady of The Sacred Heart Primary School,Randwick,337506.8897,6245772.735,Education - Primary,707,1,1,Education - Primary,521,0
+1168,88154,SACRED HEART SCHOOL and CHURCH,Randwick,337545.833,6245807.175,Education,707,1,1,Education,521,0
+1169,88155,Parade Theatre,Kensington,335927.8927,6245736.736,Theatre,619,1,1,Theatre,520,0
+1170,88156,National Institute of Dramatic Art,Kensington,335919.8928,6245832.736,EDUCATION - UNIVERSITY,619,1,1,Education,520,0
+1171,88157,NIDA Theatre,Kensington,335913.8928,6245834.736,Theatre,619,1,1,Theatre,520,0
+1172,88162,Randwick Library,Randwick,337383.89,6245860.735,Library,707,1,1,Library,521,0
+1173,88163,Milford House,Randwick,337483.8899,6245910.734,Nursing Home,707,1,1,Nursing Home,521,0
+1174,88164,KARITANE MOTHERCRAFT HOSPITAL,Randwick,337490.8766,6245927.257,Hospital,707,1,1,Hospital,521,0
+1175,88166,DE LA SALLE SCHOOL,Kensington,335635.1106,6246027.082,Education,639,1,1,Education,519,0
+1176,88167,Gemini Hotel,Randwick,337329.8902,6245952.734,Hotel,707,1,1,Hotel,521,0
+1177,88168,Subway,Randwick,337301.247,6245978.041,FAST FOOD OUTLET,707,1,1,FAST FOOD OUTLET,521,0
+1178,88169,Alison Private Hotel,Randwick,337324.9165,6246059.303,Hotel,707,1,1,Hotels,521,0
+1179,88170,University of New South Wales,Coogee,339219,6246008,EDUCATION - UNIVERSITY,636,1,0,Education,518,0
+1180,88171,COACH and HORSES HOTEL,Randwick,337507.1692,6246055.992,Hotel,707,1,1,Hotels,515,0
+1181,88172,SCHOOL MARCELLIN COLLEGE,Randwick,337399.9129,6245984.27,EDUCATION - UNIVERSITY,707,1,1,Education,521,0
+1182,88173,Randwick Marcellin College,Randwick,337388,6246018,EDUCATION - UNIVERSITY,707,1,1,EDUCATION,521,0
+1183,88174,St James Church,Beaconsfield,333610.8974,6246075.737,Church,644,1,0,Church,287,0
+1184,88175,Marcellin College,Randwick,337359.8902,6246056.734,Education,707,1,1,Education,515,0
+1185,88176,Our Lady of The Rosary,Kensington,335501.8938,6246027.736,Church,657,1,1,Church,519,0
+1186,88177,OUR LADY OF ROSARY SCHOOL,Kensington,335523.1845,6246092.145,Education,657,1,1,Education,519,0
+1187,88178,KFC,Randwick,337260.5296,6246103.458,FAST FOOD OUTLET,707,1,1,FAST FOOD OUTLET,515,0
+1188,88179,CLOVELLY HOTEL,Clovelly,339591.3926,6246110.971,Hotel,646,1,0,Hotels,518,0
+1189,88180,The Clovelly,Clovelly,339587.886,6246117.732,Hotel,646,1,0,Hotel,518,0
+1190,88181,Pennycraig Nursing Home,Randwick,337851,6246158,Nursing Home,652,1,0,Nursing Home,515,0
+1191,88182,Randwick Labor,Randwick,337101.8908,6246128.734,Club,707,1,1,Club,515,0
+1192,88183,Randwick Guides Hall,Randwick,337520.89,6246135.734,Guides Hall,707,1,1,Guides Hall,515,0
+1193,88184,Uniting Church,Randwick,337591.8899,6246205.734,Church,707,1,1,Church,515,0
+1194,88185,Alison Lodge,Randwick,337061.8909,6246184.734,Hotel,707,1,1,Hotel,515,0
+1195,88186,Joseph Varga The Special School,Randwick,337037.8909,6246194.734,Education,707,1,1,Education,515,0
+1196,88187,Kensington Masonic Club,Kensington,335821.8932,6246083.735,Club,656,1,1,Masonic Club,509,0
+1197,88188,DONCASTRE HOTEL,Kensington,335861.8068,6246106.549,Hotel,656,1,1,Hotels,509,0
+1198,88189,Olsh College,Kensington,335494.1939,6246174.618,EDUCATION - UNIVERSITY,657,1,1,EDUCATION,519,0
+1199,88190,Our Lady of The Rosary Primary School,Kensington,335529.8938,6246201.735,Education - Primary,657,1,1,Education - Primary,519,0
+1200,88191,Our Lady of The Sacred Heart College,Kensington,335420.894,6246177.735,EDUCATION - UNIVERSITY,657,1,1,Education,519,0
+1201,88192,St Anthonys Primary School,Clovelly,338973.8873,6246279.733,Education - Primary,688,1,0,Education - Primary,513,0
+1202,88193,St Anthony of Padua Church,Clovelly,338979.8873,6246315.733,Church,688,1,0,Church,513,0
+1203,88194,JOSEPH VARGA SCHOOL,Randwick,337053.7135,6246206.846,Education,707,1,1,Education,515,0
+1204,88195,St Judes Church,Randwick,337519.89,6246243.734,Church,707,1,1,Church,515,0
+1205,88196,Honda,Zetland,334202.9413,6246319.746,Business Park,682,1,0,Business Park,285,0
+1206,88197,RSL Club,Clovelly,338840.8875,6246277.733,Club,674,1,0,Club,513,0
+1207,88198,Clovelly Bowling Club,Clovelly,340083.8851,6246274.732,Bowling Club,673,1,0,Bowling Club,518,0
+1208,88199,Avonmore Boutique Hotel,Randwick,337397.0534,6246209.316,Hotel,707,1,1,Hotels,515,0
+1209,88200,Centennial Park School,Randwick,337542.8901,6246379.733,Education,707,1,1,Education,515,0
+1210,88201,Presbyterian,Randwick,337257.8905,6246153.734,Church,707,1,1,Church,521,0
+1211,88202,Coogee Boys Preparatory School,Randwick,337286.6647,6246224.376,Education,707,1,1,Education,521,0
+1212,88203,Rosebery Hotel,Rosebery,333828.4467,6246324.42,Hotel,683,1,0,Hotels,288,0
+1213,88204,Randwick Racecourse,Randwick,336261.8925,6246293.734,Racecourse,677,1,1,Racecourse,509,0
+1214,88205,ST ANTHONY CHURCH and PRIMARY SCHOOL,Clovelly,338981.9354,6246371.758,Education - Primary,688,1,0,Education - Primary,513,0
+1215,88206,Addisons on Anzac,Kensington,335702.8935,6246252.735,Hotel,669,1,1,Hotel,509,0
+1216,88209,St Anthonys Catholic School,Clovelly,339006,6246295,Education,688,1,0,Education,518,0
+1217,88210,St Anthonys School,Clovelly,339044.9515,6246338.374,Education,688,1,0,Education,518,0
+1218,88211,NETHERLEIGH HOSPITAL,Randwick,337853.5276,6246369.853,Hospital,689,1,0,Hospital,516,0
+1219,88212,St Martins Church,Kensington,335396.8942,6246417.735,Church,695,1,1,Church,508,0
+1220,88213,Randwick Fire Station,Randwick,337450.8903,6246384.733,Fire Station,707,1,1,Fire Station,511,0
+1221,88214,Eastern Suburbs Private,Randwick,337846.8895,6246383.733,Hospital,689,1,0,Hospital,516,0
+1222,88215,Randwick School,Randwick,337528.8902,6246429.733,Education,707,1,1,Education,511,0
+1223,88216,Randwick Primary School,Randwick,337550,6246440,Education - Primary,707,1,1,Education - Primary,511,0
+1224,88217,Randwick Bowling Club,Randwick,337466.8903,6246442.733,Bowling Club,707,1,1,Bowling Club,511,0
+1225,88218,Open High School,Randwick,337590.8901,6246450.733,Education,707,1,1,Education,511,0
+1226,88219,RANDWICK NORTH SCHOOL,Randwick,337583.122,6246470.834,Education,707,1,0,Education,511,0
+1227,88220,Open High School Randwick,Randwick,337634.6917,6246424.461,Education,707,1,0,Education,516,0
+1228,88221,Randwick North High School,Randwick,337614,6246448,Education,707,1,0,Education,516,0
+1229,88222,Kensington Primary School,Kensington,335882.8934,6246479.734,Education - Primary,708,1,1,Education - Primary,509,0
+1230,88223,Castellorizian,Kensington,335311.8945,6246482.735,Nursing Home,709,1,1,Nursing Home,508,0
+1231,88225,London Lodge,Randwick,337025.2597,6246587.398,Hotel,726,1,1,LODGE,510,0
+1232,88226,DUKE GLOUCESTER HOTEL,Randwick,337956.1827,6246592.354,Hotel,743,1,0,Hotels,512,0
+1233,88227,St Lukes Church,Clovelly,339036.8874,6246641.732,Church,736,1,0,Church,513,0
+1234,88228,Frenchmans Lodge,Randwick,337730.8899,6246591.733,Nursing Home,729,1,0,Nursing Home,512,0
+1235,88229,Frenchmans Lodge Nursing Home,Randwick,337745,6246600,Nursing Home,729,1,0,Nursing Home,512,0
+1236,88230,Kiaora Nursing Home,Randwick,337760,6246609,Nursing Home,729,1,0,Nursing Home,512,0
+1237,88231,St George Church,Kensington,335787.8936,6246544.734,Church,723,1,1,Church,509,0
+1238,88232,Alexandria Industrial Estate,Alexandria,333135.8167,6246438.036,Business Park,703,1,0,Business Park,283,0
+1239,88233,Alexandria Basketball Stadium,Alexandria,333153.8987,6246586.736,Sports,732,1,0,Sports,283,0
+1240,88234,Royal South Sydney Community Health Complex,Zetland,334146.8967,6246442.736,Hospital,718,1,0,Hospital,285,0
+1241,88235,Kia-ora,Randwick,337632.8901,6246646.733,Nursing Home,758,1,0,Nursing Home,512,0
+1242,88236,Duke of Gloucester Hotel,Randwick,337980.6307,6246630.955,Hotel,743,1,0,Hotels,512,0
+1243,88237,KIA-ORA NURSING HOME,Randwick,337640.828,6246660.511,Nursing Home,758,1,0,Nursing Home,511,0
+1244,88238,Sydney Park Hotel,Newtown,331835.7822,6246702.437,Hotel,776,1,0,Hotels,-1,-1
+1245,88239,Shell,Randwick,336735.7948,6246644.766,SERVICE STATION,737,1,1,Service Station,510,0
+1246,88240,Kensington War Memorial,Kensington,335838.8936,6246700.734,Club,747,1,1,Club,509,0
+1247,88242,Roma Private Hospital,Randwick,336814,6246633,Hospital,737,1,1,Hospital,510,0
+1248,88243,Roma Private,Randwick,336759.8919,6246762.733,Hospital,785,1,1,Hospital,510,0
+1249,88244,Royal South Sydney Hospital,Zetland,334155,6246516,Hospital,718,1,0,Hospital,284,0
+1250,88246,Randwick TAFE,Randwick,336701.8325,6246836.319,Education,785,1,1,Education,510,0
+1251,88247,Ampol,Randwick,336547.2088,6246794.936,SERVICE STATION,766,1,1,Service Station,510,0
+1252,88248,RANDWICK TAFE COLLEGE,Randwick,336621.5716,6246875.642,EDUCATION - UNIVERSITY,785,1,1,EDUCATION,510,0
+1253,88249,Sydney Institute of Technology,Randwick,336614,6246888,EDUCATION - UNIVERSITY,785,1,1,EDUCATION,510,0
+1254,88256,THE EMANUEL SCHOOL,Randwick,337600.9285,6246757.224,Education,758,1,0,Education,511,0
+1255,88257,ST CHARLES SCHOOL,Randwick,338464.1988,6246925.699,Education,793,1,0,Education,512,0
+1256,88259,Green Square Station,Zetland,333864,6246865,Railway Station,783,1,0,Railway Station,284,0
+1257,88261,Emanuel School,Randwick,337659.7588,6246712.42,Education,758,1,0,Education,511,0
+1258,88262,Day Care For The Aged Nursing Home,Randwick,337727,6246835,Nursing Home,809,1,0,Nursing Home,511,0
+1259,88263,Mount St Josephs,Randwick,337729.8901,6246860.732,Nursing Home,809,1,0,Nursing Home,511,0
+1260,88264,Little Sisters of The Poor,Randwick,337721.8901,6246891.732,Retirement Village,809,1,0,Retirement Village,511,0
+1261,88265,St Margaret Mary Church,Randwick,337702.8902,6246948.732,Church,809,1,0,Church,511,0
+1262,88267,Australian Jockey,Randwick,336204.893,6246901.733,Club,787,1,1,Club,509,0
+1263,88268,Alexandria Fire Station,Alexandria,333680.8979,6246920.735,Fire Station,856,1,0,Fire Station,277,0
+1264,88269,ST MARGARET MARIST SCHOOL,Randwick,337727.1441,6246951.4,Education,809,1,0,Education,512,0
+1265,88270,ST MARGARET MARY CATHOLIC SCHOOL,RANDWICK,337733.8901,6246958.732,Education,809,1,0,Education,512,0
+1266,88271,ST MARGARET MARYS PRIMARY,RANDWICK,337733.8901,6246958.732,Education - Primary,809,1,0,Education - Primary,512,0
+1267,88272,St Margaret Marys Primary School,Randwick,337730.6008,6246981.853,Education - Primary,809,1,0,Education - Primary,512,0
+1268,88273,Glensynd Motor Inn,Kensington,335976.8936,6247016.733,Hotel,805,1,1,Hotel,509,0
+1269,88277,Woollahra Council Works Depot,Waterloo,334809.6964,6247079.231,Business Park,814,1,0,Business Park,285,0
+1270,88278,GEA Hellenic Estia Ltd,Alexandria,333057.8992,6247014.735,Club,804,1,0,Club,283,0
+1271,88279,WATERLOO Primary SCHOOL,Waterloo,333862.24,6247030.645,Education - Primary,856,1,0,Education - Primary,278,0
+1272,88280,Green Square School,Waterloo,333818.8977,6247050.735,Education,856,1,0,Education,278,0
+1273,88281,Islamic,Zetland,334089.8972,6247017.735,Church,806,1,0,Church,284,0
+1274,88283,Waterloo Business Centre,Waterloo,334605.2524,6247133.875,Business Park,826,1,0,Business Park,285,0
+1275,88286,Centennial Parkview Private Hotel,Kensington,335816.5477,6247167.253,Hotel,833,1,1,Hotels,509,0
+1276,88288,Glenroy Hotel,Alexandria,333686.6068,6247198.514,Hotel,856,1,0,Hotels,277,0
+1277,88294,Thoroughbred Motel,Kensington,335860.8939,6247134.733,Hotel,833,1,1,Hotel,509,0
+1278,88295,Taylors College,Waterloo,334267.897,6247226.734,EDUCATION - UNIVERSITY,846,1,0,Education,278,0
+1279,88296,Sydney Athletic Field,Moore Park,335620.8944,6247176.733,Sports,837,1,1,Sports,509,0
+1280,88297,McDonalds Family Restaurants,Waterloo,333691.7609,6247312.662,FAST FOOD OUTLET,856,1,0,FAST FOOD OUTLET,278,0
+1281,88298,Alexandria Park Community School,Alexandria,333184,6247363,Education,866,1,0,Education,276,0
+1282,88299,ATLAS APARTMENTS,Alexandria,333418.4075,6247327.596,Apartments,859,1,0,Apartments,276,0
+1283,88305,Shell,Waterloo,334929,6247293,SERVICE STATION,868,1,0,Service Station,279,0
+1284,88308,BALACLAVA HOTEL,Alexandria,333006.6529,6247418.981,Hotel,930,1,0,Hotels,276,0
+1285,88309,HPM Industries,Waterloo,334670.2599,6247419.343,Business Park,871,1,0,Business Park,270,0
+1286,88313,Alexandria Park Community Junior School,Alexandria,333210.8991,6247336.735,Education,866,1,0,Education,276,0
+1287,88314,Cleveland Street High School,Alexandria,333206,6247348,Education,866,1,0,Education,276,0
+1288,88315,ALEXANDRIA Primary SCHOOL,Alexandria,332990.939,6247486.706,Education - Primary,930,1,0,Education - Primary,276,0
+1289,88317,The Buckland Hotel,Alexandria,333003.6507,6247432.525,Hotel,930,1,0,Hotels,276,0
+1290,88326,Alexandria Park Community Senior School,Alexandria,333029.8996,6247526.734,Education,930,1,0,Education,276,0
+1291,88331,The Imperial Hotel,Erskineville,331960.9496,6247532.208,Hotel,891,1,0,Hotels,-1,-1
+1292,88351,MORIAH WAR MEMORIAL COLLEGE,Queens Park,337550.4053,6247653.217,EDUCATION - UNIVERSITY,909,1,0,EDUCATION,507,0
+1293,88356,Hillsong Church,Waterloo,334399.8971,6247698.733,Church,922,1,0,Church,270,0
+1294,88361,Shell,Eveleigh,333287,6247783,SERVICE STATION,946,1,0,Service Station,276,0
+1295,88362,PART OF ALEXANDRIA HOTEL,Eveleigh,333287.0508,6247796.859,Hotel,946,1,0,Hotels,276,0
+1296,88363,McKay Sportground,Centennial Park,336203.8935,6247559.732,Sports,892,1,0,Sports,211,0
+1297,88408,Bat and Ball Hotel,Redfern,335102.1018,6248368.665,Hotel,1051,1,1,Hotels,-1,-1
+1298,88455,Surrey Club Hotel,Redfern,334259.1491,6248588.614,Hotel,1104,1,0,Hotels,-1,-1
+1299,88507,Captain Cook Hotel,Paddington,335297.0234,6249014.776,Hotel,1176,1,1,Hotels,-1,-1
+1300,88632,Australian Quadriplegic Assoc,Little Bay,337673,6238267,Other,80,1,0,Other,557,0
+1301,88633,Cape Banks Camp,La Perouse,336771.8853,6237645.751,Scout,68,1,0,Scout,557,0
+1302,88634,Laperouse Museum,La Perouse,336740.0408,6237746.591,Other,69,1,0,Other,557,0
+1303,88635,LA PEROUSE BEACH,LA PEROUSE,336935,6237997,Other,73,1,0,Other,557,0
+1304,88636,SUBSTATION PREMISES,La Perouse,336977.4025,6238021.686,Other,73,1,0,Other,557,0
+1305,88637,Botany Bay National Park - North,La Perouse,337006.6403,6238148.318,Other,77,1,0,Other,557,0
+1306,88638,Endeavour Lighthouse,La Perouse,337296,6236644,Other,56,0,0,Other,557,0
+1307,88639,Endeavour Light,La Perouse,337288.8836,6236650.752,Places_Interest,56,0,0,Places_Interest,557,0
+1308,88640,Little Congwong Beach,La Perouse,337282,6237398,Other,63,0,0,Other,557,0
+1309,88641,New South Wales Golf Club,La Perouse,337432.5567,6237400.207,Other,64,0,0,Other,557,0
+1310,88642,NSW GOLF CLUB,La Perouse,337845.6115,6237134.628,Other,57,0,0,Other,558,0
+1311,88643,Cape Banks Scout Camp,La Perouse,338265,6237271,Scout,58,0,0,SCOUT HALL,558,0
+1312,88644,St Michaels Golf Club,Little Bay,338017.1172,6238175.648,Other,78,1,0,Other,558,0
+1313,88645,Coast Golf Club,Little Bay,338452.1033,6238407.16,Other,82,0,0,Other,558,0
+1314,88646,Little Bay 1st,Little Bay,337156.8853,6238638.748,Scout,89,1,0,Scout,557,0
+1315,88647,Fort and Museum Bare Island,Botany Bay,336646,6237323,Other,60,0,0,Other,557,0
+1316,88648,Bare Island Museum and Fort,Botany Bay,336655.8853,6237356.751,Places_Interest,60,1,0,Places_Interest,557,0
+1317,88649,La Perouse Museum,La Perouse,336676.8856,6237708.751,Places_Interest,69,1,0,Places_Interest,557,0
+1318,88650,La Perouse Monument,La Perouse,336599.8857,6237725.751,Places_Interest,69,1,0,Places_Interest,557,0
+1319,88651,Yarra Bay House,La Perouse,336486.8864,6238420.749,Places_Interest,83,0,0,Places_Interest,557,0
+1320,88652,PARK,Little Bay,337970.6837,6238809.927,Other,97,1,0,Other,558,0
+1321,88653,Little Bay Post office,Little Bay,337907,6238813,Other,97,1,0,Post office,558,0
+1322,88654,Yarra Bay Sailing Club,Phillip Bay,336530.7035,6238578.287,Other,87,0,0,Other,557,0
+1323,88655,YARRA SAILING CLUB,Phillip Bay,336446.751,6238612.778,Other,87,0,0,Other,557,0
+1324,88656,LITTLE BAY CHILDCARE CENTRE,Chifley,337694.537,6238961.608,Other,99,1,0,Other,554,0
+1325,88657,PORT BOTANY INDUSTRIAL ESTATE,Matraville,336760.4958,6239845.639,Other,115,1,0,Other,554,0
+1326,88658,Long Bay Correctional Complex,Malabar,337877,6239845,Other,116,1,0,Other,555,0
+1327,88659,LONG BAY GAOL,Little Bay,337877,6239845,OTHER,116,1,0,OTHER,555,0
+1328,88660,Long Bay Correctional Centre,Malabar,337795.885,6239888.746,Places_Interest,116,1,0,Places_Interest,555,0
+1329,88661,LONG BAY GOAL,Malabar,337950.1125,6239817.593,Other,116,1,0,Other,552,0
+1330,88662,Chifley 1st,Chifley,337554.8855,6240014.746,Scout,120,1,0,Scout,554,0
+1331,88663,CHESALON PARISH,Malabar,338231.5116,6240176.601,Other,124,1,0,Other,552,0
+1332,88666,Sotirakos C,Malabar,338257.0409,6240272.88,Other,124,1,0,Other,552,0
+1333,88669,Malabar Police Station,Malabar,337972.885,6240369.745,Police Station,130,1,0,Police Station,552,0
+1334,88671,RIFLE RANGE,Malabar,339128.2973,6240782.18,Other,147,0,0,Other,552,0
+1335,88672,Malabar Post office,Malabar,338046,6240611,AUSTRALILA POST,140,1,0,Post office,552,0
+1336,88675,Port Botany Primary,Matraville,335956.8892,6240827.745,Weighbridge,149,1,0,Weighbridge,549,0
+1337,88676,Randwick City Library Service,Matraville,337964.7134,6240698.401,Other,141,1,0,Other,551,0
+1338,88677,CAR PARK MATRAVILLE,Matraville,336613.0513,6240886.73,Other,162,1,0,Other,550,0
+1339,88679,Commonwealth Bank,Matraville,336512.2917,6241106.63,Bank,162,1,0,Bank,550,0
+1340,88680,Matraville Post office,Matraville,336570,6241135,AUSTRALILA POST,162,1,0,Post office,550,0
+1341,88681,Matraville Soldiers Settlement P S,Matraville,337376,6241101,Other,163,1,0,Other,548,0
+1342,88682,PETER RABBITS COTTAGE,Matraville,337353.0842,6241188.435,Other,163,1,0,Other,548,0
+1343,88697,Primary RESERVE MAROUBRA,Maroubra,338281.8814,6241806.79,Other,208,1,0,Other,547,0
+1344,88698,SOUTH MAROUBRA VILLAGE,Maroubra,338228.5722,6241837.508,OTHER,208,1,0,OTHER,547,0
+1345,88699,Food For Less,Maroubra,338258.2294,6241849.315,Other,208,1,0,Other,547,0
+1346,88700,SEVEN-ELEVEN and PETROL,Maroubra,338211.5055,6241862.495,Other,208,1,0,Other,547,0
+1347,88702,Lexington Newsagency,Maroubra,338028.8109,6242058.714,Newsagency,219,1,0,Newsagency,545,0
+1348,88706,ST MARY and ST JOSEPH,Maroubra,338497.7821,6242292.346,Other,238,1,0,Other,542,0
+1349,88708,MAROUBRA SEALS CLUB,Maroubra,338794.3797,6242345.206,Other,265,1,0,Other,546,0
+1350,88712,Seventh Wave,Maroubra,338776.9381,6242462.937,Other,265,1,0,Other,546,0
+1351,88713,Zeebra Cafe,Maroubra,338820.7861,6242428.74,Cafe,265,1,0,Cafe,546,0
+1352,88714,MAROUBRA MEMORIAL BC,Maroubra,338522.9431,6242432.545,Other,248,1,0,Other,546,0
+1353,88717,Maroubra Beach Newsagency,Maroubra,338831.5074,6242505.019,Newsagency,265,1,0,Newsagency,546,0
+1354,88718,Four Square Stores N S W,Maroubra,338807.006,6242505.312,Other,265,1,0,Other,546,0
+1355,88721,SOUTH SYDNEY HIGH,Maroubra,336788.5675,6242519.539,Other,256,1,0,Other,540,0
+1356,88722,BEACH,MAROUBRA,339055,6242575,Other,264,1,0,Other,546,0
+1357,88723,SOUTH SEAS,Maroubra,339014.7123,6242583.01,Other,264,1,0,Other,543,0
+1358,88728,Maroubra 1st,Maroubra,337206.888,6242606.741,Scout,266,1,0,Scout,541,0
+1359,88729,No 10 Cafe,Maroubra,338757.0388,6242594.714,Cafe,265,1,0,Cafe,546,0
+1360,88730,MAROUBRA CHILD CARE,Maroubra,339195.3979,6242613.476,CHILD CARE CENTRE,267,1,0,CHILD CARE CENTRE,543,0
+1361,88733,Mr Big stuff Cafe,Maroubra,338805.2235,6242539.293,Cafe,265,1,0,Cafe,546,0
+1362,88734,THE GOLDEN GATE,Maroubra,338799.5766,6242599.543,Other,265,1,0,Other,546,0
+1363,88738,RSL Club,Maroubra,337395.793,6242675.403,Other,282,1,0,Other,541,0
+1364,88741,BUBS CHILD CARE CENTRE,Maroubra,338087.5188,6242767.445,CHILD CARE CENTRE,295,1,0,CHILD CARE CENTRE,542,0
+1365,88742,Maroubra 3rd,Maroubra,336904.8887,6242707.741,Scout,278,1,0,Scout,541,0
+1366,88745,Braddock Ian E,Maroubra,337980.6012,6242856.469,Other,295,1,0,Other,538,0
+1367,88746,MAROUBRA JUNCTION KINDERGARTEN,Maroubra,337448.6654,6242816.192,KINDERGARTEN,322,1,0,KINDERGARTEN,541,0
+1368,88747,Cafe Junction,Maroubra,337389.807,6242851.9,Cafe,322,1,0,Cafe,541,0
+1369,88748,MAROUBRA JUNCTION NRSG HM,Maroubra,338076.8105,6242847.685,Other,295,1,0,Other,538,0
+1370,88749,Maroubra Post office,Maroubra,337336,6242889,AUSTRALILA POST,322,1,0,Post office,537,0
+1371,88750,Cafe Charlotte,Maroubra,337352.7358,6242932.575,Cafe,322,1,0,Cafe,537,0
+1372,88751,Mcdonalds,Maroubra,337265,6242878,Other,322,1,0,Other,541,0
+1373,88752,INDONESIAN CONSULATE,Maroubra,337779.4856,6242879.764,Other,298,1,0,Other,538,0
+1374,88753,VIDEO EZY,MAROUBRA JUNCTION,337242.8249,6242818.428,Other,322,1,0,Other,537,0
+1375,88754,ST ANDREWS PRESBTERY,Maroubra,337079.7579,6242870.982,Other,322,1,0,Other,537,0
+1376,88755,Prospect Asian Grocery,Maroubra,337120.9641,6242921.053,Other,322,1,0,Other,537,0
+1377,88756,Police Station,Maroubra,337107.8792,6242958.588,Police Station,322,1,0,Police Station,537,0
+1378,88757,Maroubra Police Station,Maroubra,337109.8885,6242981.74,Police Station,322,1,0,Police Station,537,0
+1379,88759,SOUTHERN CROSS KILDARE AP,Maroubra,337608.7336,6242922.321,Other,322,1,0,Other,537,0
+1380,88760,SOUTHERN CROSS KILDARE CT,Maroubra,337608.7336,6242922.321,Other,322,1,0,Other,537,0
+1381,88761,TARA PACIFIC,Maroubra,337387.9818,6242952.926,Other,322,1,0,Other,537,0
+1382,88762,Maroubra Junction,Maroubra,337312.8882,6243033.74,Motor Registry,322,1,0,Motor Registry,537,0
+1383,88764,CENTRELINK,MAROUBRA,337115.1044,6242993.057,Other,322,1,0,Other,537,0
+1384,88765,PACIFIC SQUARE,Maroubra,337140.4198,6243042.523,Other,322,1,0,Other,537,0
+1385,88766,PANORAMA,Maroubra,337140.4198,6243042.523,Other,322,1,0,Other,537,0
+1386,88767,Stocklands Mall,Maroubra,337145,6243067,Other,322,1,0,Other,537,0
+1387,88768,Maroubra Mall,Maroubra,337123,6243070,Other,322,1,0,Other,537,0
+1388,88769,Pagewood Newsagency,Maroubra,336368.7357,6243034.338,Newsagency,323,1,0,Newsagency,540,0
+1389,88771,BEL AIR,Maroubra,336899.2887,6243015.97,Other,313,1,0,Other,537,0
+1390,88772,Hua Xing Grocery,Maroubra,337008.8594,6243009.978,Other,312,1,0,Other,540,0
+1391,88773,Jacatta Cafe,Maroubra,337008.8594,6243009.978,Cafe,312,1,0,Cafe,540,0
+1392,88774,FRANKLINS,MAROUBRA,337309.6038,6243059.293,Other,322,1,0,Other,537,0
+1393,88775,STRATUM,Maroubra,337328.1158,6243067.833,Other,322,1,0,Other,537,0
+1394,88780,SENIOR CLUB MAROUBRA,Maroubra,337322.7256,6243194.409,Other,326,1,0,Other,537,0
+1395,88781,Randwick City Library Service,Maroubra,337181.2461,6243314.003,Other,334,1,0,Other,537,0
+1396,88788,RANDWICK KINDERGARTEN,South Coogee,338128.4183,6243761.844,KINDERGARTEN,366,1,0,KINDERGARTEN,536,0
+1397,88791,Randwick Barracks,Randwick,337779,6244106,Other,402,1,0,Other,534,0
+1398,88793,THE CHILDRENS GARDEN,Randwick,337593.0313,6243941.714,Other,389,1,0,Other,533,0
+1399,88801,ENDEAVOUR HOUSE,South Coogee,338400.347,6243870.533,Other,382,1,0,Other,536,0
+1400,88812,NORFOLK,South Coogee,338948.3777,6244022.842,Other,396,1,0,Other,535,0
+1401,88815,KINGSFORD KINDERGARTEN,Kingsford,336489.8583,6244251.332,KINDERGARTEN,418,1,0,KINDERGARTEN,532,0
+1402,88816,Kingsford Scout Hall,Kingsford,336418.8906,6244050.739,Scout,403,1,0,Scout,532,0
+1403,88817,WOODLANDS,Kingsford,336411.7154,6244106.996,Other,403,1,0,Other,532,0
+1404,88826,MAHRE,South Coogee,338767.8146,6244456.832,Other,441,1,0,Other,531,0
+1405,88829,Sturt St Mixed Business,Kingsford,336994.5414,6244574.614,Other,446,1,0,Other,530,0
+1406,88831,WOLSELEY,Coogee,339090.5083,6244572.574,Other,449,1,0,Other,531,0
+1407,88834,WYLIES BATH,Coogee,339099.7957,6244717.382,Other,470,1,0,Other,531,0
+1408,88837,PARMELIA,Coogee,338814.4151,6244663.84,Other,474,1,0,Other,531,0
+1409,88838,BORONIA,Coogee,338803.1192,6244719.112,Other,474,1,0,Other,531,0
+1410,88843,GARDENS R US,KINGSFORD,335490.8774,6244698.505,Other,467,1,0,Other,525,0
+1411,88844,Souths Juniors Leagues,Kingsford,336510,6244654,Other,461,1,1,Other,530,0
+1412,88845,SOUTHS SYDNEY JUNIOR RUGBY LEAGUE,Kingsford,336457.1563,6244689.274,Other,461,1,1,Other,530,0
+1413,88848,Gardeners Tai Cafe,Kingsford,336159.5042,6244757.925,Cafe,491,1,1,Cafe,525,0
+1414,88849,Australia Post Kingsford,Kingsford,336140.2338,6244770.662,AUSTRALILA POST,491,1,1,AUSTRALILA POST,525,0
+1415,88850,Kingsford Post office,Kingsford,336145,6244771,AUSTRALILA POST,491,1,1,Post office,525,0
+1416,88852,The Lakes Golf Club,Eastlakes,334787.2879,6243908.226,Other,386,1,0,Other,524,0
+1417,88853,JEREMY GARDENS,Kingsford,336309.452,6244685.395,Other,462,1,1,Other,532,0
+1418,88855,Nineways,Kingsford,336224,6244807,Other,491,1,1,Other,532,0
+1419,88856,Coogee Bay Kiosk The,Coogee,338790.9042,6244758.207,Other,474,1,0,Other,531,0
+1420,88858,COOGEE BEAR DAY CARE,Coogee,338597.5224,6244862.374,Other,499,1,0,Other,531,0
+1421,88864,RESIDENTIAL STRATA,Coogee,338752.8701,6244917.152,Other,495,1,0,Other,531,0
+1422,88865,Randwick 1st,Randwick,336862.8903,6244856.737,Scout,488,1,0,Scout,527,0
+1423,88868,CRAIFIE COURT,Kingsford,336470.9988,6244948.422,Other,500,1,1,Other,526,0
+1424,88870,STRATUM,Kingsford,336096.9184,6244960.399,Other,501,1,1,Other,525,0
+1425,88871,COORA COURT,Kingsford,336454.218,6244950.906,Other,500,1,1,Other,526,0
+1426,88873,SPORTS BAR,KINGSFORD,336220.3719,6244874.546,Bar,491,1,1,Bar,526,0
+1427,88875,Meeks Cafe,Kingsford,336301.9934,6244983.667,Cafe,506,1,1,Cafe,526,0
+1428,88876,MONTE CARLO,Kingsford,336278.5869,6244984.262,Other,506,1,1,Other,526,0
+1429,88877,COOGEE LADIES BATHS,Coogee,339038.6219,6244878.41,Other,492,1,0,Other,529,0
+1430,88879,RANDWICK BOYS HIGH,Randwick,337159.5559,6244895.15,Other,494,1,0,Other,527,0
+1431,88880,RANDWICK GIRLS HIGH,Randwick,337159.5559,6244895.15,Other,494,1,0,Other,527,0
+1432,88881,Fricelli Pasta Bar,Coogee,338814.0795,6245024.903,Bar,553,1,0,Bar,529,0
+1433,88882,Howe J W,Kingsford,335276.9743,6244782.225,Other,480,1,0,Other,524,0
+1434,88884,Crowne Plaza Coogee Beach Sydney,Coogee,338773.3907,6245102.64,Other,553,1,0,Other,529,0
+1435,88885,CORBAN HALL,Coogee,338269.8561,6244962.065,Other,502,1,0,Other,529,0
+1436,88886,PATHWAY,Rosebery,334450.9157,6245083.333,Other,515,1,0,Other,294,0
+1437,88887,Memorial Playground,Coogee,338203.376,6245129.654,Other,547,1,0,Other,529,0
+1438,88888,CASTELLORIZIAN CLUB,Kingsford,336137.9477,6245095.759,Other,525,1,1,Other,526,0
+1439,88889,Kensington 3rd/4th,Kingsford,335830.8925,6245195.737,Scout,541,1,1,Scout,525,0
+1440,88890,BRYON COURT,Coogee,338285.25,6245181.966,Other,547,1,0,Other,531,0
+1441,88891,ASCOT,Coogee,338287.5889,6245202.084,Other,547,1,0,Other,531,0
+1442,88892,Ronald Mcdonald House,Randwick,337227,6245222,Other,565,1,1,Other,527,0
+1443,88893,Royal Hosp For Women Hosp,Randwick,337223,6245312,Other,565,1,1,Other,527,0
+1444,88895,Tzavaras Bros,Randwick,336912.7777,6245178.218,Other,523,1,0,Other,527,0
+1445,88897,DERWENT,Coogee,338805.2336,6245162.599,Other,553,1,0,Other,529,0
+1446,88898,Coogee Bay Hotel Nightclub,Coogee,338858.8212,6245250.627,Other,553,1,0,Other,529,0
+1447,88899,Rosebery Cathedral Rosebery,Rosebery,334221,6245240,Other,543,1,0,Other,294,0
+1448,88900,KANGA CHILD CARE UNIT,Kingsford,336345.7426,6245278.053,CHILD CARE CENTRE,551,1,1,CHILD CARE CENTRE,526,0
+1449,88901,Flag International,Kingsford,336281.5879,6245281.938,Other,551,1,1,Other,526,0
+1450,88902,Coogee Bay Boutique Hotel and Function Centre,Coogee,338742.793,6245214.873,Other,553,1,0,Other,529,0
+1451,88903,Coogee Bay Newsagency,Coogee,338754.2073,6245235.649,Newsagency,553,1,0,Newsagency,529,0
+1452,88904,Westpac Bank,Coogee,338736.798,6245262.694,Bank,553,1,0,Bank,529,0
+1453,88905,Cafe Congo,Coogee,338851.1218,6245263.473,Cafe,553,1,0,Cafe,529,0
+1454,88906,Garden Cafe Coogee,Coogee,338835.407,6245266.68,Cafe,553,1,0,Cafe,529,0
+1455,88907,KENNEDY FLATS,Kingsford,336627.6072,6245214.134,Other,534,1,0,Other,526,0
+1456,88908,Australia Post Coogee,Coogee,338600.2998,6245226.377,AUSTRALILA POST,553,1,0,AUSTRALILA POST,529,0
+1457,88909,Coogee Post office,Coogee,338604,6245235,AUSTRALILA POST,553,1,0,Post office,529,0
+1458,88910,Commonwealth Bank,Coogee,338616.1595,6245261.7,Bank,553,1,0,Bank,529,0
+1459,88911,Coogee Cafe,Coogee,338723.1655,6245264.893,Cafe,553,1,0,Cafe,529,0
+1460,88912,Beach Pit Cafe,Coogee,338689.1319,6245270.382,Cafe,553,1,0,Cafe,529,0
+1461,88913,Tropicana Cafe,Coogee,338675.4995,6245272.581,Cafe,553,1,0,Cafe,529,0
+1462,88914,Bakers Delight,Coogee,338734.2414,6245289.554,Other,553,1,0,Other,529,0
+1463,88915,Dominos Pizza,Coogee,338661.7149,6245295.062,Other,553,1,0,Other,529,0
+1464,88918,Kensington Bowling Club,Kingsford,335813.734,6245239.465,Other,541,1,1,Other,525,0
+1465,88920,Coogee Village Newsagency,Coogee,338610.2168,6245306.636,Newsagency,553,1,0,Newsagency,529,0
+1466,88921,COOGEE LEGION CLUB,Coogee,338842.2189,6245280.74,Other,553,1,0,Other,529,0
+1467,88922,COOGEE BAY PERFORMANCE,Coogee,338388.649,6245311.628,Other,546,1,0,Other,529,0
+1468,88923,Windscreen Cafe,Kingsford,336879.4712,6245281.253,Cafe,545,1,1,Cafe,527,0
+1469,88924,Chans Newsagency and Deli,Coogee,338268.9802,6245311.807,Other,547,1,0,Other,529,0
+1470,88925,OVAL,KENSINGTON,335648.8929,6245265.737,Other,542,1,1,Other,525,0
+1471,88926,COOGEE HOUSE,Coogee,338731.3118,6245325.889,Other,553,1,0,Other,529,0
+1472,88927,Australian Golf Club,Kensington,334672.8242,6245382.722,Other,560,1,0,Other,524,0
+1473,88928,Coogee Sands Apartments Pty Ltd,Coogee,338964.1508,6245473.013,Other,574,1,0,Other,523,0
+1474,88929,COAST,Coogee,338637.4813,6245459.848,Other,566,1,0,Other,529,0
+1475,88930,COAST APTS,Coogee,338637.4813,6245459.848,Other,566,1,0,Other,529,0
+1476,88931,Beach Palace Coogee,Coogee,338994.0769,6245503.51,Other,574,1,0,Other,529,0
+1477,88932,SaltWater Cafe,Coogee,338994.0769,6245503.51,Cafe,574,1,0,Cafe,529,0
+1478,88933,Coogee 2nd,Coogee,338479.8877,6245493.734,Scout,578,1,0,Scout,523,0
+1479,88934,VALMAR,Coogee,338502.7372,6245508.915,Other,578,1,0,Other,523,0
+1480,88936,Mcdonalds Coogee Beach,Coogee,338886,6245498,Other,574,1,0,Other,523,0
+1481,88937,The Beach House,Coogee,338924.9893,6245514.761,Other,574,1,0,Other,523,0
+1482,88938,Coogee Beach Newsagency,Coogee,338912.8066,6245523.659,Newsagency,574,1,0,Newsagency,523,0
+1483,88939,Coogee Bite Cafe The,Coogee,338997.174,6245528.077,Cafe,574,1,0,Cafe,529,0
+1484,88940,CLARWILL COURT,Coogee,338868.479,6245536.875,Other,574,1,0,Other,523,0
+1485,88941,COOGEE POLICE,Randwick,337698.5365,6245525.144,Police Station,572,1,1,Police Station,522,0
+1486,88942,BARCLAY,Coogee,338379.5303,6245608.095,Other,580,1,0,Other,523,0
+1487,88943,Johnnys Cafe,Rosebery,334302.1856,6245561.4,Cafe,584,1,0,Cafe,294,0
+1488,88944,Rosebery North Newsagency,Rosebery,334303.9996,6245568.753,Newsagency,584,1,0,Newsagency,294,0
+1489,88946,Four Square Stores N S W,Randwick,338097.8604,6245623.445,Other,588,1,0,Other,522,0
+1490,88947,Jack and Jills Fish Cafe,Coogee,339025.2501,6245661.113,Cafe,587,1,0,Cafe,523,0
+1491,88948,Bream Street Newsagency,Coogee,338171.8432,6245665.457,Newsagency,588,1,0,Newsagency,522,0
+1492,88950,PRESBYTERY,Rosebery,334221.0124,6245639.298,Other,584,1,0,Other,292,0
+1493,88951,BLENHEIM HOUSE,Randwick,337144.9111,6245764.584,Other,601,1,1,Other,521,0
+1494,88954,Australia Post Business Centre Alexandria,Alexandria,333501.4312,6245677.043,AUSTRALILA POST,590,1,0,AUSTRALILA POST,287,0
+1495,88955,Teascapes Cafe,Randwick,337580.4851,6245240.256,Cafe,707,1,1,Cafe,528,0
+1496,88956,Ritz,Randwick,337643.931,6245289.818,Other,707,1,1,Other,528,0
+1497,88957,RANDWICK RITZ CINEMA,Randwick,337615.3833,6245320.611,Other,707,1,1,Other,528,0
+1498,88958,The Spot,Randwick,337513,6245234,Other,707,1,1,Other,528,0
+1499,88959,Cafe Ciao,Randwick,337567.5692,6245353.182,Cafe,707,1,1,Cafe,528,0
+1500,88960,Culver Cafe,Randwick,337527.6295,6245382.36,Cafe,707,1,1,Cafe,528,0
+1501,88961,Brigidine College Randwick,Randwick,337557.6936,6245411.473,Other,707,1,1,Other,528,0
+1502,88962,Royal Hotel Randwick,Randwick,337486.3125,6245480.912,Other,707,1,1,Other,528,0
+1503,88963,Randwick District Memorial,Randwick,337434.8897,6245561.735,Places_Interest,707,1,1,Places_Interest,528,0
+1504,88964,Bar Coluzzi,Randwick,337333.9085,6245664.217,Other,707,1,1,Other,521,0
+1505,88965,Nightowls Cafe,Randwick,337462.1417,6245704.242,Cafe,707,1,1,Cafe,521,0
+1506,88966,CHILD CARE CENTRE,Rosebery,334529.6696,6245679.407,CHILD CARE CENTRE,607,1,0,CHILD CARE CENTRE,292,0
+1507,88967,Harcourt Industrial Area,Rosebery,334498,6245762,Other,607,1,0,Other,292,0
+1508,88968,BLOCK A,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1509,88969,BLOCK B,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1510,88970,BLOCK C,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1511,88971,BLOCK D,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1512,88972,BLOCK E,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1513,88973,BLOCK F,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1514,88974,BLOCK H,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1515,88975,BLOCK J,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1516,88976,BLOCK K1,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1517,88977,BLOCK K2,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1518,88978,BLOCK K3,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1519,88979,BLOCK K4,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1520,88980,BLOCK L,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1521,88981,BLOCK M,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1522,88982,BLOCK N,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1523,88983,BLOCK P,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1524,88984,BLOCK Q,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1525,88985,BLOCK U,Rosebery,334555.6806,6245794.785,Other,607,1,0,Other,292,0
+1526,88986,Roundhouse,Kensington,336169,6245787,Other,615,1,1,Other,520,0
+1527,88987,Skandels Coffee Shop and Bistro,Randwick,337315.2641,6245742.99,Cafe,707,1,1,Coffee Shop,521,0
+1528,88988,Sophies Place,Randwick,337355.9831,6245768.45,Other,707,1,1,Other,521,0
+1529,88989,NUGAL HALL,Randwick,337590.5614,6245857.747,Other,707,1,1,Other,521,0
+1530,88990,MILFORD HOUSE NRSG HOME,Randwick,337484.9672,6245872.69,Other,707,1,1,Other,521,0
+1531,88991,GYM,KENSINGTON,335959,6245868,Other,619,1,1,Other,520,0
+1532,88992,NIDA National Institue of Dramatic,Kensington,335917,6245811,Other,619,1,1,Other,520,0
+1533,88993,Suntory Pty Ltd,Rosebery,334300.2087,6245829.122,Other,617,1,0,Other,292,0
+1534,88996,CENTRUM PLACE,Rosebery,334233.7226,6245838.198,Other,617,1,0,Other,292,0
+1535,88998,Unicom Credit Union,Randwick,337306.6542,6245904.546,Other,707,1,1,Other,521,0
+1536,88999,Mcdonalds,Randwick,337323,6245910,Other,707,1,1,Other,521,0
+1537,89000,Royal Randwick Village Newsagency,Randwick,337323.0996,6245917.856,Newsagency,707,1,1,Newsagency,521,0
+1538,89001,THE BELMORE,Randwick,337337.8072,6245943.936,Other,707,1,1,Other,521,0
+1539,89003,Clovelly Beach,Clovelly,339776.061,6245915.087,Other,627,1,0,Other,518,0
+1540,89004,st George Bank,Randwick,337281.3108,6245974.347,Bank,707,1,1,Bank,521,0
+1541,89005,Zellinis Cafe,Randwick,337248.7479,6246003.087,Cafe,707,1,1,Cafe,521,0
+1542,89006,BISMON COURT,Coogee,338568.9665,6246002.785,Other,635,1,0,Other,517,0
+1543,89007,Westpac Bank,Randwick,337301.247,6245978.041,Bank,707,1,1,Bank,521,0
+1544,89008,Kensington Garden and Gift Centre,Kensington,335866.1829,6246015.345,Other,656,1,1,Other,519,0
+1545,89009,MARCELLIN COLLEGE RANDWICK,Randwick,337358.1111,6246035.468,Other,707,1,1,Other,521,0
+1546,89010,Randwick Junction,Randwick,337279,6246077,Other,707,1,1,Other,521,0
+1547,89013,J As,Randwick,337505.3475,6246043.536,Other,707,1,1,Other,515,0
+1548,89015,KARITANE MOTHER and CHILD,Randwick,337441.8956,6246022.372,Other,707,1,1,Other,521,0
+1549,89016,RANDWICK LABOR CLUB,Randwick,337158.9873,6246103.048,Other,707,1,1,Other,521,0
+1550,89017,Police Station,Randwick,337389.9432,6246106.073,Police Station,707,1,1,Police Station,515,0
+1551,89018,STAFF QUARTERS,Kensington,335456.413,6246070.577,Other,657,1,1,Other,519,0
+1552,89019,Baristas Coffee,Randwick,337258.233,6246096.387,Cafe,707,1,1,Coffee Shop,515,0
+1553,89020,Supreme Indian Cafe,Randwick,337247.1605,6246109.071,Cafe,707,1,1,Cafe,515,0
+1554,89021,Commonwealth Bank,Randwick,337257.8566,6246038.886,Bank,707,1,1,Bank,515,0
+1555,89022,Randwick Newsagency,Randwick,337230.8285,6246055.693,Newsagency,707,1,1,Newsagency,515,0
+1556,89023,Specc Cafe Restaurant,Clovelly,339544.6693,6246057.38,Cafe,646,1,0,Cafe,518,0
+1557,89024,Asian Tea House The,Randwick,337555.2337,6246133.244,Other,707,1,1,Other,515,0
+1558,89025,Mohamed M,Clovelly,339410.6265,6246130.432,Other,648,1,0,Other,518,0
+1559,89026,Piatza store and Cafe,Rosebery,334480.8739,6245783.385,Cafe,607,1,0,Cafe,292,0
+1560,89027,Pukka Karma Kafe,Randwick,337500.0835,6246138.033,Other,707,1,1,Other,515,0
+1561,89028,Verano Cafe,Alexandria,333263.6816,6245961.082,Cafe,632,1,0,Cafe,287,0
+1562,89029,Collins street Cafe,Alexandria,333369.5637,6246172.068,Cafe,654,1,0,Cafe,287,0
+1563,89030,INDAPUR,Randwick,336922.6605,6246136.817,Other,649,1,1,Other,521,0
+1564,89031,Beaconsfield Newsagency,Beaconsfield,333741.8891,6246202.212,Newsagency,658,1,0,Newsagency,287,0
+1565,89032,BERRYS CORNER,Clovelly,339110.4248,6246217.529,Other,661,1,0,Other,518,0
+1566,89033,NIDA,KENSINGTON,335836.5813,6246190.752,Other,656,1,1,Other,509,0
+1567,89034,Allpress Espresso Australia,Rosebery,334453.2943,6246155.632,Other,651,1,0,Other,285,0
+1568,89035,Clovelly Newsagency,Clovelly,338992.9669,6246239.386,Newsagency,688,1,0,Newsagency,513,0
+1569,89038,Clovelly Post office,Clovelly,338663,6246297,AUSTRALILA POST,681,1,0,Post office,513,0
+1570,89039,Blue Groper Cafe,Randwick,338541.1972,6246305.522,Cafe,681,1,0,Cafe,513,0
+1571,89040,Southside Business Centre,Rosebery,334022,6246255,Other,670,1,0,Other,288,0
+1572,89041,Randwick Police Station,Randwick,337400.8902,6246137.734,Police Station,707,1,1,Police Station,515,0
+1573,89042,AVONMORE TERRACE,Randwick,337410.4727,6246165.055,Other,707,1,1,Other,515,0
+1574,89043,RANDWICK-COOGEE KINDER,Randwick,337365.9177,6246273.433,Other,707,1,1,Other,515,0
+1575,89044,ST JUDES CHURCH OF ENGLAND,Randwick,337535.3717,6246267.017,Other,707,1,1,Other,515,0
+1576,89045,Randwick City Council,Randwick,337534.8901,6246340.733,Local Government,707,1,1,Local Government,515,0
+1577,89046,Randwick Council,Randwick,337576,6246341,Other,707,1,1,Other,515,0
+1578,89047,Randwick Post office,Randwick,338590,6246312,AUSTRALILA POST,681,1,0,Post office,513,0
+1579,89048,Janes Exotic Thai Cafe,Clovelly,338641.4704,6246318.499,Cafe,681,1,0,Cafe,513,0
+1580,89049,Suttons Newsagency,Clovelly,338641.4704,6246318.499,Newsagency,681,1,0,Newsagency,513,0
+1581,89050,JUVERNA,Randwick,337182.7929,6246235.684,Other,666,1,1,Other,515,0
+1582,89051,Kenso Cafe,Kensington,335779.972,6246410.301,Cafe,697,1,1,Cafe,509,0
+1583,89052,THE CARRINGTON,Randwick,338378.7977,6246389.683,Other,691,1,0,Other,517,0
+1584,89053,YAMBOON,Randwick,338121.624,6246387.63,Other,690,1,0,Other,516,0
+1585,89054,Vatulele Island Resort,Clovelly,338691.7458,6246494.841,Other,715,1,0,Other,513,0
+1586,89055,Defence Force Credit Union Ltd Randwick Barracks,Randwick,337446.0444,6246363.327,Other,707,1,1,Other,511,0
+1587,89057,Randwick Credit Union,Randwick,337596.2539,6246304.648,Other,707,1,1,Other,516,0
+1588,89058,SAVOY GARDENS,Randwick,337680.2344,6246373.547,Other,707,1,0,Other,516,0
+1589,89059,Kensington Post office,Kensington,335782,6246427,AUSTRALILA POST,697,1,1,Post office,509,0
+1590,89060,CASTELLORIZIAN NURSNG HME,Kensington,335295.0577,6246473.671,Other,709,1,1,Other,508,0
+1591,89061,Franklins,Randwick,337495.0905,6246539.989,Other,728,1,0,Other,511,0
+1592,89062,TALLIMBA,Randwick,336986.6448,6246428.551,Other,705,1,1,Other,515,0
+1593,89063,TONGARRY,Randwick,336987.6745,6246443.987,Other,705,1,1,Other,515,0
+1594,89067,CLOVELLY CHILD CARE CENTRE,Clovelly,339042.9824,6246573.24,CHILD CARE CENTRE,736,1,0,CHILD CARE CENTRE,518,0
+1595,89068,CHANTILLY,Randwick,336795.357,6246601.863,Other,737,1,1,Other,510,0
+1596,89069,DERWENT,Kensington,335982.3249,6246534.27,Other,720,1,1,Other,509,0
+1597,89070,SUSSEX,Kensington,335984.8056,6246551.285,Other,720,1,1,Other,509,0
+1598,89071,Select Credit Union Limited,Zetland,334536.2102,6246492.532,Other,713,1,0,Other,285,0
+1599,89072,FRENCHMANS LODGE NRSG HM,Randwick,337781.7696,6246607.235,Other,729,1,0,Other,512,0
+1600,89073,SAN REMO and MONTEREY,Randwick,337998.5923,6246431.677,Other,699,1,0,Other,512,0
+1601,89074,Angleiques,Randwick,338019.9412,6246536.203,Other,743,1,0,Other,512,0
+1602,89075,HAIR,Kensington,335792.0769,6246571.359,Other,723,1,1,Other,509,0
+1603,89076,RICHMOND VILLA,Randwick,337501.4995,6246608.653,Other,728,1,0,Other,511,0
+1604,89080,LARNACH,Kensington,335367.6796,6246691.356,Other,745,1,1,Other,508,0
+1605,89081,LINCOLN,Kensington,335367.6796,6246691.356,Other,745,1,1,Other,508,0
+1606,89082,MITRE 10,RANDWICK,338068.2809,6246630.128,Other,743,1,0,Other,512,0
+1607,89083,Crust Deli Cafe,Randwick,338044.6754,6246631.469,Cafe,743,1,0,Cafe,512,0
+1608,89084,Fozzys Coffee Shop,Randwick,338072.7532,6246651.266,Cafe,743,1,0,Coffee Shop,512,0
+1609,89085,Tom and Michaels Self Service,Randwick,337985.3737,6246681.151,Other,743,1,0,Other,512,0
+1610,89086,Alexandria Business Centre,Alexandria,333325,6246484,Other,710,1,0,Other,287,0
+1611,89087,Standard Weighbridges P/L,Alexandria,333343.8984,6246627.736,Weighbridge,735,1,0,Weighbridge,287,0
+1612,89088,Peters of,Kensington,335723,6246650,Other,738,1,1,Other,509,0
+1613,89089,BUILDING B,Zetland,334655.5308,6246725.791,Other,754,1,0,Other,285,0
+1614,89095,AINTREE,Kensington,335604.5796,6246711.213,Other,749,1,1,Other,508,0
+1615,89096,Bayly R G,Randwick,337151.8173,6246715.031,Other,751,1,1,Other,510,0
+1616,89097,S G E Credit Union,Randwick,336905.117,6246780.531,Other,763,1,1,Other,510,0
+1617,89098,VENICE,Randwick,338161.437,6246721.427,Other,752,1,0,Other,512,0
+1618,89102,SUBSTATION NO: 998,Waverley,339003.2865,6246754.267,Other,761,1,0,Other,513,0
+1619,89103,LOT 6,Zetland,334434.2802,6246807.771,Other,773,1,0,Other,285,0
+1620,89108,MILROY PLACE,Kensington,334951.7293,6246890.075,Other,791,1,0,Other,508,0
+1621,89109,MILROY COURT,Kensington,334961.0959,6246924.571,Other,791,1,0,Other,508,0
+1622,89115,BUILDING S,Zetland,334719.2147,6246818.639,Other,799,1,0,Other,285,0
+1623,89116,MONTEFIORE HOME,Randwick,337131.3381,6246830.49,Other,775,1,1,Other,510,0
+1624,89117,BUILDING P,Zetland,334689.082,6246822.774,Other,799,1,0,Other,285,0
+1625,89118,BUILDING E,Zetland,334712.0023,6246866.325,Other,799,1,0,Other,285,0
+1626,89120,LOT 8,Zetland,334524.9575,6246894.005,Other,799,1,0,Other,285,0
+1627,89124,Victoria Park Cafe,Zetland,334460.5463,6246970.211,Cafe,799,1,0,Cafe,285,0
+1628,89126,Green Square Hotel The,Zetland,334063.3429,6247001.315,Other,806,1,0,Other,284,0
+1629,89127,QANTAS,MASCOT,333672.3779,6246885.625,Other,856,1,0,Other,277,0
+1630,89128,QANTAS TCC,MASCOT,333672.3779,6246885.625,Other,856,1,0,Other,277,0
+1631,89129,LINC EAST,Alexandria,333742.8211,6246999.241,Other,856,1,0,Other,277,0
+1632,89134,CATHOLIC PRESBYTERY,Randwick,337655.7976,6247039.921,Other,809,1,0,Other,511,0
+1633,89143,LINC NORTH,Alexandria,333729.4481,6247033.978,Other,856,1,0,Other,278,0
+1634,89144,The Plant Deli,Randwick,337905.7574,6246891.332,Other,786,1,0,Other,512,0
+1635,89146,Centennial Bites,Randwick,337526.2926,6247127.114,Other,832,1,0,Other,511,0
+1636,89147,CARINVA,Randwick,338100.8705,6247138.15,Other,828,1,0,Other,512,0
+1637,89148,IRWIN AND SHEEHAN,Waterloo,334453.6611,6247168.824,Other,834,1,0,Other,285,0
+1638,89149,Amiri S and S,Randwick,337563.7469,6247159.924,Other,832,1,0,Other,511,0
+1639,89150,Hudson Cafeteria,Alexandria,333714.2193,6247127.115,Cafe,856,1,0,Cafe,278,0
+1640,89153,RAILWAY TRANSIT,Waterloo,334000.3469,6247008.989,Other,806,1,0,Other,278,0
+1641,89154,Verde Cafe,Waterloo,333780.7127,6247159.561,Cafe,856,1,0,Cafe,278,0
+1642,89158,Simply Food Food Service Management,Waterloo,334273.5696,6247226.971,Other,846,1,0,Other,278,0
+1643,89160,Westpac Bank,Alexandria,333663.2597,6247279.862,Bank,856,1,0,Bank,277,0
+1644,89161,Mcdonalds,Waterloo,333694,6247302,Other,856,1,0,Other,268,0
+1645,89170,BUILDING L,Alexandria,333418.4075,6247327.596,Other,859,1,0,Other,276,0
+1646,89182,GREEN,Waterloo,333979.4461,6247267.98,Other,851,1,0,Other,278,0
+1647,89183,GREEN SQUARE,Waterloo,333979.4461,6247267.98,Other,851,1,0,Other,278,0
+1648,89184,GREEN SQUARE OASIO,Waterloo,333979.4461,6247267.98,Other,851,1,0,Other,278,0
+1649,89185,GREEN SQUARE OASIS,Waterloo,333979.4461,6247267.98,Other,851,1,0,Other,278,0
+1650,89188,THE SONOMA,Waterloo,334217.6389,6247394.72,Other,875,1,0,Other,278,0
+1651,89200,Childrens Cycle Path,Centennial Park,336196,6247256,Other,850,1,1,Other,514,0
+1652,89209,Crown Square Convenience Store,Waterloo,334712.311,6247576.507,Other,895,1,0,Other,270,0
+1653,89210,Chooks Cafe,Alexandria,333542.6637,6247616.199,Cafe,920,1,0,Cafe,276,0
+1654,89224,Australia Post,Eveleigh,333146.345,6247738.805,AUSTRALILA POST,930,1,0,AUSTRALILA POST,276,0
+1655,89225,Australia Post Alexandria,Eveleigh,333146.345,6247738.805,AUSTRALILA POST,930,1,0,AUSTRALILA POST,276,0
+1656,89263,WAVERLEY RESERVIOR,Bondi Junction,338683.9216,6248087.744,Other,994,1,0,Other,-1,-1
+1657,89318,VICTORIA BARRACKS,Centennial Park,337000.2317,6248492.782,Other,1075,1,0,Other,507,0
+1658,89323,Darlings Cafe,Centennial Park,337113.8927,6248494.676,Cafe,1077,1,0,Cafe,507,0
+1659,89324,Palace Academy Twin,Centennial Park,337113.8927,6248494.676,Other,1077,1,0,Other,507,0
+1660,89325,Sweet Sips,Centennial Park,337113.8927,6248494.676,Other,1077,1,0,Other,507,0
+1661,89415,Cathedral Church of The Annunciation Surry Hills,Surry Hills,333762,6248711,Other,1142,1,0,Other,-1,-1
+1662,89546,Arthurs,Paddington,336072.5,6249187.041,Other,1225,1,0,Other,-1,-1

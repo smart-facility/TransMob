@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:util="http://www.springframework.org/schema/util"
+xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+    http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd">
+
+	
+
+<bean id="defaultConfigurationBuilder" class="org.apache.commons.configuration.DefaultConfigurationBuilder">
+	<constructor-arg type="java.lang.String" value="config.xml"/>
+</bean>
+       
+    <bean id="BusRouteBean" class="beans.BusRouteBean">
+	</bean>
+	<bean id="RoadBean" class="beans.RoadBean">
+	</bean>
+	<bean id="StatsResultsBean" class="beans.StatsResultsBean">
+	</bean>
+	<bean id="SubareaBean" class="beans.SubareaBean">
+	</bean>
+	<bean id="UserScenarioBean" class="beans.UserScenarioBean">
+	</bean>
+	
+	<bean id="Household1" class="core.synthetic.household.Household">	
+		<property name="id" value="0"></property>
+		<property name="category" ref="HF1"></property>
+		<property name="numberResidents" value="2"></property>
+		<property name="residents">
+			<util:list list-class="java.util.ArrayList">
+			</util:list>
+		</property>
+		<property name="grossIncome" value="#{ T(java.lang.Math).random() * 2000.0 }"></property>
+	</bean>
+	
+	<bean id="Household2" class="core.synthetic.household.Household">
+		<property name="id" value="1"></property>
+		<property name="category" ref="HF2"></property>
+		<property name="numberResidents" value="4"></property>
+		<property name="residents">
+			<util:list list-class="java.util.ArrayList">
+			</util:list>
+		</property>
+		<property name="grossIncome" value="#{ T(java.lang.Math).random() * 2000.0 }"></property>	
+	</bean>
+	
+<!-- 	<bean id="SimpleIndividual" class="core.synthetic.population.SimpleIndividual">	
+	</bean> -->
+	
+	<bean id="HF1" class="core.synthetic.attribute.Category" factory-method="valueOf">
+		 <constructor-arg>
+         <value>HF1</value>
+     	</constructor-arg>
+	</bean>
+	
+	<bean id="HF2" class="core.synthetic.attribute.Category" factory-method="valueOf">
+		 <constructor-arg>
+         <value>HF2</value>
+     	</constructor-arg>
+	</bean>
+	
+</beans>

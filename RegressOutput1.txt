@@ -1,0 +1,45 @@
+This file, RegressOutput.txt, was created at 10:01:52 AM on 16/02/2012
+ 
+Unweighted Least Squares Minimisation
+Generalised linear regression
+y = c[0]*f1(x) + c[1]*f2(x) + c[2]*f3(x) + . . .
+
+             	Best         	Error        	Coefficient of	t-value      	p-value
+             	Estimate     	             	variation (%)	t            	P > |t|
+c[0]         	2.0          	0.0          	0.0          	Infinity     	0.0
+
+x0           	y(expl)      	y(calc)      	weight       	residual     	residual
+             	             	             	             	(unweighted) 	(weighted)
+1.0          	2.0          	2.0          	1.0          	0.0          	0.0
+2.0          	4.0          	4.0          	1.0          	0.0          	0.0
+3.0          	6.0          	6.0          	1.0          	0.0          	0.0
+4.0          	8.0          	8.0          	1.0          	0.0          	0.0
+5.0          	10.0         	10.0         	1.0          	0.0          	0.0
+
+Sum of squares 0.0
+ 
+Correlation: x - y data
+Linear Correlation Coefficient (R)	1.0
+Linear Correlation Coefficient Probability	0.0
+ 
+Correlation: y(experimental) - y(calculated)
+Linear Correlation Coefficient	1.0
+Linear Correlation Coefficient Probability	0.0
+
+ 
+Degrees of freedom	4
+Number of data points	5
+Number of estimated paramaters	1
+
+Durbin-Watson d statistic	NaN
+
+
+Coefficient of determination,   =                   1.0
+Adjusted Coefficient of determination,    =         1.0
+Coefficient of determination, F-ratio =             Infinity
+Coefficient of determination, F-ratio probability = 0.0
+Total (weighted) sum of squares  =                  40.0
+Regression (weighted) sum of squares  =             40.0
+Error (weighted) sum of squares  =                  0.0
+
+End of file

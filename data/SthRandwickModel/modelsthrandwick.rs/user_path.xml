@@ -1,0 +1,6 @@
+<model name="modelSthRandwick">
+<classpath>
+<agents path="../../modelSthRandwick/bin,../../modelSthRandwick/bin-groovy" filter="core.model.Individual"/>
+<agents path="../../modelSthRandwick/bin,../../modelSthRandwick/bin-groovy" filter="core.model.Link"/>
+</classpath>
+</model>

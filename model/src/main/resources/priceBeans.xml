@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.1.xsd">
+
+<bean id="travelPriceBean" class="core.synthetic.travel.mode.TravelPriceBean">
+    
+  <!--  <property name="averageSpeedKMPerHour" value="46"></property>
+    <property name="waitingCostPerMinute" value="0.33"></property>
+    <property name="drivingCostPerKM" value="0.21"></property>
+    <property name="taxiDistanceRatePerKM" value="2.06"></property>
+    <property name="taxiFlagfall" value="3.4"></property>
+    <property name="sectionDistanceKM" value="1.6"></property>
+    <property name="busFare1" value="2.1"></property>
+    <property name="busFare2" value="3.5"></property>
+    <property name="busFare3" value="4.5"></property>
+    <property name="busFare1MaxSections" value="2"></property>
+    <property name="busFare2MaxSections" value="5"></property> -->
+    
+    
+    <property name="walk" value="0.04"></property>
+    <property name="driver" value="0.10"></property>
+    <property name="passenger" value="0.02"></property>
+    <property name="taxi" value="1.00"></property>
+    <property name="transit" value="0.06"></property>
+    <property name="wait" value="0.04"></property>
+    <property name="bike" value="0.02"></property>
+    
+    
+     </bean>
+
+
+</beans>

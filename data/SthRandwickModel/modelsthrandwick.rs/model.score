@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<score:SContext xmlns:score="http://scoreabm.org/score" label="modelSthRandwick" ID="modelSthRandwick" pluralLabel="modelSthRandwicks">
+  <implementation package="core" className="ContextCreator" basePath="../modelSthRandwick" mode="AUTO"/>
+  <agents label="Individual" ID="individual" pluralLabel="Individuals">
+    <implementation package="core.model" className="Individual"/>
+  </agents>
+  <agents label="Link" ID="link" pluralLabel="Links">
+    <implementation package="core.model" className="Link"/>
+  </agents>
+</score:SContext>

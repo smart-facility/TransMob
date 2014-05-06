@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:tx="http://www.springframework.org/schema/tx" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+<!-- for some DAOs contain org.hibernate.SessionFactory and use getCurrentSession() 
+	function; for others contain JdbcTemplate and inject the DataSource and use 
+	it implicitly -->
+	<!-- the XML file contains 4 database setup -->
+	<bean id="sourcePostgres" destroy-method="close"
+		class="org.postgresql.jdbc2.optional.PoolingDataSource">
+		<property name="dataSourceName" value="postgres_TransportNSW"></property>
+		<property name="serverName" value="${postgres.hostname}:${postgres.port}"></property>		
+		<property name="databaseName" value="${postgres.database.core}"></property>
+		<property name="user" value="${postgres.user}"></property>
+		<property name="password" value="${postgres.password}"></property>
+		<property name="maxConnections" value="20"></property>
+	</bean>
+	<bean id="sourcePostgis" destroy-method="close"
+		class="org.postgresql.jdbc2.optional.PoolingDataSource">
+		<property name="dataSourceName" value="postgis"></property>
+		<property name="serverName" value="${postgres.hostname}:${postgres.port}"></property>
+		<property name="databaseName" value="${postgres.database.gis}"></property>
+		<property name="user" value="${postgres.user}"></property>
+		<property name="password" value="${postgres.password}"></property>
+		<property name="maxConnections" value="20"></property>
+	</bean>
+	<bean id="sourceConfiguration" destroy-method="close" class="org.postgresql.jdbc2.optional.PoolingDataSource">
+        <property name="dataSourceName" value="model_configuration"></property>
+        <property name="serverName" value="${postgres.hostname}:${postgres.port}"></property>
+        <property name="databaseName" value="${postgres.database.configuration}"></property>
+        <property name="user" value="${postgres.user}"></property>
+        <property name="password" value="${postgres.password}"></property>
+        <property name="maxConnections" value="20"></property>
+    </bean>
+    <bean id="sourceOutput" destroy-method="close" class="org.postgresql.jdbc2.optional.PoolingDataSource">
+    	<property name="dataSourceName" value="output"></property>
+        <property name="serverName" value="${postgres.hostname}:${postgres.port}"></property>
+        <property name="databaseName" value=""></property><!-- put the database name by editing the property attribute of value -->
+        <property name="user" value="${postgres.user}"></property>
+        <property name="password" value="${postgres.password}"></property>
+        <property name="maxConnections" value="20"></property>
+    </bean>
+
+    
+    <!-- PostGres datasource and DAOS -->
+    <!-- org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean 
+		is subclass of Spring's standard LocalSessionFactoryBean for Hibernate -->
+    <bean id="postgresSessionFactory" class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+        <property name="dataSource" ref="sourcePostgres" />
+        <property name="packagesToScan">
+            <list>
+                <value>hibernate.postgres</value>
+                <value>hibernate.postgres.lifeEvents</value>
+            </list>
+        </property>
+        <property name="hibernateProperties"><!-- used to override values in a Hibernate XML config file, "hibernate.dialet" -->
+            <props>
+                <prop key="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</prop>
+                <prop key="hibernate.show_sql">false</prop>
+                <prop key="hibernate.connection.driver_class">org.postgresql.Driver</prop>
+                <prop key="hibernate.jdbc.batch_size">50</prop>
+                <prop key="hibernate.cache.provider_class">net.sf.ehcache.hibernate.SingletonEhCacheProvider</prop>
+                <prop key="hibernate.cache.use_second_level_cache">true</prop>
+                <prop key="hibernate.cache.use_query_cache">true</prop>
+            </props>
+        </property>
+    </bean>
+
+	<tx:annotation-driven />
+	<!-- annotate your classes with the @Transactional 
+		annotation, add this line to your configuration -->
+	<bean id="transactionManagerPostgres"
+		class="org.springframework.jdbc.datasource.DataSourceTransactionManager"> <!-- this class is capable of working in any environment with any JDBC driver -->
+		<property name="dataSource" ref="sourcePostgres" /> <!-- JdbcTemplate use this strategy implicitly -->
+		<qualifier value="postgres" /> <!-- find the Classes with @Transactional("postgres") -->
+	</bean>
+
+	<bean id="activityHotspotsDAO" class="hibernate.postgres.ActivityHotspotsStreetBlockDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="dutyRateDAO" class="hibernate.postgres.DutyRateDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="facilityCategoryDAO" class="hibernate.postgres.FacilityCategoryDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="immigrationRateDAO" class="hibernate.postgres.ImmigrationRateDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="processLinkDAO" class="hibernate.postgres.ProcessLinkDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="weightsDAO" class="hibernate.postgres.WeightsDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="mortgageInterestRatesDao" class="hibernate.postgres.MortgageInterestRateDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="lifeEventsDAO" class="hibernate.postgres.lifeEvents.LifeEventsDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="htsDataDAO" class="hibernate.postgres.HtsDataDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="randomSeedDAO" class="hibernate.postgres.RandomSeedDao">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="transimsActivityLocationDAO" class="hibernate.postgres.TransimsActivityLocationDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="parkingCapacityDAO" class="hibernate.postgres.ParkingCapacityDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="parkingAccessDAO" class="hibernate.postgres.ParkingAccessDao">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="syntheticPopulationDAO" class="hibernate.postgres.SyntheticPopulationDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="intermediateSyntheticPopulationDAO" class="hibernate.postgres.IntermediateSyntheticPopulationDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="transimsHouseholdLocationDAO" class="hibernate.postgres.TransimsHouseholdLocationDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	<bean id="travelZoneDAO" class="hibernate.postgres.TravelZoneDataDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	
+	<!--  new dao file for NewTendbyBerdrDAO -->	
+	<bean id="newTendbyBerdrDAO" class="hibernate.postgres.NewTendbyBerdrDAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	
+	<bean id="JTW2006DAO" class="hibernate.postgres.JTW2006DAO">
+		<property name="sessionFactory" ref="postgresSessionFactory" />
+	</bean>
+	
+	
+	<!-- JDBCTemplate based DAOs -->
+	<bean id="dwellingCapacityDAO" class="jdbc.dao.DwellingCapacityDAO">
+		<property name="datasource" ref="sourcePostgres" />
+	</bean>
+
+	<!-- PostGIS datasource and DAOS -->
+    <bean id="postgisSessionFactory" class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+        <property name="dataSource" ref="sourcePostgis" />
+        <property name="packagesToScan">
+            <list>
+                <value>hibernate.postgis</value>
+            </list>
+        </property>
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.dialect">org.hibernatespatial.postgis.PostgisDialect</prop>
+                <prop key="hibernate.show_sql">false</prop>
+                <prop key="hibernate.connection.driver_class">org.postgresql.Driver</prop>
+                <prop key="hibernate.jdbc.batch_size">50</prop>
+                <prop key="hibernate.cache.provider_class">net.sf.ehcache.hibernate.SingletonEhCacheProvider</prop>
+                <prop key="hibernate.cache.use_second_level_cache">true</prop>
+                <prop key="hibernate.cache.use_query_cache">true</prop>
+            </props>
+        </property>
+    </bean>
+
+	<bean id="transactionManagerPostgis"
+		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="sourcePostgis" />
+		<qualifier value="postgis" />
+	</bean>
+
+
+    <bean id="facilitiesMappingDAO" class="hibernate.postgis.FacilitiesMappingDAO">
+        <property name="sessionFactory" ref="postgisSessionFactory"/>
+    </bean>
+    <bean id="streetsGMARandwickAndSurroundingDAO" class="hibernate.postgis.StreetsGMARandwickAndSurroundingDAO">
+        <property name="sessionFactory" ref="postgisSessionFactory"/>
+    </bean>
+    <bean id="travelZonesFacilitiesDAO" class="hibernate.postgis.TravelZonesFacilitiesDAO">
+        <property name="sessionFactory" ref="postgisSessionFactory"/>
+    </bean>
+    <bean id="travelZonesRandwickGSDAO" class="hibernate.postgis.TravelZonesRandwickGSDAO">
+        <property name="sessionFactory" ref="postgisSessionFactory"/>
+    </bean>
+
+
+
+	<!-- Output database -->
+	<bean id="transactionManagerOutput"
+		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="sourceOutput" />
+		<qualifier value="output" />
+	</bean>
+
+	<bean id="syntheticPopulationOutputDAO" class="jdbc.dao.SyntheticPopulationOutputDAO">
+		<property name="datasource" ref="sourceOutput" />
+	</bean>
+
+	<!-- Model Configuration datasource and DAOS -->
+	<bean id="configurationSessionFactory"
+		class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<property name="dataSource" ref="sourceConfiguration" />
+		<property name="packagesToScan">
+			<list>
+				<value>hibernate.configuration</value>
+			</list>
+		</property>
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</prop>
+				<prop key="hibernate.show_sql">true</prop>
+				<prop key="hibernate.connection.driver_class">org.postgresql.Driver</prop>
+				<prop key="hibernate.jdbc.batch_size">50</prop>
+				<prop key="hibernate.cache.provider_class">net.sf.ehcache.hibernate.SingletonEhCacheProvider
+				</prop>
+				<prop key="hibernate.cache.use_second_level_cache">true</prop>
+				<prop key="hibernate.cache.use_query_cache">true</prop>
+			</props>
+		</property>
+	</bean>
+
+	<bean id="transactionManagerConfiguration"
+		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="sourceConfiguration" />
+		<qualifier value="configuration" />
+	</bean>
+
+	<bean id="configurationDAO" class="hibernate.configuration.ConfigurationDAO">
+		<property name="sessionFactory" ref="configurationSessionFactory" />
+	</bean>
+	<bean id="runsDAO" class="hibernate.configuration.RunsDAO">
+		<property name="sessionFactory" ref="configurationSessionFactory" />
+	</bean>
+
+
+</beans>
