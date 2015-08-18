@@ -1,4 +1,4 @@
-#!/opt/local/bin/python
+#!/usr/bin/env python
 
 import csv, sys
 
@@ -110,5 +110,3 @@ for year in range(2006,2037):
         writer = csv.writer(csvfile)
         writer.writerows(tables[year])
     csvfile.close()
-
-
