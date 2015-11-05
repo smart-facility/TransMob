@@ -1,4 +1,17 @@
-#!/bin/bash
+#!/usr/bin/env bash
+
+# TransMob is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Lesser Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# TransMob is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Lesser Public License for more details.
+
+# You should have received a copy of the GNU Lesser Public License
+# along with TransMob.  If not, see <http://www.gnu.org/licenses/>.
 
 cp data/environment.properties.orig data/environment.properties
 
@@ -25,5 +38,3 @@ if [ $status -eq 0 ] ; then # only kick it off if the model is not already runni
 	nohup java -Xmx3072M -jar TransportNSW.jar &> /dev/null &
 	psql -h $postgres_hostname -U $postgres_user -p $postgres_port -d $postgres_database_configuration -w -c "UPDATE runs SET status=1 WHERE runs_id=$runsid" -A -t > /dev/null
 fi
-
-
